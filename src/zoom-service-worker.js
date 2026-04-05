@@ -23,14 +23,14 @@ chrome.tabs.onZoomChange.addListener((zoomChangeInfo) => {
   chrome.tabs.sendMessage(zoomChangeInfo.tabId, {
     type: "CLAUDE_ARC_ZOOM_CHANGED",
     zoom: zoomChangeInfo.newZoomFactor
-  }).catch(() => {});
+  }).catch(e => { /* tab may not have content script */ });
 });
 
 // Handle Extension Icon Click
 if (chrome.action) {
   chrome.action.onClicked.addListener((tab) => {
     if (tab && tab.id) {
-      chrome.tabs.sendMessage(tab.id, { type: "TOGGLE_INJECTED_PANEL", tabId: tab.id }).catch(()=>{});
+      chrome.tabs.sendMessage(tab.id, { type: "TOGGLE_INJECTED_PANEL", tabId: tab.id }).catch(e => { /* tab may not have content script */ });
     }
   });
 }
@@ -40,10 +40,10 @@ if (chrome.commands) {
   chrome.commands.onCommand.addListener((command, tab) => {
     if (command === "toggle-side-panel" || command === "_execute_action") {
       if (tab && tab.id) {
-        chrome.tabs.sendMessage(tab.id, { type: "TOGGLE_INJECTED_PANEL", tabId: tab.id }).catch(()=>{});
+        chrome.tabs.sendMessage(tab.id, { type: "TOGGLE_INJECTED_PANEL", tabId: tab.id }).catch(e => { /* tab may not have content script */ });
       } else {
         chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-          if (tabs[0]) chrome.tabs.sendMessage(tabs[0].id, { type: "TOGGLE_INJECTED_PANEL", tabId: tabs[0].id }).catch(()=>{});
+          if (tabs[0]) chrome.tabs.sendMessage(tabs[0].id, { type: "TOGGLE_INJECTED_PANEL", tabId: tabs[0].id }).catch(e => { /* tab may not have content script */ });
         });
       }
     }

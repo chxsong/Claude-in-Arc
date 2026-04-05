@@ -56,9 +56,7 @@
       squeezeStyle.textContent = "";
       return;
     }
-    
-    // Unified robust layout contraction. We use padding-right to softly squeeze the body,
-    // and explicitly limit max-width for known layout managers that ignore padding.
+
     squeezeStyle.textContent = `
       html[data-claude-panel-open] body {
         padding-right: ${width}px !important;
@@ -66,10 +64,20 @@
         max-width: 100vw !important;
       }
 
-      /* YouTube Header Fix */
+      /* YouTube */
       html[data-claude-panel-open] #masthead-container,
       html[data-claude-panel-open] #page-manager {
         width: calc(100% - ${width}px) !important;
+        max-width: calc(100% - ${width}px) !important;
+      }
+
+      /* Google Search */
+      html[data-claude-panel-open] #searchform,
+      html[data-claude-panel-open] #rcnt,
+      html[data-claude-panel-open] #appbar,
+      html[data-claude-panel-open] #hdtb-tls,
+      html[data-claude-panel-open] #top_nav,
+      html[data-claude-panel-open] .sfbg {
         max-width: calc(100% - ${width}px) !important;
       }
     `;
@@ -143,26 +151,6 @@
 
   function applyLayoutSqueeze(width) {
     if (!document.body) return;
-    
-    // Hardcore "Iframe Shell Wrapper" for Google
-    // Forces Google to truly resize by substituting the viewport with an inner iframe.
-    const isGoogle = window.location.hostname.includes("google.");
-    if (isGoogle) {
-      debugLog(`Applying hardcore Google iframe wrapper: ${width}px`);
-      squeezed = true;
-      let shell = document.getElementById("claude-google-shell");
-      if (!shell) {
-        // Hide existing DOM (leaving our hostEl which is attached to documentElement unaffected)
-        document.body.style.cssText = "margin: 0 !important; padding: 0 !important; overflow: hidden !important; font-size: 0 !important; color: transparent !important;";
-        // The literal "\n" artifact from the previous version, embedded in the layout and hidden by font-size/color transparent
-        document.body.innerHTML = `\n<iframe id="claude-google-shell" src="${location.href}" style="all: initial !important; width: 100vw !important; height: 100vh !important; border: none !important; margin: 0 !important; padding: 0 !important; display: block !important;"></iframe>`;
-        shell = document.getElementById("claude-google-shell");
-      }
-      // Trick Google by squeezing the internal iframe directly
-      shell.style.setProperty("width", `calc(100vw - ${width}px)`, "important");
-      return;
-    }
-    
     debugLog(`Applying layout squeeze: ${width}px`);
     squeezed = true;
     setViewportOverride(width);
@@ -173,15 +161,6 @@
   function removeLayoutSqueeze() {
     if (!squeezed) return;
     debugLog("Removing layout squeeze.");
-    
-    const isGoogle = window.location.hostname.includes("google.");
-    if (isGoogle) {
-      const shell = document.getElementById("claude-google-shell");
-      if (shell) shell.style.setProperty("width", "100%", "important");
-      squeezed = false;
-      return;
-    }
-    
     clearViewportOverride();
     squeezed = false;
     restoreFixedElements();
@@ -286,7 +265,7 @@
           updateZoom(response.zoom);
         }
       });
-    } catch(e){}
+    } catch(e) { debugLog("Initial zoom fetch failed:", e.message); }
   }
 
   function showPanel(tabId) {
@@ -313,8 +292,9 @@
   function savePanelState() {
     if (!extOk()) return;
     try {
-      chrome.storage.session.set({ [STORAGE_KEY]: { tabId: currentTabId, visible: panelVisible, width: panelWidth } }).catch(()=>{});
-    } catch(e) {}
+      chrome.storage.session.set({ [STORAGE_KEY]: { tabId: currentTabId, visible: panelVisible, width: panelWidth } })
+        .catch(e => console.warn("[Claude-Arc] Storage write failed:", e.message));
+    } catch(e) { console.warn("[Claude-Arc] Storage access failed:", e.message); }
   }
 
   window.addEventListener("message", (event) => {
@@ -324,10 +304,10 @@
         else showPanel(currentTabId);
       } else if (extOk()) {
         try {
-          chrome.runtime.sendMessage({ type: "CLAUDE_ARC_GET_TAB_ID" }).then(r => { 
+          chrome.runtime.sendMessage({ type: "CLAUDE_ARC_GET_TAB_ID" }).then(r => {
             if (r && r.tabId) { currentTabId = r.tabId; if (panelVisible) hidePanel(); else showPanel(r.tabId); }
-          }).catch(()=>{});
-        } catch(e) {}
+          }).catch(e => debugLog("Tab ID fetch failed:", e.message));
+        } catch(e) { debugLog("Runtime message failed:", e.message); }
       }
     }
   });
@@ -339,10 +319,10 @@
       if (currentTabId) { if (panelVisible) hidePanel(); else showPanel(currentTabId); }
       else if (extOk()) {
         try {
-          chrome.runtime.sendMessage({ type: "CLAUDE_ARC_GET_TAB_ID" }).then(r => { 
+          chrome.runtime.sendMessage({ type: "CLAUDE_ARC_GET_TAB_ID" }).then(r => {
             if (r && r.tabId) { currentTabId = r.tabId; if (panelVisible) hidePanel(); else showPanel(r.tabId); }
-          }).catch(e => { console.warn("Claude injected panel err:", e) });
-        } catch(e) {}
+          }).catch(e => debugLog("Tab ID fetch failed:", e.message));
+        } catch(e) { debugLog("Runtime message failed:", e.message); }
       }
     }
   }, true);
@@ -352,7 +332,7 @@
       chrome.storage.session.get(STORAGE_KEY).then(r => {
         const s = r[STORAGE_KEY];
         if (s?.visible) { panelWidth = s.width || PANEL_WIDTH_DEFAULT; showPanel(s.tabId); }
-      }).catch(()=>{});
-    } catch(e) {}
+      }).catch(e => debugLog("Session restore failed:", e.message));
+    } catch(e) { debugLog("Storage access failed:", e.message); }
   }
 })();

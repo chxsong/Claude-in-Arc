@@ -1,0 +1,18 @@
+{
+  "name": "claude-in-arc",
+  "version": "0.2.0",
+  "description": "Patch Anthropic's Claude Chrome Extension to work natively in Arc Browser",
+  "scripts": {
+    "install-ext": "node scripts/install.js",
+    "uninstall-ext": "node scripts/uninstall.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/realzachsmith/Claude-in-Arc.git"
+  },
+  "license": "MIT",
+  "keywords": ["claude", "arc-browser", "chrome-extension", "anthropic"]
+}
