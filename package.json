@@ -4,7 +4,8 @@
   "description": "Patch Anthropic's Claude Chrome Extension to work natively in Arc Browser",
   "scripts": {
     "install-ext": "node scripts/install.js",
-    "uninstall-ext": "node scripts/uninstall.js"
+    "uninstall-ext": "node scripts/uninstall.js",
+    "register-native-host": "node scripts/register-native-host.js"
   },
   "engines": {
     "node": ">=14"

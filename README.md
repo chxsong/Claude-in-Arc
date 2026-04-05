@@ -72,15 +72,53 @@ This is fixed in this version. The install script removes content verification h
 **Panel overlaps page content:**
 The panel uses CSS-based layout squeezing. If a specific site doesn't squeeze correctly, open an issue with the URL.
 
+## Features
+
+### Side Panel (Core)
+Toggle Claude's panel with **Cmd+E** on any page. The panel injects as a resizable iframe with CSS-based layout squeezing so page content reflows naturally.
+
+### Arc Folder Cross-Tab Collaboration
+Claude can see and interact with all tabs in the same Arc folder. The panel can:
+
+- **List group tabs** — see all tabs in the current folder with their titles and URLs
+- **Read page content** — extract text from any tab in the folder
+- **Read all group content** — pull content from every tab in the folder at once
+- **Navigate tabs** — open URLs in specific tabs
+- **Focus tabs** — switch to a specific tab
+- **Broadcast messages** — send data to all tabs in the folder
+
+This enables use cases like "summarize all the tabs in this folder" or "compare the content across these tabs."
+
+The content script can send these messages to the service worker:
+- `TAB_ORCH_LIST_GROUP_TABS` — list all tabs in the current Arc folder
+- `TAB_ORCH_GET_PAGE_CONTENT` — extract text from a specific tab
+- `TAB_ORCH_GET_ALL_GROUP_CONTENT` — extract text from all tabs in the folder
+- `TAB_ORCH_BROADCAST` — send a message to all tabs in the folder
+- `TAB_ORCH_NAVIGATE` — navigate a tab to a URL
+- `TAB_ORCH_FOCUS` — switch to a tab
+
+### Claude Desktop Connection
+Connect the extension to Claude Desktop via Native Messaging for local capabilities.
+
+**Setup:**
+```bash
+node scripts/register-native-host.js
+```
+This registers the native messaging host for Arc (and Chrome if not already registered). Requires Claude Desktop to be installed.
+
+The content script can send these messages:
+- `NATIVE_BRIDGE_STATUS` — check connection status
+- `NATIVE_BRIDGE_CONNECT` — establish connection to Claude Desktop
+- `NATIVE_BRIDGE_DISCONNECT` — close the connection
+- `NATIVE_BRIDGE_CHECK` — ping Claude Desktop to verify it's running
+- `NATIVE_BRIDGE_SEND` — send a message to Claude Desktop
+
 ## How It Works
 
-The toolkit patches three layers into the Claude extension:
+The toolkit patches five modules into the Claude extension's service worker:
 
-1. **Service Worker** (`zoom-service-worker.js`): Manages zoom levels and routes panel toggle commands
-2. **Content Script** (`claude-panel-injector.js`): Injects a resizable side panel iframe into every page
-3. **Main World Script** (`viewport-override.js`): Overrides viewport width APIs so websites think the browser is narrower, triggering correct responsive layouts
-
-## TODO
-
-- [ ] **Arc Folder Cross-Tab Collaboration:** Tab orchestration within Arc's folder structure
-- [ ] **Claude Desktop Connection:** Native Messaging link to Claude Code CLI and Claude Desktop
+1. **Zoom Manager** (`zoom-service-worker.js`): Manages zoom levels and routes panel toggle commands
+2. **Panel Injector** (`claude-panel-injector.js`): Injects a resizable side panel iframe into every page
+3. **Viewport Override** (`viewport-override.js`): Overrides viewport width APIs so websites think the browser is narrower
+4. **Tab Orchestrator** (`tab-orchestrator.js`): Cross-tab collaboration within Arc folders via `chrome.tabGroups`
+5. **Native Bridge** (`native-bridge.js`): Native Messaging connection to Claude Desktop

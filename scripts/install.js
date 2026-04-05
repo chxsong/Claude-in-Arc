@@ -141,6 +141,8 @@ if (!fs.existsSync(assetsDir)) {
 fs.copyFileSync(path.join(srcDir, 'claude-panel-injector.js'), path.join(assetsDir, 'claude-panel-injector.js'));
 fs.copyFileSync(path.join(srcDir, 'viewport-override.js'), path.join(assetsDir, 'viewport-override.js'));
 fs.copyFileSync(path.join(srcDir, 'zoom-service-worker.js'), path.join(assetsDir, 'zoom-service-worker.js'));
+fs.copyFileSync(path.join(srcDir, 'tab-orchestrator.js'), path.join(assetsDir, 'tab-orchestrator.js'));
+fs.copyFileSync(path.join(srcDir, 'native-bridge.js'), path.join(assetsDir, 'native-bridge.js'));
 
 // ─── Patch manifest.json ───
 console.log('Patching manifest.json...');
@@ -171,6 +173,8 @@ if (!existingScripts.includes("assets/viewport-override.js")) manifest.content_s
 manifest.permissions = manifest.permissions || [];
 if (!manifest.permissions.includes("scripting")) manifest.permissions.push("scripting");
 if (!manifest.permissions.includes("tabs")) manifest.permissions.push("tabs");
+if (!manifest.permissions.includes("tabGroups")) manifest.permissions.push("tabGroups");
+if (!manifest.permissions.includes("nativeMessaging")) manifest.permissions.push("nativeMessaging");
 
 // Add web_accessible_resources
 manifest.web_accessible_resources = manifest.web_accessible_resources || [];
@@ -198,8 +202,14 @@ if (fs.existsSync(swLoaderPath)) {
   let swLoader = fs.readFileSync(swLoaderPath, 'utf8');
   if (!swLoader.includes('zoom-service-worker.js')) {
     swLoader += "\nimport './assets/zoom-service-worker.js';\n";
-    fs.writeFileSync(swLoaderPath, swLoader);
   }
+  if (!swLoader.includes('tab-orchestrator.js')) {
+    swLoader += "import './assets/tab-orchestrator.js';\n";
+  }
+  if (!swLoader.includes('native-bridge.js')) {
+    swLoader += "import './assets/native-bridge.js';\n";
+  }
+  fs.writeFileSync(swLoaderPath, swLoader);
 } else {
   console.error('service-worker-loader.js not found! The background script structure may have changed.');
 }
