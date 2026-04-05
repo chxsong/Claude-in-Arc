@@ -1,0 +1,6538 @@
+{
+  "++Pasr1YW3": [
+    {
+      "type": 0,
+      "value": "PNG (LOSSLESS, LARGE)"
+    }
+  ],
+  "+0zv6gS/c6": [
+    {
+      "type": 0,
+      "value": "IMAGE"
+    }
+  ],
+  "+3JNZUiU+F": [
+    {
+      "type": 0,
+      "value": "THIS IS AN EXPERIMENTAL MODE THAT IS STILL BEING EVALUATED. MONITOR CLAUDE CLOSELY WHILE USING IT. AVOID SENSITIVE WORKFLOWS."
+    }
+  ],
+  "+DB/t6WTki": [
+    {
+      "type": 0,
+      "value": "WHAT WAS UNSATISFYING ABOUT THIS RESPONSE?"
+    }
+  ],
+  "+G68MpAlMw": [
+    {
+      "type": 0,
+      "value": "USED PREVIEW"
+    }
+  ],
+  "+K+Ivzv8BD": [
+    {
+      "type": 0,
+      "value": "WAIT FOR CLAUDE TO FINISH"
+    }
+  ],
+  "+N2w6QNwn2": [
+    {
+      "type": 0,
+      "value": "SEE SOMETHING CLAUDE SHOULD KNOW ABOUT? SEND A SCREENSHOT WITH A MESSAGE."
+    }
+  ],
+  "+hhq5pP98n": [
+    {
+      "type": 0,
+      "value": "DESCRIBE WHAT WORKED WELL AND WHAT COULD BE IMPROVED ABOUT THE SUGGESTIONS..."
+    }
+  ],
+  "+lsh8v//5g": [
+    {
+      "type": 0,
+      "value": "SCROLL RIGHT"
+    }
+  ],
+  "+vVZ/G11Zg": [
+    {
+      "type": 0,
+      "value": "CONNECT"
+    }
+  ],
+  "+yoqHvrSyZ": [
+    {
+      "type": 0,
+      "value": "DEBUG SETTINGS"
+    }
+  ],
+  "/06n65wN4J": [
+    {
+      "type": 0,
+      "value": "THIS IS A BETA FEATURE"
+    }
+  ],
+  "/5FoUj4Va+": [
+    {
+      "type": 0,
+      "value": "WHEN NAVIGATING BETWEEN THESE SITES"
+    }
+  ],
+  "/6iExgDC34": [
+    {
+      "type": 0,
+      "value": "INVALID TIME FORMAT"
+    }
+  ],
+  "/AyXW9R0Le": [
+    {
+      "type": 0,
+      "value": "TOO MANY UPLOAD ATTEMPTS. WAIT A MOMENT AND TRY AGAIN."
+    }
+  ],
+  "/CBk9UV8iS": [
+    {
+      "type": 0,
+      "value": "NEW PERMISSIONS REQUIRED"
+    }
+  ],
+  "/GXAvJ98t+": [
+    {
+      "type": 0,
+      "value": "RUNNING COMMAND"
+    }
+  ],
+  "/Ma3teJf9/": [
+    {
+      "type": 0,
+      "value": "CLAUDE CONTENT"
+    }
+  ],
+  "/VnDMl81rh": [
+    {
+      "type": 0,
+      "value": "OTHER"
+    }
+  ],
+  "/cUj2zoCtz": [
+    {
+      "type": 0,
+      "value": "READ CONSOLE MESSAGES"
+    }
+  ],
+  "/clOBUs/wZ": [
+    {
+      "type": 0,
+      "value": "WEEKLY"
+    }
+  ],
+  "/fdYJU5SMC": [
+    {
+      "type": 0,
+      "value": "PLEASE CHECK THE FILE NAME AND TRY AGAIN."
+    }
+  ],
+  "/hgypvsrtJ": [
+    {
+      "type": 1,
+      "value": "size"
+    },
+    {
+      "type": 0,
+      "value": " KB"
+    }
+  ],
+  "/iWSNCU/BH": [
+    {
+      "type": 0,
+      "value": "MY SHORTCUTS"
+    }
+  ],
+  "/jNwaAHdg9": [
+    {
+      "type": 0,
+      "value": "YOUR MESSAGE WILL EXCEED THE MAXIMUM NUMBER OF FILES ALLOWED PER MESSAGE. CONSIDER REMOVING SOME OF YOUR FILES OR ADDING FILES OVER SEVERAL MESSAGES."
+    }
+  ],
+  "/ly4NRQA83": [
+    {
+      "type": 0,
+      "value": "LOADED SKILL"
+    }
+  ],
+  "/mCoauj3Ws": [
+    {
+      "type": 0,
+      "value": "UPLOADED FILE IS TOO LARGE. TRY UPLOADING A SMALLER PART OF THE DOCUMENT, OR COPY/PASTING AN EXCERPT FROM THE FILE."
+    }
+  ],
+  "/oSRHC9/hb": [
+    {
+      "type": 0,
+      "value": "SCREENSHOT THUMBNAIL"
+    }
+  ],
+  "/vpJ4PBekj": [
+    {
+      "type": 0,
+      "value": "DEV TESTING"
+    }
+  ],
+  "04w/1piSXb": [
+    {
+      "type": 0,
+      "value": "SUBMITTING THIS REPORT WILL SEND THE ENTIRE CURRENT CONVERSATION TO ANTHROPIC FOR FUTURE IMPROVEMENTS TO OUR MODELS. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "LEARN MORE"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "06tSNl9YfF": [
+    {
+      "type": 0,
+      "value": "SCROLL UP"
+    }
+  ],
+  "07CU16lPVb": [
+    {
+      "type": 0,
+      "value": "PRESS "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " KEYS: "
+    },
+    {
+      "type": 1,
+      "value": "summary"
+    }
+  ],
+  "0A0qMvsWV4": [
+    {
+      "type": 0,
+      "value": "DRAFTING PLAN..."
+    }
+  ],
+  "0BMfJOry+3": [
+    {
+      "type": 0,
+      "value": "SAVE API KEY"
+    }
+  ],
+  "0HUNCOubmp": [
+    {
+      "type": 0,
+      "value": "MAKING EDITS..."
+    }
+  ],
+  "0TR0PDvKax": [
+    {
+      "type": 0,
+      "value": "FEBRUARY"
+    }
+  ],
+  "0YIsn/UOa0": [
+    {
+      "type": 0,
+      "value": "STOP MESSAGE"
+    }
+  ],
+  "0ZuuhwjU4n": [
+    {
+      "type": 0,
+      "value": "SEARCHED"
+    }
+  ],
+  "0kOCGtB3eN": [
+    {
+      "type": 0,
+      "value": "THE FILE “"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "” COULD NOT BE FOUND."
+    }
+  ],
+  "0nCKXihfO0": [
+    {
+      "type": 0,
+      "value": "WHY ARE YOU REPORTING THIS?"
+    }
+  ],
+  "13OdRQYanm": [
+    {
+      "type": 0,
+      "value": "ILLEGAL GOODS"
+    }
+  ],
+  "13YOiAKDfM": [
+    {
+      "type": 0,
+      "value": "MICROPHONE ACCESS BLOCKED"
+    }
+  ],
+  "14+jcDS33B": [
+    {
+      "type": 0,
+      "value": "CREATED "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " FILES"
+    }
+  ],
+  "1IMB/Q+/I9": [
+    {
+      "type": 0,
+      "value": "TRY ON DESKTOP"
+    }
+  ],
+  "1M/MackCDO": [
+    {
+      "type": 0,
+      "value": "SEARCHED "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " PATTERNS"
+    }
+  ],
+  "1bEhiGnHtL": [
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": " THUMBNAIL"
+    }
+  ],
+  "1bxKaj0pKU": [
+    {
+      "type": 0,
+      "value": "UPLOAD FAILED DUE TO A NETWORK ISSUE. CHECK YOUR INTERNET CONNECTION AND TRY AGAIN."
+    }
+  ],
+  "1cBbdp1n7Q": [
+    {
+      "type": 0,
+      "value": "YOU SHOULD OVERSEE CLAUDE WHEN IT IS IN THIS MODE. YOU ARE FULLY RESPONSIBLE FOR ALL RISKS ASSOCIATED WITH PERMISSION-LESS CLAUDE."
+    }
+  ],
+  "1e/v371QIT": [
+    {
+      "type": 0,
+      "value": "OPEN ARTIFACT"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    }
+  ],
+  "1if5aMN6aR": [
+    {
+      "type": 0,
+      "value": "DESKTOP SCREENSHOTS"
+    }
+  ],
+  "1mTUAYpy10": [
+    {
+      "type": 0,
+      "value": "IMAGE.PNG"
+    }
+  ],
+  "1nV3NuMwiG": [
+    {
+      "type": 0,
+      "value": "FAILED TO FETCH"
+    }
+  ],
+  "2/2yg+qAwp": [
+    {
+      "type": 0,
+      "value": "ADD"
+    }
+  ],
+  "242T21lCRb": [
+    {
+      "type": 0,
+      "value": "DELETED "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " FILES"
+    }
+  ],
+  "26Cn0oifmR": [
+    {
+      "type": 0,
+      "value": "URL IS REQUIRED"
+    }
+  ],
+  "29gmtdw6e5": [
+    {
+      "type": 0,
+      "value": "ERROR: "
+    },
+    {
+      "type": 1,
+      "value": "error"
+    }
+  ],
+  "2Gct3kUo/o": [
+    {
+      "type": 0,
+      "value": "BROWSER AUTOMATION"
+    }
+  ],
+  "2H4p4zLO4P": [
+    {
+      "type": 0,
+      "value": "ANTHROPIC API KEY"
+    }
+  ],
+  "2IdpXcmaL/": [
+    {
+      "type": 0,
+      "value": "UNABLE TO OPEN FILE."
+    }
+  ],
+  "2IiG1AGCna": [
+    {
+      "type": 0,
+      "value": "WE VALUE USER REPORTS TO UPHOLD OUR PLATFORM’S INTEGRITY AND IMPROVE OUR ABILITY TO ENFORCE OUR USAGE POLICY. UNLESS YOU OPT OUT, REPORTS MAY BE USED TO TRAIN MODELS FOR USE BY OUR TRUST & SAFETY TEAM, CONSISTENT WITH ANTHROPIC’S SAFETY MISSION. OPT OUT OF THIS USE BY CHANGING THE TOGGLE ABOVE."
+    }
+  ],
+  "2KtWqT5Nl+": [
+    {
+      "type": 0,
+      "value": "INTERNAL"
+    }
+  ],
+  "2Of7XEfvDu": [
+    {
+      "type": 0,
+      "value": "TRY QUICK MODE - OUR EXPERIMENTAL FAST BROWSING EXPERIENCE."
+    }
+  ],
+  "2QDdAh+Gbf": [
+    {
+      "type": 0,
+      "value": "THIS CONVERSATION IS TOO LONG TO CONTINUE. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "START A NEW CHAT"
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 0,
+      "value": ", OR REMOVE SOME TOOLS TO FREE UP SPACE."
+    }
+  ],
+  "2ZM4JNJI7K": [
+    {
+      "type": 0,
+      "value": "YOUR SESSION HAS EXPIRED"
+    }
+  ],
+  "2epHWDjRXo": [
+    {
+      "type": 0,
+      "value": "TURKISH (WINDOWS-1254)"
+    }
+  ],
+  "2iPAwj1yCC": [
+    {
+      "type": 0,
+      "value": "LOG IN TO CLAUDE TO USE OR CUSTOMIZE THIS ARTIFACT. NO ACCOUNT? YOU CAN CREATE ONE FOR FREE."
+    }
+  ],
+  "2jjdVzJX0c": [
+    {
+      "type": 0,
+      "value": "UPLOAD FILES"
+    }
+  ],
+  "2kBzPQ9Wsi": [
+    {
+      "type": 0,
+      "value": "THIS SITE REQUIRES PERMISSION FOR EACH ACTION."
+    }
+  ],
+  "2kIOIQ+IMe": [
+    {
+      "type": 0,
+      "value": "LIMITS WILL RESET "
+    },
+    {
+      "type": 1,
+      "value": "day"
+    },
+    {
+      "type": 0,
+      "value": " AT "
+    },
+    {
+      "type": 1,
+      "value": "resetsAt"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "2mMJRvsAg1": [
+    {
+      "type": 0,
+      "value": "CONNECTORS"
+    }
+  ],
+  "2mmEfFQIze": [
+    {
+      "type": 0,
+      "value": "COURT ORDER"
+    }
+  ],
+  "2n9PvXg1wT": [
+    {
+      "type": 0,
+      "value": "ENABLE MICROPHONE ACCESS TO USE YOUR BROWSER'S SPEECH-TO-TEXT FUNCTIONALITY FOR VOICE NARRATION DURING WORKFLOW RECORDING"
+    }
+  ],
+  "2uu7KJJCOH": [
+    {
+      "type": 0,
+      "value": "STEP "
+    },
+    {
+      "type": 1,
+      "value": "currentStep"
+    },
+    {
+      "type": 0,
+      "value": " OF "
+    },
+    {
+      "type": 1,
+      "value": "totalCount"
+    }
+  ],
+  "2x8xsy/VJk": [
+    {
+      "type": 0,
+      "value": "CURRENT SHORTCUT: "
+    },
+    {
+      "type": 1,
+      "value": "shortcut"
+    }
+  ],
+  "2yTW8KQyIr": [
+    {
+      "type": 0,
+      "value": "THIS ALLOWS CLAUDE TO TAKE ANY ACTION ON THE INTERNET."
+    }
+  ],
+  "3HqwPnSzes": [
+    {
+      "type": 0,
+      "value": "RAN TERMINAL"
+    }
+  ],
+  "3KYfO78h3Q": [
+    {
+      "type": 0,
+      "value": "PUT CLAUDE TO WORK IN YOUR BROWSER..."
+    }
+  ],
+  "3KbdFvbeRu": [
+    {
+      "type": 0,
+      "value": "TEST NOTIFICATIONS"
+    }
+  ],
+  "3RpkNRAyPc": [
+    {
+      "type": 0,
+      "value": "AN ERROR OCCURRED WHILE TRYING TO RUN THE GENERATED ARTIFACT."
+    }
+  ],
+  "3VG8rbxa4v": [
+    {
+      "type": 0,
+      "value": "AN UNKNOWN ERROR OCCURRED"
+    }
+  ],
+  "3h3ag+S9Qb": [
+    {
+      "type": 0,
+      "value": "CLICK LOCATION:"
+    }
+  ],
+  "3hk4yMCf5v": [
+    {
+      "type": 0,
+      "value": "OR "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "CONTACT SALES"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " IF YOU WOULD BE INTERESTED IN UPGRADING TO A PAID VERSION OF CLAUDE."
+    }
+  ],
+  "3jVWWj+aj4": [
+    {
+      "type": 0,
+      "value": "E.G., SUMMARIZE"
+    }
+  ],
+  "3kbIhS7KZS": [
+    {
+      "type": 0,
+      "value": "UNTITLED"
+    }
+  ],
+  "3y9DGgura7": [
+    {
+      "type": 0,
+      "value": "RESUME"
+    }
+  ],
+  "4+310Bnuvz": [
+    {
+      "type": 0,
+      "value": "SEARCHED THE WEB"
+    }
+  ],
+  "438y6E4IUP": [
+    {
+      "type": 0,
+      "value": "SHOW TRACE IDS"
+    }
+  ],
+  "477I0ggSYe": [
+    {
+      "type": 0,
+      "value": "LOW"
+    }
+  ],
+  "47FYwba+bI": [
+    {
+      "type": 0,
+      "value": "CANCEL"
+    }
+  ],
+  "481hO7jC9z": [
+    {
+      "type": 0,
+      "value": "LOADING PERMISSIONS..."
+    }
+  ],
+  "4AhXwwJN7S": [
+    {
+      "type": 0,
+      "value": "CUSTOMIZE THE INSTRUCTIONS GIVEN TO CLAUDE FOR BROWSER AUTOMATION TASKS."
+    }
+  ],
+  "4Bom+nABM6": [
+    {
+      "type": 0,
+      "value": "WEB FETCH"
+    }
+  ],
+  "4VcUGIGtNu": [
+    {
+      "type": 0,
+      "value": "GREEK (WINDOWS-1253)"
+    }
+  ],
+  "4XdZthEtcv": [
+    {
+      "type": 0,
+      "value": "IF YOU ARE REPORTING THE CONTENT AS VIOLATING OUR POLICIES (INCLUDING OUR TERMS OR USAGE POLICY), PLEASE DESCRIBE IN DETAIL WHY YOU BELIEVE THE IDENTIFIED CONTENT IS IN VIOLATION OF OUR POLICIES, WITH SPECIFIC CITATIONS TO OUR POLICIES WHEREVER POSSIBLE."
+    }
+  ],
+  "4aIpD3RYB/": [
+    {
+      "type": 0,
+      "value": "CHROME EXTENSION WITH CONNECTED APPS"
+    }
+  ],
+  "4c3LCpKv39": [
+    {
+      "type": 0,
+      "value": "THIS CONVERSATION CAN'T BE COMPACTED ANY FURTHER. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "START A NEW CHAT"
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 0,
+      "value": " TO CONTINUE."
+    }
+  ],
+  "4jbxHKfdQJ": [
+    {
+      "type": 0,
+      "value": "LOAD SIMPLE CONVERSATION"
+    }
+  ],
+  "4l6vz1/eZ5": [
+    {
+      "type": 0,
+      "value": "COPY"
+    }
+  ],
+  "4opisC4xNg": [
+    {
+      "type": 0,
+      "value": "MODEL SELECTOR, "
+    },
+    {
+      "type": 1,
+      "value": "model"
+    },
+    {
+      "type": 0,
+      "value": " SELECTED"
+    }
+  ],
+  "53DiPrdI5r": [
+    {
+      "type": 0,
+      "value": "GLOBAL INSTRUCTIONS"
+    }
+  ],
+  "5CvLCHBlfQ": [
+    {
+      "type": 0,
+      "value": "CREATED "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "5KajyzHSXj": [
+    {
+      "type": 0,
+      "value": "SEARCHING THE WEB"
+    }
+  ],
+  "5Ocu9uCFLz": [
+    {
+      "type": 0,
+      "value": "LIMIT REACHED. THIS ARTIFACT USES CLAUDE FOR RESPONSES. TRY AGAIN WHEN THE MESSAGE LIMIT RESETS."
+    }
+  ],
+  "5SGbHZD5HC": [
+    {
+      "type": 0,
+      "value": "MICROPHONE ACCESS HAS BEEN DENIED. TO ENABLE, CHANGE MICROPHONE TO 'ALLOW' IN "
+    },
+    {
+      "type": 1,
+      "value": "chromeSettingsLink"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "5U/pkz4osv": [
+    {
+      "type": 0,
+      "value": "AUTOMATE YOUR REPETITIVE TASKS"
+    }
+  ],
+  "5YeZ4eSCdp": [
+    {
+      "type": 0,
+      "value": "\""
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "\" IS TOO LARGE. IMAGES MUST BE UNDER "
+    },
+    {
+      "type": 1,
+      "value": "limit"
+    },
+    {
+      "type": 0,
+      "value": "MB. YOU CAN RESIZE OR COMPRESS IT AND TRY AGAIN."
+    }
+  ],
+  "5cTjpUYBW8": [
+    {
+      "type": 0,
+      "value": "TEST CONVERSATIONS"
+    }
+  ],
+  "5mDrlUu7+N": [
+    {
+      "type": 0,
+      "value": "CAN'T ACCESS THIS PAGE"
+    }
+  ],
+  "5n05oJw5CD": [
+    {
+      "type": 0,
+      "value": "SCREENSHOT WITH CLICK LOCATION"
+    }
+  ],
+  "5oZeuus9Dz": [
+    {
+      "type": 0,
+      "value": "API KEY MODE"
+    }
+  ],
+  "5q3qC0sC3r": [
+    {
+      "type": 0,
+      "value": "DOWNLOAD"
+    }
+  ],
+  "5qKeNV67+8": [
+    {
+      "type": 0,
+      "value": "FETCHING FROM "
+    },
+    {
+      "type": 1,
+      "value": "hostname"
+    }
+  ],
+  "5qaD7sDVxu": [
+    {
+      "type": 0,
+      "value": "REJECTED"
+    }
+  ],
+  "62nsdyMyIO": [
+    {
+      "type": 0,
+      "value": "RETRY"
+    }
+  ],
+  "64Zy5GdKR8": [
+    {
+      "type": 0,
+      "value": "CUSTOMIZE IS NOT AVAILABLE FOR TEAMS"
+    }
+  ],
+  "6GZsc+GLF3": [
+    {
+      "type": 0,
+      "value": "STRUCTURED API TOOLS ARE ENABLED FOR GOOGLE DOCS, SHEETS, SLIDES, GMAIL, AND CALENDAR"
+    }
+  ],
+  "6Ovg0gmxY3": [
+    {
+      "type": 0,
+      "value": "PLEASE USE THIS "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "FORM"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " TO REPORT COPYRIGHT INFRINGEMENT."
+    }
+  ],
+  "6RGlahDX2/": [
+    {
+      "type": 0,
+      "value": "MODEL OVERRIDE"
+    }
+  ],
+  "6Ss5IpaxlL": [
+    {
+      "type": 0,
+      "value": "ALLOW THIS ACTION"
+    }
+  ],
+  "6UuyKKMuCv": [
+    {
+      "type": 0,
+      "value": "READ NETWORK REQUESTS"
+    }
+  ],
+  "6VB5leIcQ2": [
+    {
+      "type": 0,
+      "value": "ENABLE QUICK MODE"
+    }
+  ],
+  "6XFO/Cw7Ld": [
+    {
+      "type": 0,
+      "value": "APPROVED"
+    }
+  ],
+  "6baLmoYEwS": [
+    {
+      "type": 0,
+      "value": "BROWSE, CLICK, AND TYPE"
+    }
+  ],
+  "6jDabxQKDj": [
+    {
+      "type": 0,
+      "value": "GIVE FEEDBACK"
+    }
+  ],
+  "6kGP03sC6R": [
+    {
+      "type": 0,
+      "value": "READ PAGE (INTERACTIVE)"
+    }
+  ],
+  "6pwz+Cv63v": [
+    {
+      "type": 0,
+      "value": "RECORD WORKFLOW"
+    }
+  ],
+  "6x5YwESShd": [
+    {
+      "type": 0,
+      "value": "WAITING FOR PERMISSION REQUEST..."
+    }
+  ],
+  "6zfn3n4+te": [
+    {
+      "type": 0,
+      "value": "ANOTHER EXTENSION YOU'RE USING IS PREVENTING CLAUDE IN CHROME FROM OPERATING. TURN OFF EXTENSIONS SUCH AS "
+    },
+    {
+      "type": 1,
+      "value": "extensionName"
+    },
+    {
+      "type": 0,
+      "value": " TO USE CLAUDE IN YOUR BROWSER."
+    }
+  ],
+  "7/3PxH3ltB": [
+    {
+      "type": 0,
+      "value": "NO SHORTCUT CONFIGURED"
+    }
+  ],
+  "76+sVeXWuh": [
+    {
+      "type": 0,
+      "value": "IF PROVIDED, WE MAY CONTACT YOU FOR ADDITIONAL INFORMATION OR UPDATES ON THIS REPORT"
+    }
+  ],
+  "7DuHI9a2sT": [
+    {
+      "type": 1,
+      "value": "serverName"
+    },
+    {
+      "type": 0,
+      "value": ": "
+    },
+    {
+      "type": 1,
+      "value": "toolDisplayName"
+    }
+  ],
+  "7FAwwkYilD": [
+    {
+      "type": 0,
+      "value": "SHORTCUTS"
+    }
+  ],
+  "7NXXhvNk8g": [
+    {
+      "type": 0,
+      "value": "CONTINUE AND DOWNLOAD"
+    }
+  ],
+  "7W74V502ms": [
+    {
+      "type": 0,
+      "value": "YOU HAVE ALLOWED CLAUDE TO TAKE ALL ACTIONS (BROWSE, CLICK, TYPE) ON THESE SITES."
+    }
+  ],
+  "7Zr5grAGuN": [
+    {
+      "type": 0,
+      "value": "NO SHORTCUTS FOUND FOR \"/"
+    },
+    {
+      "type": 1,
+      "value": "searchTerm"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "7qYF66c9/s": [
+    {
+      "type": 0,
+      "value": "GOOGLE DOC"
+    }
+  ],
+  "7wJz7kSrLT": [
+    {
+      "type": 0,
+      "value": "PLAN REJECTED"
+    }
+  ],
+  "7wuY3W3ryd": [
+    {
+      "type": 0,
+      "value": "ALLOW FOR ALL CHATS"
+    }
+  ],
+  "83Jawm3PD0": [
+    {
+      "type": 0,
+      "value": "TEACH CLAUDE YOUR WORKFLOW"
+    }
+  ],
+  "83itGujdwB": [
+    {
+      "type": 0,
+      "value": "ALLOW MICROPHONE ACCESS"
+    }
+  ],
+  "83rtGTKgfN": [
+    {
+      "type": 0,
+      "value": "SENT PERMISSION NOTIFICATION"
+    }
+  ],
+  "8Aa/HbeJSY": [
+    {
+      "type": 0,
+      "value": "VIOLATION OF TERMS OR USAGE POLICY"
+    }
+  ],
+  "8NQAeTqGOl": [
+    {
+      "type": 0,
+      "value": "DRAFTING ARTIFACT..."
+    }
+  ],
+  "8QvDObQuPZ": [
+    {
+      "type": 0,
+      "value": "FOLLOW A PLAN"
+    }
+  ],
+  "8Rj4WgXPcB": [
+    {
+      "type": 0,
+      "value": "COPY MESSAGE"
+    }
+  ],
+  "8SygarDkaz": [
+    {
+      "type": 0,
+      "value": "CANNOT SEND"
+    }
+  ],
+  "8Y2q4SsIpY": [
+    {
+      "type": 0,
+      "value": "CREATE YOUR FIRST SHORTCUT TO GET STARTED"
+    }
+  ],
+  "8YQCrT7GkS": [
+    {
+      "type": 0,
+      "value": "TARGET TAB ID:"
+    }
+  ],
+  "8ZaktIWXig": [
+    {
+      "type": 0,
+      "value": "\""
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "\" EXCEEDS THE "
+    },
+    {
+      "type": 1,
+      "value": "limit"
+    },
+    {
+      "type": 0,
+      "value": "-PIXEL DIMENSION LIMIT. YOU CAN RESIZE IT AND TRY AGAIN."
+    }
+  ],
+  "8amcCGO7ya": [
+    {
+      "type": 1,
+      "value": "size"
+    },
+    {
+      "type": 0,
+      "value": " MB"
+    }
+  ],
+  "8jAKYtgD1r": [
+    {
+      "type": 0,
+      "value": "CLOSE PREVIEW"
+    }
+  ],
+  "8laklrhkfX": [
+    {
+      "type": 0,
+      "value": "TEXT TO BE TYPED:"
+    }
+  ],
+  "8yJb2QLQAo": [
+    {
+      "type": 0,
+      "value": "ANOTHER CLAUDE IS USING THIS TAB"
+    }
+  ],
+  "9+DdtuCqLw": [
+    {
+      "type": 0,
+      "value": "NEXT"
+    }
+  ],
+  "99OdS35+yZ": [
+    {
+      "type": 0,
+      "value": "PLANNING"
+    }
+  ],
+  "99ghrgx5j8": [
+    {
+      "type": 0,
+      "value": "FILE PREVIEWS ARE NOT SUPPORTED FOR THIS FILE TYPE"
+    }
+  ],
+  "9JcWWPAZoB": [
+    {
+      "type": 0,
+      "value": "FILES OF THE FOLLOWING "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "FORMAT IS"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "FORMATS ARE"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " NOT SUPPORTED: "
+    },
+    {
+      "type": 1,
+      "value": "formats"
+    }
+  ],
+  "9NeTb00/cM": [
+    {
+      "type": 0,
+      "value": "FORMATTING MAY BE INCONSISTENT FROM SOURCE"
+    }
+  ],
+  "9W9AYgC9Qk": [
+    {
+      "type": 0,
+      "value": "REPORT ARTIFACT"
+    }
+  ],
+  "9a+SKtXKhe": [
+    {
+      "type": 0,
+      "value": "SCREENSHOT"
+    }
+  ],
+  "9anUl9Q74Z": [
+    {
+      "type": 0,
+      "value": "THIS IS A BETA FEATURE WITH UNIQUE RISKS DISTINCT FROM OTHER CLAUDE PRODUCTS. YOU ARE FULLY RESPONSIBLE FOR ALL RISKS ASSOCIATED WITH USE OF THIS PRODUCT."
+    }
+  ],
+  "9fXfauBZpW": [
+    {
+      "type": 0,
+      "value": "READING "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "9hU0zUNoF+": [
+    {
+      "type": 0,
+      "value": "ALL WIDGETS ARE CURRENTLY VISIBLE"
+    }
+  ],
+  "9qJKQKXInl": [
+    {
+      "type": 0,
+      "value": "PIN CLAUDE FOR QUICK ACCESS"
+    }
+  ],
+  "9qWxtxsjAd": [
+    {
+      "type": 0,
+      "value": "GENERATING SHORTCUT..."
+    }
+  ],
+  "9t1iivhk67": [
+    {
+      "type": 0,
+      "value": "CONFIGURE"
+    }
+  ],
+  "A+vguREwVx": [
+    {
+      "type": 0,
+      "value": "CLICK TO OPEN IN NEW TAB"
+    }
+  ],
+  "A/lLjOnjl0": [
+    {
+      "type": 0,
+      "value": "GENERATING..."
+    }
+  ],
+  "A1D4wkEiQy": [
+    {
+      "type": 0,
+      "value": "IMAGE TOO LARGE"
+    }
+  ],
+  "AC8r0aGOfS": [
+    {
+      "type": 0,
+      "value": "REMOVE "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "AFTxeGB4qO": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " LINE"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " LINES"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "AG0gBvRduy": [
+    {
+      "type": 0,
+      "value": "TRIPLE-CLICK"
+    }
+  ],
+  "ARbpHolQpg": [
+    {
+      "type": 0,
+      "value": "GET A QUOTE INSTEAD"
+    }
+  ],
+  "ATy/CxAxS4": [
+    {
+      "type": 0,
+      "value": "COULD NOT LOAD FILE PREVIEW"
+    }
+  ],
+  "AU53gP2rAv": [
+    {
+      "type": 0,
+      "value": "DRAG PATH:"
+    }
+  ],
+  "AVGRJcgMbU": [
+    {
+      "type": 0,
+      "value": "UNABLE TO ACCESS FILE IN VIRTUAL ENVIRONMENT."
+    }
+  ],
+  "AetNADx5Bh": [
+    {
+      "type": 0,
+      "value": "BROWSE"
+    }
+  ],
+  "ArrUF7Kfqw": [
+    {
+      "type": 0,
+      "value": "FIND: \""
+    },
+    {
+      "type": 1,
+      "value": "query"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "AtUwwM+FWM": [
+    {
+      "type": 0,
+      "value": "CLEAR HISTORY AND KEEP SUMMARY"
+    }
+  ],
+  "AvzR+WuOGF": [
+    {
+      "type": 0,
+      "value": "FILE COULD NOT BE OPENED."
+    }
+  ],
+  "AyGauyc55S": [
+    {
+      "type": 0,
+      "value": "LOGIN"
+    }
+  ],
+  "AzO4h7b149": [
+    {
+      "type": 0,
+      "value": "CREATE SHORTCUT"
+    }
+  ],
+  "B2ROp8L071": [
+    {
+      "type": 0,
+      "value": "NO SITES HAVE BEEN APPROVED YET"
+    }
+  ],
+  "B5amdqFEtT": [
+    {
+      "type": 0,
+      "value": "NAVIGATE TO "
+    },
+    {
+      "type": 1,
+      "value": "url"
+    }
+  ],
+  "B5h0vjkrIg": [
+    {
+      "type": 0,
+      "value": "SEARCHED DRIVE"
+    }
+  ],
+  "B8MRsI/UjW": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " ITEM"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " ITEMS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "B9+OriKQKb": [
+    {
+      "type": 0,
+      "value": "TEST COMPLETION NOTIFICATION"
+    }
+  ],
+  "BATKcMm/a2": [
+    {
+      "type": 0,
+      "value": "IMPROVE"
+    }
+  ],
+  "BAeUW3tSiP": [
+    {
+      "type": 0,
+      "value": "NO DIRECT MANIPULATION OF MESSAGE STATE"
+    }
+  ],
+  "BHppLJelWo": [
+    {
+      "type": 0,
+      "value": "SHARE THE CONVERSATION"
+    }
+  ],
+  "BHzoQdwFnu": [
+    {
+      "type": 0,
+      "value": "RETURNING TO YOUR WORKFLOW..."
+    }
+  ],
+  "BWpuKlRSA1": [
+    {
+      "type": 0,
+      "value": "UPDATE"
+    }
+  ],
+  "BfcxKxig7S": [
+    {
+      "type": 0,
+      "value": "RISKS"
+    }
+  ],
+  "BgSBBhOmOQ": [
+    {
+      "type": 0,
+      "value": "ACCESS SHARED DATA"
+    }
+  ],
+  "Bjp5vOloME": [
+    {
+      "type": 0,
+      "value": "OTHER ILLEGAL OR UNLAWFUL CONTENT"
+    }
+  ],
+  "BpjonN0qoV": [
+    {
+      "type": 0,
+      "value": "PRESS KEY: "
+    },
+    {
+      "type": 1,
+      "value": "keys"
+    }
+  ],
+  "Bt8FNxmBoj": [
+    {
+      "type": 0,
+      "value": "5"
+    }
+  ],
+  "BwIZY+bHrv": [
+    {
+      "type": 0,
+      "value": "SYSTEM PROMPT"
+    }
+  ],
+  "C8CF1Igl7Q": [
+    {
+      "type": 0,
+      "value": "CLAUDE NEEDS MICROPHONE ACCESS TO HEAR YOUR VOICE NARRATION WHILE YOU DEMONSTRATE WORKFLOWS. WHEN PROMPTED, SELECT "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "ALLOW WHILE VISITING THE SITE"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " TO ENABLE VOICE NARRATION."
+    }
+  ],
+  "C9scsm6HrW": [
+    {
+      "type": 0,
+      "value": "FIND ELEMENT"
+    }
+  ],
+  "CTEIoG7qEy": [
+    {
+      "type": 0,
+      "value": "1024PX"
+    }
+  ],
+  "CZn1nvWlQF": [
+    {
+      "type": 0,
+      "value": "EXPAND MESSAGE"
+    }
+  ],
+  "CcjsWsUTac": [
+    {
+      "type": 0,
+      "value": "CONFIGURE THE KEYBOARD SHORTCUT USED TO OPEN CLAUDE IN CHROME."
+    }
+  ],
+  "Cd4uvaQFKD": [
+    {
+      "type": 0,
+      "value": "RECENT CHATS"
+    }
+  ],
+  "CeT7NBzUtl": [
+    {
+      "type": 0,
+      "value": "CONVERTING..."
+    }
+  ],
+  "Cf7tH0HDeT": [
+    {
+      "type": 0,
+      "value": "FAILED TO UPLOAD “"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "”. THE FILE FORMAT MAY NOT BE SUPPORTED OR THE FILE MAY BE CORRUPTED."
+    }
+  ],
+  "CnmTFdmsRf": [
+    {
+      "type": 0,
+      "value": "ENTER YOUR ANTHROPIC API KEY"
+    }
+  ],
+  "CvPTXPZIw8": [
+    {
+      "type": 0,
+      "value": "THE FILE FORMAT MAY NOT BE SUPPORTED OR THE FILE MAY BE CORRUPTED."
+    }
+  ],
+  "CyQ6so5Xsy": [
+    {
+      "type": 0,
+      "value": "SCROLL TO ELEMENT"
+    }
+  ],
+  "D0NxeIKdoR": [
+    {
+      "type": 0,
+      "value": "SEXUALLY EXPLICIT CONTENT"
+    }
+  ],
+  "D3idYvSLF9": [
+    {
+      "type": 0,
+      "value": "SETTINGS"
+    }
+  ],
+  "D5uO7q2GqB": [
+    {
+      "type": 0,
+      "value": "MAX IMAGE DIMENSION"
+    }
+  ],
+  "D7jDzqECHA": [
+    {
+      "type": 0,
+      "value": "SCREENSHOT HISTORY"
+    }
+  ],
+  "DHwwKwuaCR": [
+    {
+      "type": 0,
+      "value": "THE DOCUMENT YOU UPLOADED IS PASSWORD PROTECTED. PLEASE REMOVE THE PASSWORD AND TRY AGAIN."
+    }
+  ],
+  "DLwrrxRpu/": [
+    {
+      "type": 1,
+      "value": "currentModelName"
+    },
+    {
+      "type": 0,
+      "value": "'S SAFETY FILTERS FLAGGED THIS CHAT. DUE TO ITS ADVANCED CAPABILITIES, "
+    },
+    {
+      "type": 1,
+      "value": "currentModelName"
+    },
+    {
+      "type": 0,
+      "value": " HAS ADDITIONAL SAFETY MEASURES THAT OCCASIONALLY PAUSE NORMAL, SAFE CHATS. WE'RE WORKING TO IMPROVE THIS. CONTINUE YOUR CHAT WITH "
+    },
+    {
+      "type": 1,
+      "value": "fallbackDisplayName"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "type": 1,
+      "value": "sendFeedbackLink"
+    },
+    {
+      "type": 0,
+      "value": ", OR "
+    },
+    {
+      "type": 1,
+      "value": "learnMoreLink"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "DNlRq2D8lw": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " STEP"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " STEPS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "stepCount"
+    }
+  ],
+  "DR5hG1vSxp": [
+    {
+      "type": 0,
+      "value": "ALLOW ACTIONS ON THESE SITES"
+    }
+  ],
+  "DcOPulvEDu": [
+    {
+      "type": 0,
+      "value": "SKIP ALL PERMISSIONS ACROSS THE INTERNET?"
+    }
+  ],
+  "Ddc1eapnSI": [
+    {
+      "type": 0,
+      "value": "CLAUDE CAN TAKE SCREENSHOTS WHEN RESPONDING. FOR PRIVACY, AVOID USING CLAUDE ON SENSITIVE SITES LIKE HEALTH AND DATING PLATFORMS."
+    }
+  ],
+  "DflDZ51Hia": [
+    {
+      "type": 0,
+      "value": "CLAUDE IS ACTIVE IN THIS TAB GROUP"
+    }
+  ],
+  "Dh7mYgVZea": [
+    {
+      "type": 0,
+      "value": "YOU HAVEN'T SET YOUR NOTIFICATION PREFERENCE YET"
+    }
+  ],
+  "DqTQOpG2Me": [
+    {
+      "type": 0,
+      "value": "ONCE"
+    }
+  ],
+  "Ds0W5o1uCY": [
+    {
+      "type": 0,
+      "value": "ADD AN IMAGE"
+    }
+  ],
+  "Duoty8G6d7": [
+    {
+      "type": 0,
+      "value": "SELECT FILE ENCODING"
+    }
+  ],
+  "DvXQDnOGPc": [
+    {
+      "type": 0,
+      "value": "MALICIOUS ACTORS CAN HIDE INSTRUCTIONS IN WEBSITES, EMAILS, AND DOCUMENTS THAT TRICK AI INTO TAKING HARMFUL ACTIONS WITHOUT YOUR KNOWLEDGE. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "LEARN MORE"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "E8uSl+czLg": [
+    {
+      "type": 0,
+      "value": "PROMPT IS REQUIRED"
+    }
+  ],
+  "ECOs1wUY9P": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "ENABLE MICROPHONE"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " FOR VOICE NARRATION. RECORDING WORKFLOW WITHOUT SPEECH."
+    }
+  ],
+  "EIRohXEK72": [
+    {
+      "type": 0,
+      "value": "THIS MODEL ISN’T AVAILABLE RIGHT NOW. YOU CAN SWITCH TO ANOTHER MODEL TO CONTINUE USING CLAUDE."
+    }
+  ],
+  "EWtBrIlAAR": [
+    {
+      "type": 0,
+      "value": "YOUR MESSAGE WILL EXCEED THE "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "LENGTH LIMIT"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " FOR THIS CHAT. TRY SHORTENING YOUR MESSAGE "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "OR STARTING A NEW CONVERSATION."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    }
+  ],
+  "ErBqL1OKdE": [
+    {
+      "type": 0,
+      "value": "PERMISSION DENIED. YOU CAN CHANGE THIS IN YOUR BROWSER SETTINGS."
+    }
+  ],
+  "EsGNUZDLMi": [
+    {
+      "type": 0,
+      "value": "YOU CAN MANAGE PERMISSIONS ON THE CLAUDE "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "SETTINGS"
+        }
+      ],
+      "type": 8,
+      "value": "settingsLink"
+    },
+    {
+      "type": 0,
+      "value": " PAGE."
+    }
+  ],
+  "Estqhf8MFY": [
+    {
+      "type": 0,
+      "value": "ENABLE TO USE STRUCTURED API TOOLS FOR GOOGLE WORKSPACE"
+    }
+  ],
+  "Et/uvuRBba": [
+    {
+      "type": 0,
+      "value": "THE CODE ITSELF MAY STILL WORK. TO USE IT, YOU’LL NEED A DEVELOPMENT SETUP WITH THESE LIBRARIES INSTALLED."
+    }
+  ],
+  "EuK7yRq90M": [
+    {
+      "type": 0,
+      "value": "OCTOBER"
+    }
+  ],
+  "Evnb9+Woth": [
+    {
+      "type": 0,
+      "value": "FETCHING FAILED FOR ONE OF THE URLS. PLEASE TRY AGAIN."
+    }
+  ],
+  "F1XW1ZAxYF": [
+    {
+      "type": 0,
+      "value": "EXPAND TO TEXT"
+    }
+  ],
+  "F3l7yioCLQ": [
+    {
+      "type": 0,
+      "value": "CLAUDE CAN RESEARCH ACROSS SITES, COMPARE INFORMATION, OR HANDLE MULTI-TAB TASKS."
+    }
+  ],
+  "FGCv00cdfW": [
+    {
+      "type": 0,
+      "value": "GIVE POSITIVE FEEDBACK"
+    }
+  ],
+  "FHNYsg5qSG": [
+    {
+      "type": 0,
+      "value": "API CONFIGURATION (INTERNAL)"
+    }
+  ],
+  "FIwcYDeyIC": [
+    {
+      "type": 0,
+      "value": "ONE OR MORE FILE UPLOADS HAVE FAILED. PLEASE TRY AGAIN."
+    }
+  ],
+  "FKVVjBA/2e": [
+    {
+      "type": 0,
+      "value": "TURN ON VOICE NARRATION"
+    }
+  ],
+  "FMvJL9TokP": [
+    {
+      "type": 0,
+      "value": "UNKNOWN DOMAIN"
+    }
+  ],
+  "FPK1O1X8S1": [
+    {
+      "type": 0,
+      "value": "MICROPHONE PERMISSION NEEDED"
+    }
+  ],
+  "FWGJ6cHLeQ": [
+    {
+      "type": 0,
+      "value": "ENABLE YOUR MICROPHONE TO NARRATE AS YOU DEMONSTRATE THE WORKFLOW. CLAUDE WILL LEARN THE PROCESS AND REPEAT IT FOR YOU."
+    }
+  ],
+  "FtDimnJZ6A": [
+    {
+      "type": 0,
+      "value": "IF YOU ARE REPORTING THE CONTENT AS ILLEGAL/UNLAWFUL, PLEASE DESCRIBE IN DETAIL WHY YOU BELIEVE THE IDENTIFIED CONTENT IS ILLEGAL/UNLAWFUL, CITING SPECIFIC PROVISIONS OF LAW WHEREVER POSSIBLE."
+    }
+  ],
+  "G/yZLul6P1": [
+    {
+      "type": 0,
+      "value": "REMOVE"
+    }
+  ],
+  "G1lejdsk5p": [
+    {
+      "type": 0,
+      "value": "YOUR MESSAGE WILL EXCEED THE "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "LENGTH LIMIT"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " FOR THIS CHAT. TRY ATTACHING FEWER OR SMALLER FILES "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "OR STARTING A NEW CONVERSATION."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    }
+  ],
+  "GKyNESE2Te": [
+    {
+      "type": 0,
+      "value": "LOCAL (LOCALHOST:8080)"
+    }
+  ],
+  "GhHvcgGjy9": [
+    {
+      "type": 0,
+      "value": "FETCH "
+    },
+    {
+      "type": 1,
+      "value": "url"
+    }
+  ],
+  "Gi2DHUQgB8": [
+    {
+      "type": 0,
+      "value": "CLAUDE IS WORKING..."
+    }
+  ],
+  "Gma+ACm5J+": [
+    {
+      "type": 0,
+      "value": "REQUESTING..."
+    }
+  ],
+  "GsEWS8NyxJ": [
+    {
+      "type": 0,
+      "value": "STARTING UP..."
+    }
+  ],
+  "Gvxoji2HqE": [
+    {
+      "type": 0,
+      "value": "NAME IS REQUIRED"
+    }
+  ],
+  "GzejKCwLFI": [
+    {
+      "type": 0,
+      "value": "NOTIFICATIONS ARE TURNED OFF"
+    }
+  ],
+  "HAlOn1ZsuY": [
+    {
+      "type": 0,
+      "value": "NAME"
+    }
+  ],
+  "HEgmPRO+5B": [
+    {
+      "type": 0,
+      "value": "I DID NOTHING TODAY YET"
+    }
+  ],
+  "HG0Hu8xIQA": [
+    {
+      "type": 0,
+      "value": "THE GENERATED ARTIFACT USES LIBRARIES WE DON’T SUPPORT:"
+    }
+  ],
+  "HGdgPPM2Ry": [
+    {
+      "type": 0,
+      "value": "EXPLAIN"
+    }
+  ],
+  "HLzAq2Ombw": [
+    {
+      "type": 0,
+      "value": "STEPS ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "HO5Vl6oXRx": [
+    {
+      "type": 0,
+      "value": "EFFORT IS NOT AVAILABLE FOR THE SELECTED MODEL."
+    }
+  ],
+  "HnoThnsyPP": [
+    {
+      "type": 0,
+      "value": "E.G., \"WORK LAPTOP\", \"PERSONAL CHROME\""
+    }
+  ],
+  "HrYfy0gEA+": [
+    {
+      "type": 0,
+      "value": "SHOW CONTENT"
+    }
+  ],
+  "Hz3uf5n9Ga": [
+    {
+      "type": 0,
+      "value": "CLAUDE IS AI AND CAN MAKE MISTAKES. PLEASE DOUBLE-CHECK RESPONSES."
+    }
+  ],
+  "I4AiMx3dsz": [
+    {
+      "type": 0,
+      "value": "CLEAR CHAT"
+    }
+  ],
+  "I61gA1Whgv": [
+    {
+      "type": 0,
+      "value": "HOLD KEY: "
+    },
+    {
+      "type": 1,
+      "value": "keys"
+    }
+  ],
+  "IB3vNKlUdQ": [
+    {
+      "type": 0,
+      "value": "GET YOUR API KEY FROM "
+    },
+    {
+      "type": 1,
+      "value": "link"
+    }
+  ],
+  "ICmjyWFB52": [
+    {
+      "type": 0,
+      "value": "\""
+    },
+    {
+      "type": 1,
+      "value": "transcript"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "IFWIi9rs1t": [
+    {
+      "type": 0,
+      "value": "WHAT TYPE OF ISSUE DO YOU WISH TO REPORT? (OPTIONAL)"
+    }
+  ],
+  "IKoTMcBJ0H": [
+    {
+      "type": 0,
+      "value": "SETTINGS SAVED."
+    }
+  ],
+  "ILxlzNXiro": [
+    {
+      "type": 0,
+      "value": "CHINESE (GB18030)"
+    }
+  ],
+  "IV5WU06zbs": [
+    {
+      "type": 0,
+      "value": "SHORTCUT UPDATED"
+    }
+  ],
+  "IYBR/J+nuA": [
+    {
+      "type": 0,
+      "value": "DROP FILES HERE TO ADD TO CHAT"
+    }
+  ],
+  "IbrSk1x1M4": [
+    {
+      "type": 0,
+      "value": "LEARN"
+    }
+  ],
+  "IfE0if3ytt": [
+    {
+      "type": 0,
+      "value": "SEARCHING"
+    }
+  ],
+  "IjBl43b/I/": [
+    {
+      "type": 0,
+      "value": "ALWAYS ALLOW ACTIONS ON THIS SITE"
+    }
+  ],
+  "InWqysQtIQ": [
+    {
+      "type": 0,
+      "value": "OPTIONAL"
+    }
+  ],
+  "Iu0/PCYXfB": [
+    {
+      "type": 0,
+      "value": "UNINSTALL THIS VERSION AFTER INSTALLING THE NEW ONE TO AVOID CONFLICTS."
+    }
+  ],
+  "Iufn28MeR1": [
+    {
+      "type": 0,
+      "value": "HIDE STEPS"
+    }
+  ],
+  "IvNiHZimcV": [
+    {
+      "type": 0,
+      "value": "ONBOARDING ILLUSTRATION"
+    }
+  ],
+  "IzCVhGdYVc": [
+    {
+      "type": 0,
+      "value": "MORE OPTIONS"
+    }
+  ],
+  "J1RykLtxKE": [
+    {
+      "type": 0,
+      "value": "DESKTOP SCREENSHOT"
+    }
+  ],
+  "J90k8xwxXE": [
+    {
+      "type": 0,
+      "value": "CUSTOMIZE ARTIFACT"
+    }
+  ],
+  "JQOIE896U3": [
+    {
+      "type": 0,
+      "value": "REMOVE "
+    },
+    {
+      "type": 1,
+      "value": "widgetName"
+    },
+    {
+      "type": 0,
+      "value": " WIDGET"
+    }
+  ],
+  "JR7SJGPDTb": [
+    {
+      "type": 0,
+      "value": "YOU’VE HIT YOUR LIMIT FOR CLAUDE MESSAGES."
+    }
+  ],
+  "JU2kK1J3jY": [
+    {
+      "type": 0,
+      "value": "ERROR RUNNING ARTIFACT"
+    }
+  ],
+  "JXdbo8Vnlw": [
+    {
+      "type": 0,
+      "value": "DONE"
+    }
+  ],
+  "JdFy/2Te9C": [
+    {
+      "type": 0,
+      "value": "TEST DATA IS SAVED TO CHROME.STORAGE.LOCAL"
+    }
+  ],
+  "JfUPjhqwuq": [
+    {
+      "type": 0,
+      "value": "ALLOW MICROPHONE ACCESS"
+    }
+  ],
+  "Jiou5flQWh": [
+    {
+      "type": 0,
+      "value": "TURN OFF VOICE NARRATION"
+    }
+  ],
+  "JnxkKMhrqm": [
+    {
+      "type": 0,
+      "value": "ADD LINK"
+    }
+  ],
+  "JpNRENzqW2": [
+    {
+      "type": 0,
+      "value": "LEARN MORE"
+    }
+  ],
+  "K3r6DQW7h+": [
+    {
+      "type": 0,
+      "value": "DELETE"
+    }
+  ],
+  "K8niogJNQY": [
+    {
+      "type": 0,
+      "value": "APPROVE PLAN"
+    }
+  ],
+  "KAhM8UkR3A": [
+    {
+      "type": 0,
+      "value": "NO MICROPHONE FOUND. PLEASE CONNECT A MICROPHONE AND TRY AGAIN."
+    }
+  ],
+  "KBxpgB8JHb": [
+    {
+      "type": 0,
+      "value": "COPYRIGHT INFRINGEMENT"
+    }
+  ],
+  "KCmGxpLNuq": [
+    {
+      "type": 0,
+      "value": "INVALID SCREENSHOT FORMAT"
+    }
+  ],
+  "KD5FDGzyMz": [
+    {
+      "type": 0,
+      "value": "LOOKS LIKE YOU HAVE TOO MANY CHATS GOING. PLEASE CLOSE A TAB TO CONTINUE."
+    }
+  ],
+  "KGu4aumO2M": [
+    {
+      "type": 0,
+      "value": "FOUND FILES"
+    }
+  ],
+  "KL/gQqGUU1": [
+    {
+      "type": 0,
+      "value": "SCHEDULE TASK"
+    }
+  ],
+  "KLmcsO5yco": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " SCHEDULED"
+    }
+  ],
+  "KN7zKn8z4F": [
+    {
+      "type": 0,
+      "value": "ERROR"
+    }
+  ],
+  "KSgHlAYtgG": [
+    {
+      "type": 0,
+      "value": "THE SAME ATTACHMENT WAS ALREADY ADDED EARLIER. CLAUDE SEES THE FULL CONVERSATION WHEN REPLYING, SO THERE'S NO NEED TO RE-UPLOAD."
+    }
+  ],
+  "KduIvQDYMp": [
+    {
+      "type": 0,
+      "value": "CLAUDE TAKES ACTIONS WITHOUT ASKING FOR PERMISSION"
+    }
+  ],
+  "KtjIeAooNb": [
+    {
+      "type": 0,
+      "value": "CREATE GIF"
+    }
+  ],
+  "KzO0j4cGtg": [
+    {
+      "type": 0,
+      "value": "WE COULDN’T CONNECT TO CLAUDE. PLEASE CHECK YOUR NETWORK CONNECTION AND TRY AGAIN."
+    }
+  ],
+  "LI4B/nslxi": [
+    {
+      "type": 1,
+      "value": "progress"
+    },
+    {
+      "type": 0,
+      "value": "%"
+    }
+  ],
+  "LMDbiRxyDQ": [
+    {
+      "type": 0,
+      "value": "CAN YOU EXPLAIN THIS SECTION TO ME IN MORE DETAIL?"
+    }
+  ],
+  "LStwu4n1yT": [
+    {
+      "type": 0,
+      "value": "ACT WITHOUT ASKING"
+    }
+  ],
+  "LVG1dX6B8u": [
+    {
+      "type": 0,
+      "value": "RAN "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " COMMANDS"
+    }
+  ],
+  "LWiiXht89U": [
+    {
+      "type": 0,
+      "value": "CLICK TO VIEW FULL SCREENSHOT"
+    }
+  ],
+  "LWt6+WHYht": [
+    {
+      "type": 0,
+      "value": "DESCRIBE WHAT YOU WOULD LIKE TO UPDATE"
+    }
+  ],
+  "LcKcJVZQc7": [
+    {
+      "type": 0,
+      "value": "(CLICK TO EXPAND)"
+    }
+  ],
+  "Li1hTENvGa": [
+    {
+      "type": 0,
+      "value": "STOPPED "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " COMMANDS"
+    }
+  ],
+  "Lkp0F6AHBT": [
+    {
+      "type": 0,
+      "value": "PRESENTING FILE(S)..."
+    }
+  ],
+  "LkvG7lWavW": [
+    {
+      "type": 0,
+      "value": "ADD SHORTCUT"
+    }
+  ],
+  "Luu9/7cA+i": [
+    {
+      "type": 0,
+      "value": "DEVELOPMENT TESTING TOOLS"
+    }
+  ],
+  "M88GeEDB7r": [
+    {
+      "type": 0,
+      "value": "YOU’VE REACHED YOUR LIMIT FOR "
+    },
+    {
+      "type": 1,
+      "value": "resourceType"
+    },
+    {
+      "type": 0,
+      "value": " UPLOADS. PLEASE TRY AGAIN LATER."
+    }
+  ],
+  "MBYn4HHrFu": [
+    {
+      "type": 0,
+      "value": "WE HAD AN UNEXPECTED BILLING ERROR, PLEASE "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "CONTACT SUPPORT."
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "MDebIUeu03": [
+    {
+      "type": 0,
+      "value": "ARTIFACTS ARE CREATED BY OTHER USERS AND AREN’T VERIFIED BY ANTHROPIC. ONLY DOWNLOAD FILES YOU TRUST."
+    }
+  ],
+  "MM/ULko3j1": [
+    {
+      "type": 0,
+      "value": "EXTEND WHAT YOU CAN DO IN CHROME"
+    }
+  ],
+  "MM7OHMBA9j": [
+    {
+      "type": 0,
+      "value": "DELETED A FILE"
+    }
+  ],
+  "MMLgwunXx4": [
+    {
+      "type": 0,
+      "value": "STEP 1: DOWNLOAD THE ANT-ONLY VERSION"
+    }
+  ],
+  "MVQTRBWYud": [
+    {
+      "type": 0,
+      "value": "READ A FILE"
+    }
+  ],
+  "MY4mOkEIwY": [
+    {
+      "type": 0,
+      "value": "THIS WILL EXPORT YOUR CONVERSATION AS A JSON FILE AND AN ANIMATED GIF. PLEASE ENSURE THE CONVERSATION DOES NOT CONTAIN SENSITIVE DATA LIKE PERSONALLY IDENTIFIABLE INFORMATION (PII) BEFORE SHARING WITH OTHERS."
+    }
+  ],
+  "MZEyK3VcKi": [
+    {
+      "type": 0,
+      "value": "NO RESULT AVAILABLE"
+    }
+  ],
+  "MbvF6K3PJd": [
+    {
+      "type": 0,
+      "value": "FAILED TO UPLOAD FILE "
+    },
+    {
+      "type": 1,
+      "value": "filename"
+    },
+    {
+      "type": 0,
+      "value": ". PROJECT KNOWLEDGE EXCEEDS MAXIMUM. REMOVE FILES TO CONTINUE."
+    }
+  ],
+  "MihpzFiE1j": [
+    {
+      "type": 0,
+      "value": "OPEN SIDE PANEL"
+    }
+  ],
+  "Mmft+LxUWy": [
+    {
+      "type": 0,
+      "value": "WAIT"
+    }
+  ],
+  "MtIcfsBa83": [
+    {
+      "type": 0,
+      "value": "EXECUTE JAVASCRIPT"
+    }
+  ],
+  "N2IrpMDHDB": [
+    {
+      "type": 0,
+      "value": "CONFIRM"
+    }
+  ],
+  "N6hq8IFfkj": [
+    {
+      "type": 0,
+      "value": "READ PAGE (ALL)"
+    }
+  ],
+  "NAidKbB0vi": [
+    {
+      "type": 0,
+      "value": "NOTIFICATIONS"
+    }
+  ],
+  "NDV5MqT9ww": [
+    {
+      "type": 0,
+      "value": "OPTIONS"
+    }
+  ],
+  "NFf/0A3zf+": [
+    {
+      "type": 0,
+      "value": "YOUR APPROVED SITES"
+    }
+  ],
+  "NGWumBAsap": [
+    {
+      "type": 0,
+      "value": "JULY"
+    }
+  ],
+  "NMMfOTMPPN": [
+    {
+      "type": 0,
+      "value": "FILE TYPE IS NOT SUPPORTED"
+    }
+  ],
+  "NSJdoMrS0C": [
+    {
+      "type": 0,
+      "value": "YOU CAN NOW USE VOICE NARRATION WHEN RECORDING WORKFLOWS. TO DISABLE, GO TO "
+    },
+    {
+      "type": 1,
+      "value": "chromeSettingsLink"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "NcDXiSfIPe": [
+    {
+      "type": 0,
+      "value": "ARTIFACT FAILED TO LOAD"
+    }
+  ],
+  "NdLqN5Z3bE": [
+    {
+      "type": 0,
+      "value": "THE TITLE OF THE DOCUMENT YOU UPLOADED IS TOO LONG, OR INCLUDES FORBIDDEN CHARACTERS (<, >, :, \", |, ?, *, \\, /, OR UNICODE CHARACTERS 0-31)"
+    }
+  ],
+  "NeNSPm4fj3": [
+    {
+      "type": 0,
+      "value": "MAX TIME TO WAIT FOR THE PAGE TO FINISH LOADING AFTER COMMANDS EXECUTE. SET TO 0 TO DISABLE THE SETTLE WAIT ENTIRELY."
+    }
+  ],
+  "NhwAlG8X9c": [
+    {
+      "type": 0,
+      "value": "TOOL ID:"
+    }
+  ],
+  "NiWg8afl9N": [
+    {
+      "type": 0,
+      "value": "SELECT ELEMENT..."
+    }
+  ],
+  "NkHG2fB0cW": [
+    {
+      "type": 1,
+      "value": "clientLabel"
+    },
+    {
+      "type": 0,
+      "value": " WANTS TO CONNECT"
+    }
+  ],
+  "NltzMwsCKS": [
+    {
+      "type": 0,
+      "value": "SAVED TASKS"
+    }
+  ],
+  "NrQ1CUE4v0": [
+    {
+      "type": 0,
+      "value": "LIMITS WILL RESET AT "
+    },
+    {
+      "type": 1,
+      "value": "resetsAt"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "NtMBSeGOHp": [
+    {
+      "type": 0,
+      "value": "SHOW TOOL RESULT DETAILS"
+    }
+  ],
+  "NwhjMfjigc": [
+    {
+      "type": 0,
+      "value": "I’M STILL HERE"
+    }
+  ],
+  "Nz/hHlPMGy": [
+    {
+      "type": 0,
+      "value": "1280PX"
+    }
+  ],
+  "O+2FnUTQ6S": [
+    {
+      "type": 0,
+      "value": "GET THE ANT-ONLY EXTENSION"
+    }
+  ],
+  "O2hMrU1FI9": [
+    {
+      "type": 0,
+      "value": "EDITING "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "O2tb5KUxpc": [
+    {
+      "type": 0,
+      "value": "ALLOW ONCE"
+    }
+  ],
+  "O52AcmzoE8": [
+    {
+      "type": 0,
+      "value": "VIEWED A FILE"
+    }
+  ],
+  "O6+/CIgqLR": [
+    {
+      "type": 0,
+      "value": "3"
+    }
+  ],
+  "OKhRC6eWRw": [
+    {
+      "type": 0,
+      "value": "SHARE"
+    }
+  ],
+  "ON3IdRBcc4": [
+    {
+      "type": 0,
+      "value": "HOW IT WORKS:"
+    }
+  ],
+  "OQeBGoBcLP": [
+    {
+      "type": 0,
+      "value": "ADD WIDGET"
+    }
+  ],
+  "OSbNg+1qqF": [
+    {
+      "type": 0,
+      "value": "GOOD RESPONSE"
+    }
+  ],
+  "OW9bZgoog6": [
+    {
+      "type": 0,
+      "value": "HOLD KEY"
+    }
+  ],
+  "OarD7TkDBO": [
+    {
+      "type": 0,
+      "value": "CLOSE BLOCKED SITE"
+    }
+  ],
+  "Oi9LAY6C5H": [
+    {
+      "type": 0,
+      "value": "RENAME CHAT"
+    }
+  ],
+  "OxHjV2p0tw": [
+    {
+      "type": 0,
+      "value": "QUALITY NOT APPLICABLE FOR PNG (LOSSLESS)"
+    }
+  ],
+  "P0iWYFMJG2": [
+    {
+      "type": 0,
+      "value": "CREATING PLAN..."
+    }
+  ],
+  "PJRWsHQ+YN": [
+    {
+      "type": 0,
+      "value": "URL MUST USE HTTP OR HTTPS"
+    }
+  ],
+  "PMPIVxGCgO": [
+    {
+      "type": 0,
+      "value": "URL MUST START WITH HTTP:// OR HTTPS://"
+    }
+  ],
+  "PSsQUhf180": [
+    {
+      "type": 0,
+      "value": "MAKE CHANGES"
+    }
+  ],
+  "PecM9GAXxD": [
+    {
+      "type": 0,
+      "value": "CLEAR TEST DATA"
+    }
+  ],
+  "PhoFlacbDZ": [
+    {
+      "type": 0,
+      "value": "SCROLL TO: \""
+    },
+    {
+      "type": 1,
+      "value": "text"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "Pl7Qm8W+aN": [
+    {
+      "type": 0,
+      "value": "TEXT EXTRACTION FAILED FOR ONE OF THE URLS."
+    }
+  ],
+  "PlBReUqqzW": [
+    {
+      "type": 0,
+      "value": "LOG OUT"
+    }
+  ],
+  "PqHH2BNESm": [
+    {
+      "type": 0,
+      "value": "CLICK THE PIN ICON IN THE TOP RIGHT CORNER OF THE EXTENSION WINDOW"
+    }
+  ],
+  "PwZL2cdrCr": [
+    {
+      "type": 0,
+      "value": "COLLAPSE MESSAGE"
+    }
+  ],
+  "PytICQxIDI": [
+    {
+      "type": 0,
+      "value": "GET TABS"
+    }
+  ],
+  "Q+J7H4sPgD": [
+    {
+      "type": 0,
+      "value": "ERROR: "
+    },
+    {
+      "type": 1,
+      "value": "errorMessage"
+    }
+  ],
+  "Q4V+DsnBh+": [
+    {
+      "type": 0,
+      "value": "CENTRAL EUROPEAN (WINDOWS-1250)"
+    }
+  ],
+  "QJ0ownoZRd": [
+    {
+      "type": 0,
+      "value": "DEFAULT (UTF-8)"
+    }
+  ],
+  "QLJEESZB3X": [
+    {
+      "type": 0,
+      "value": "2"
+    }
+  ],
+  "QNEFpq3fE/": [
+    {
+      "type": 0,
+      "value": "HOVER"
+    }
+  ],
+  "QQU4cRvqWT": [
+    {
+      "type": 0,
+      "value": "CLAUDE CAN NOW WORK IN YOUR FOLDERS, NOT JUST YOUR BROWSER TABS. TURN RESEARCH INTO REPORTS, PULL TOGETHER FILES, OR PREP YOUR NEXT DECK—WHATEVER'S ON YOUR TO-DO LIST."
+    }
+  ],
+  "QSjqvNNsUq": [
+    {
+      "type": 0,
+      "value": "PLEASE USE THIS "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "FORM"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " TO REPORT VIOLATIVE CONTENT."
+    }
+  ],
+  "QXrOGus6PR": [
+    {
+      "type": 0,
+      "value": "CHOOSE YOUR PREFERRED LANGUAGE FOR THE EXTENSION INTERFACE."
+    }
+  ],
+  "QddFP/j7re": [
+    {
+      "type": 0,
+      "value": "BETA"
+    }
+  ],
+  "Ql0ICcy5UG": [
+    {
+      "type": 0,
+      "value": "NUMBER OF SCREENSHOTS KEPT IN CONVERSATION CONTEXT. MORE SCREENSHOTS USE MORE TOKENS."
+    }
+  ],
+  "QmLhKBubcc": [
+    {
+      "type": 0,
+      "value": "YOUR MESSAGE WILL EXCEED THE "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "MAXIMUM IMAGE COUNT"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " FOR THIS CHAT. TRY REMOVING IMAGES "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "OR STARTING A NEW CONVERSATION."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    }
+  ],
+  "QpxPqx4skB": [
+    {
+      "type": 0,
+      "value": "START RECORDING"
+    }
+  ],
+  "QrihTZnk0x": [
+    {
+      "type": 0,
+      "value": "FRIDAY"
+    }
+  ],
+  "Qroasht1fR": [
+    {
+      "type": 0,
+      "value": "SEARCHED CODE"
+    }
+  ],
+  "QugqYeS6zz": [
+    {
+      "type": 0,
+      "value": "OPEN ARTIFACT DETAILS"
+    }
+  ],
+  "QyrCxYs5Jy": [
+    {
+      "type": 0,
+      "value": "YOU CAN ADD AT MOST "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " FILE"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " FILES"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " TO A CHAT. "
+    },
+    {
+      "type": 1,
+      "value": "suggestion"
+    }
+  ],
+  "R592aOW18A": [
+    {
+      "type": 0,
+      "value": "EDIT SHORTCUT"
+    }
+  ],
+  "RIrR6dJyeb": [
+    {
+      "type": 0,
+      "value": "WARNING"
+    }
+  ],
+  "RJ0ojHUGPj": [
+    {
+      "type": 0,
+      "value": "HIGH (DEFAULT)"
+    }
+  ],
+  "RRFjL3H23m": [
+    {
+      "type": 0,
+      "value": "SHORTCUT DELETED"
+    }
+  ],
+  "RWrtnxjH8o": [
+    {
+      "type": 0,
+      "value": "THIS BETA FEATURE HAS UNIQUE RISKS DISTINCT FROM OTHER CLAUDE PRODUCTS. YOU ARE FULLY RESPONSIBLE FOR ALL RISKS ASSOCIATED WITH USE OF THIS PRODUCT."
+    }
+  ],
+  "Rc2RmGjQRw": [
+    {
+      "type": 0,
+      "value": "THIS SITE IS BLOCKED BY YOUR ORGANIZATION'S POLICY."
+    }
+  ],
+  "RhGz0PXZQn": [
+    {
+      "type": 0,
+      "value": "TEST PERMISSION NOTIFICATION"
+    }
+  ],
+  "Ri63Z85D7E": [
+    {
+      "type": 0,
+      "value": "RIGHT-CLICK"
+    }
+  ],
+  "Rtb80IDfRS": [
+    {
+      "type": 0,
+      "value": "SEND FEEDBACK"
+    }
+  ],
+  "RuX+iObJu9": [
+    {
+      "type": 0,
+      "value": "CLAUDE HAS TAB GROUP ACCESS"
+    }
+  ],
+  "RyCW0gT/7M": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " PAGE"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " PAGES"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "RzL2CtHKXp": [
+    {
+      "type": 0,
+      "value": "FILE IS OUTSIDE ALLOWED FOLDERS."
+    }
+  ],
+  "S8/4ZI1Fhf": [
+    {
+      "type": 0,
+      "value": "MORE ACTIONS"
+    }
+  ],
+  "SFbt+MAvby": [
+    {
+      "type": 0,
+      "value": "IMAGE IS TOO LARGE. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "LEARN MORE"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "SFuk1vRI4X": [
+    {
+      "type": 0,
+      "value": "PERMISSIONS"
+    }
+  ],
+  "SQJto27U8S": [
+    {
+      "type": 0,
+      "value": "SIGN IN"
+    }
+  ],
+  "SUa8mpheAG": [
+    {
+      "type": 0,
+      "value": "COLUMNS"
+    }
+  ],
+  "SjBgp+EBYt": [
+    {
+      "type": 0,
+      "value": "(ANT-ONLY) DEBUG SETTINGS"
+    }
+  ],
+  "SsiZK7n81x": [
+    {
+      "type": 0,
+      "value": "DECEMBER"
+    }
+  ],
+  "StB9n+uYO4": [
+    {
+      "type": 0,
+      "value": "ENABLE MICROPHONE ACCESS"
+    }
+  ],
+  "SxCvYAQUfY": [
+    {
+      "type": 0,
+      "value": "SCROLL"
+    }
+  ],
+  "T0e6Lh8loG": [
+    {
+      "type": 0,
+      "value": "REMOVE "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "T40fliCDxK": [
+    {
+      "type": 0,
+      "value": "ALWAYS CONTINUE"
+    }
+  ],
+  "T5W0CVKXi6": [
+    {
+      "type": 0,
+      "value": "MARCH"
+    }
+  ],
+  "T6BjuHu60u": [
+    {
+      "type": 0,
+      "value": "SAVE SYSTEM PROMPT"
+    }
+  ],
+  "TDaF6JVgG6": [
+    {
+      "type": 0,
+      "value": "DISMISS"
+    }
+  ],
+  "TDyP36qHxV": [
+    {
+      "type": 0,
+      "value": "UPDATE EXTENSION"
+    }
+  ],
+  "TFf5u+qBgM": [
+    {
+      "type": 0,
+      "value": "SEPTEMBER"
+    }
+  ],
+  "TGYeob9u0b": [
+    {
+      "type": 0,
+      "value": "UPLOAD DOCS OR IMAGES TO CLAUDE\\N(MAX "
+    },
+    {
+      "type": 1,
+      "value": "maxUploads"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "type": 1,
+      "value": "maxSize"
+    },
+    {
+      "type": 0,
+      "value": "MB EACH)"
+    }
+  ],
+  "TJo5E6JuIN": [
+    {
+      "type": 0,
+      "value": "PREVIEW"
+    }
+  ],
+  "TRpxX8Mu1L": [
+    {
+      "type": 0,
+      "value": "DUE TO UNEXPECTED CAPACITY CONSTRAINTS, CLAUDE IS UNABLE TO RESPOND TO YOUR MESSAGE. PLEASE TRY AGAIN SOON."
+    }
+  ],
+  "TXMFQQmX1y": [
+    {
+      "type": 0,
+      "value": "ENTER CUSTOM SYSTEM PROMPT..."
+    }
+  ],
+  "TXpOBiuxud": [
+    {
+      "type": 0,
+      "value": "CUSTOMIZE"
+    }
+  ],
+  "TdTXXf940t": [
+    {
+      "type": 0,
+      "value": "LEARN MORE"
+    }
+  ],
+  "TtfNhgtojm": [
+    {
+      "type": 0,
+      "value": "COMPACTING OUR CONVERSATION SO WE CAN KEEP CHATTING..."
+    }
+  ],
+  "U/yflCckmc": [
+    {
+      "type": 0,
+      "value": "SEND SCREENSHOT TO CLAUDE"
+    }
+  ],
+  "U2k+N3mGYx": [
+    {
+      "type": 0,
+      "value": "MAXIMUM DIMENSION (WIDTH OR HEIGHT) FOR SCREENSHOTS. SMALLER = FEWER TOKENS BUT LESS DETAIL."
+    }
+  ],
+  "U8e24+q4Zx": [
+    {
+      "type": 0,
+      "value": "ILLUSTRATION PLACEHOLDER"
+    }
+  ],
+  "UDzVMLRS83": [
+    {
+      "type": 0,
+      "value": "UNABLE TO READ FILE."
+    }
+  ],
+  "UfbV7FMys+": [
+    {
+      "type": 0,
+      "value": "WEBP (LOSSY, SMALLER)"
+    }
+  ],
+  "UltGDMwKAE": [
+    {
+      "type": 0,
+      "value": "ERROR CLEARING TEST DATA: "
+    },
+    {
+      "type": 1,
+      "value": "error"
+    }
+  ],
+  "UyWyQn/88m": [
+    {
+      "type": 0,
+      "value": "FILE COULD NOT BE READ."
+    }
+  ],
+  "V+jPyROpXb": [
+    {
+      "type": 0,
+      "value": "EDITED "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "V3zw7m9pi/": [
+    {
+      "type": 0,
+      "value": "SELECT FILE"
+    }
+  ],
+  "V8l8DZPvUY": [
+    {
+      "type": 0,
+      "value": "PRODUCTION (API.ANTHROPIC.COM)"
+    }
+  ],
+  "VJGixxlxF+": [
+    {
+      "type": 0,
+      "value": "PAGE SETTLE TIMEOUT (MS)"
+    }
+  ],
+  "VKZ/U8vAsk": [
+    {
+      "type": 0,
+      "value": "EFFORT"
+    }
+  ],
+  "VOW1L8jo1E": [
+    {
+      "type": 0,
+      "value": "ANT-ONLY: ALL FUTURE CHATS WILL USE THE NEW EXPERIENCE (SESSIONS API). USE THE OVERFLOW (⋮) TOGGLE BETWEEN EXPERIENCES."
+    }
+  ],
+  "VbVJvDFrU4": [
+    {
+      "type": 0,
+      "value": "LAST USED: "
+    },
+    {
+      "type": 1,
+      "value": "date"
+    }
+  ],
+  "VhLncisxuH": [
+    {
+      "type": 0,
+      "value": "UNSUPPORTED FORMAT"
+    }
+  ],
+  "VlOMp+IyXR": [
+    {
+      "type": 0,
+      "value": "CLAUDE'S PLAN"
+    }
+  ],
+  "Vuh/a7xjtE": [
+    {
+      "type": 0,
+      "value": "THAI (TIS-620)"
+    }
+  ],
+  "VvBp+eNhWP": [
+    {
+      "type": 0,
+      "value": "SCREENSHOTS FROM TOOL EXECUTIONS"
+    }
+  ],
+  "W/T0ya233Q": [
+    {
+      "type": 0,
+      "value": "PRESS KEYS: "
+    },
+    {
+      "type": 1,
+      "value": "keys"
+    }
+  ],
+  "W2dIBW8oIg": [
+    {
+      "type": 0,
+      "value": "DUE TO CAPACITY CONSTRAINTS, CHATTING WITH CLAUDE IS CURRENTLY NOT AVAILABLE. PLEASE TRY AGAIN IN A LITTLE WHILE."
+    }
+  ],
+  "WDCnAlgy2l": [
+    {
+      "type": 0,
+      "value": "CLAUDE CANNOT ASSIST WITH THE CONTENT ON THIS PAGE."
+    }
+  ],
+  "WMNHPhDie+": [
+    {
+      "type": 0,
+      "value": "SATURDAY"
+    }
+  ],
+  "WSkLyhVgSu": [
+    {
+      "type": 0,
+      "value": "RAN AN AGENT"
+    }
+  ],
+  "WYzHAIKZxl": [
+    {
+      "type": 0,
+      "value": "SKIP FOR NOW"
+    }
+  ],
+  "WqCMal/Jk2": [
+    {
+      "type": 0,
+      "value": "PROVIDE FEEDBACK ON YOUR EXPERIENCE WITH THE SUGGESTIONS"
+    }
+  ],
+  "X0ha1a+WYV": [
+    {
+      "type": 0,
+      "value": "SAVE CHANGES"
+    }
+  ],
+  "X5tUyXfqsl": [
+    {
+      "type": 0,
+      "value": "ARABIC (WINDOWS-1256)"
+    }
+  ],
+  "X6qJ+Mle0d": [
+    {
+      "type": 0,
+      "value": "CLICK"
+    }
+  ],
+  "X9Z2S33opa": [
+    {
+      "type": 0,
+      "value": "RAN "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " AGENTS"
+    }
+  ],
+  "XAcQi8udmY": [
+    {
+      "type": 0,
+      "value": "APPROACH TO FOLLOW"
+    }
+  ],
+  "XGkVpOO9dA": [
+    {
+      "type": 0,
+      "value": "RUNNING SUBAGENT"
+    }
+  ],
+  "XIbwNE7SSU": [
+    {
+      "type": 0,
+      "value": "/"
+    }
+  ],
+  "XLN5nvmwda": [
+    {
+      "type": 0,
+      "value": "TAB GROUP ILLUSTRATION"
+    }
+  ],
+  "XLcM6WHfQR": [
+    {
+      "type": 0,
+      "value": "HOW CAN I HELP YOU TODAY?"
+    }
+  ],
+  "XQKAxeLMBO": [
+    {
+      "type": 0,
+      "value": "JPEG (LOSSY, SMALL)"
+    }
+  ],
+  "XhLYQfswyj": [
+    {
+      "type": 0,
+      "value": "PLEASE WAIT BEFORE TRYING AGAIN."
+    }
+  ],
+  "Xx0WZVz8QS": [
+    {
+      "type": 0,
+      "value": "SEND MESSAGE"
+    }
+  ],
+  "XxhTmYWhHR": [
+    {
+      "type": 0,
+      "value": "SELECT AREA..."
+    }
+  ],
+  "Y7tnLdrXcO": [
+    {
+      "type": 0,
+      "value": "SELECT: "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "YAeW6K6mK9": [
+    {
+      "type": 0,
+      "value": "LISTENING..."
+    }
+  ],
+  "YAgYL60fLm": [
+    {
+      "type": 0,
+      "value": "TUESDAY"
+    }
+  ],
+  "YBctaBAMh/": [
+    {
+      "type": 0,
+      "value": "LOADING SKILL"
+    }
+  ],
+  "YD+KHgvA3S": [
+    {
+      "type": 0,
+      "value": "PRESENTED FILE(S)"
+    }
+  ],
+  "YEk9i6AJuT": [
+    {
+      "type": 0,
+      "value": "TYPE / IN THE CHAT TO USE SHORTCUTS OR RUN THEM ON SCHEDULE"
+    }
+  ],
+  "YR6CGakwNu": [
+    {
+      "type": 0,
+      "value": "FETCH FROM "
+    },
+    {
+      "type": 1,
+      "value": "hostname"
+    }
+  ],
+  "YREuYaOzoG": [
+    {
+      "type": 0,
+      "value": "FOLLOW THIS APPROACH"
+    }
+  ],
+  "YXotZzdJDV": [
+    {
+      "type": 0,
+      "value": "CLAUDE IN CHROME IS AVAILABLE TO"
+    }
+  ],
+  "YfXudLEmrv": [
+    {
+      "type": 0,
+      "value": "NO CHATS YET"
+    }
+  ],
+  "YgWtLTGqB+": [
+    {
+      "type": 0,
+      "value": "METADATA ABOUT TABS OPEN IN THIS TAB GROUP"
+    }
+  ],
+  "Ymx8APRi1X": [
+    {
+      "type": 0,
+      "value": "MICROPHONE ACCESS GRANTED"
+    }
+  ],
+  "Yn41lcLvmg": [
+    {
+      "type": 0,
+      "value": "TOOL RESULT"
+    }
+  ],
+  "YoXOdinNC1": [
+    {
+      "type": 0,
+      "value": "FRAUD"
+    }
+  ],
+  "YtFTtANjPw": [
+    {
+      "type": 0,
+      "value": "OPEN LINK"
+    }
+  ],
+  "YxhKVgP/H4": [
+    {
+      "type": 0,
+      "value": "GET NOTIFIED WHEN TASKS COMPLETE OR NEED YOUR INPUT"
+    }
+  ],
+  "Yxxj6rmlSW": [
+    {
+      "type": 0,
+      "value": "TOGGLE VOICE NARRATION"
+    }
+  ],
+  "Z2VDyqOU0z": [
+    {
+      "type": 0,
+      "value": "GO BEYOND THE BROWSER WITH COWORK"
+    }
+  ],
+  "Z7sL1cCQpI": [
+    {
+      "type": 0,
+      "value": "CONVERT TO TASK"
+    }
+  ],
+  "ZByvH8UXog": [
+    {
+      "type": 0,
+      "value": "SHORTCUT"
+    }
+  ],
+  "ZDJep2SVkS": [
+    {
+      "type": 0,
+      "value": "TEST SCHEDULED TASK (VIA ALARM IN 1S)"
+    }
+  ],
+  "ZGgOeVIR/y": [
+    {
+      "type": 0,
+      "value": "RESET TO DEFAULT"
+    }
+  ],
+  "ZJn5qDfYOD": [
+    {
+      "type": 0,
+      "value": "PRESS KEY"
+    }
+  ],
+  "ZRHK60/fN5": [
+    {
+      "type": 0,
+      "value": "TEST DATA CLEARED"
+    }
+  ],
+  "ZSCbZACJ+n": [
+    {
+      "type": 0,
+      "value": "ANNUALLY"
+    }
+  ],
+  "ZXH44sMrF0": [
+    {
+      "type": 0,
+      "value": "NO TASKS YET"
+    }
+  ],
+  "ZpE0fwR7on": [
+    {
+      "type": 0,
+      "value": "SAVE AS TEACH CLAUDE"
+    }
+  ],
+  "ZpQ6usVWqj": [
+    {
+      "type": 0,
+      "value": "RESULT"
+    }
+  ],
+  "Zx2+7F8Kf5": [
+    {
+      "type": 0,
+      "value": "INVALID URL FORMAT"
+    }
+  ],
+  "a5aJshKbyM": [
+    {
+      "type": 0,
+      "value": "LOADED "
+    },
+    {
+      "type": 1,
+      "value": "scenarioName"
+    },
+    {
+      "type": 0,
+      "value": " - RELOAD THE SIDE PANEL TO USE"
+    }
+  ],
+  "a6KVizNPLe": [
+    {
+      "type": 0,
+      "value": "PLEASE SELECT FEWER FILES."
+    }
+  ],
+  "a7x0CkSo6z": [
+    {
+      "type": 0,
+      "value": "ANOTHER EXTENSION YOU'RE USING IS PREVENTING CLAUDE IN CHROME FROM OPERATING."
+    }
+  ],
+  "aCdAsIsVv0": [
+    {
+      "type": 0,
+      "value": "COPY TO CLIPBOARD"
+    }
+  ],
+  "aDf2NEL1I0": [
+    {
+      "type": 0,
+      "value": "STOPPED A COMMAND"
+    }
+  ],
+  "aLzfIziOrP": [
+    {
+      "type": 0,
+      "value": "WAIT "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " SECOND"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " SECONDS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "aMDcvNLxqz": [
+    {
+      "type": 0,
+      "value": "SUPPORTED PLACEHOLDERS: MODELNAME, CURRENTDATE, PLATFORM, PLATFORMMODIFIER (WRAP IN DOUBLE CURLY BRACES)."
+    }
+  ],
+  "aO2SGMNXZ8": [
+    {
+      "type": 0,
+      "value": "CONNECT YOUR GOOGLE ACCOUNT FOR FASTER EDITS IN SHEETS, DOCS, SLIDES, GMAIL, AND CALENDAR."
+    }
+  ],
+  "aTaOpCB71M": [
+    {
+      "type": 0,
+      "value": "TAKE A SCREENSHOT"
+    }
+  ],
+  "aWpBzjCXKS": [
+    {
+      "type": 0,
+      "value": "SHOW MORE"
+    }
+  ],
+  "aXfQ2L8ErF": [
+    {
+      "type": 0,
+      "value": "CREATED A PLAN"
+    }
+  ],
+  "acrOozm08x": [
+    {
+      "type": 0,
+      "value": "CONTINUE"
+    }
+  ],
+  "afNc7fLowL": [
+    {
+      "type": 0,
+      "value": "ENABLE MICROPHONE"
+    }
+  ],
+  "ahcT/xfBaf": [
+    {
+      "type": 0,
+      "value": "SIGN IN AGAIN TO CONTINUE USING CLAUDE IN CHROME."
+    }
+  ],
+  "ai0JAxDdlC": [
+    {
+      "type": 0,
+      "value": "TYPE TEXT"
+    }
+  ],
+  "ajU+HTjQNK": [
+    {
+      "type": 0,
+      "value": "PLEASE ENTER A VALID URL"
+    }
+  ],
+  "anYsv8zeLR": [
+    {
+      "type": 0,
+      "value": "ONE OR MORE FETCHES HAVE FAILED. TRY AGAIN."
+    }
+  ],
+  "ayrUapxSvj": [
+    {
+      "type": 0,
+      "value": "LOWER QUALITY = SMALLER FILE SIZE. ONLY APPLIES TO JPEG/WEBP."
+    }
+  ],
+  "azMsfMtNvt": [
+    {
+      "type": 0,
+      "value": "MONDAY"
+    }
+  ],
+  "b5Uf1JSpcI": [
+    {
+      "type": 0,
+      "value": "TYPE: \""
+    },
+    {
+      "type": 1,
+      "value": "text"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "bApErctxyt": [
+    {
+      "type": 0,
+      "value": "READ "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "bL7dVUkHa0": [
+    {
+      "type": 0,
+      "value": "CHAT PAUSED"
+    }
+  ],
+  "bW7B87wFFp": [
+    {
+      "type": 0,
+      "value": "NEW"
+    }
+  ],
+  "bWSwU/3iyK": [
+    {
+      "type": 0,
+      "value": "EXTENSION UPDATE REQUIRED"
+    }
+  ],
+  "bWjdfaXOzU": [
+    {
+      "type": 0,
+      "value": "URL"
+    }
+  ],
+  "bk8tuJl/tJ": [
+    {
+      "type": 0,
+      "value": "SELECT REPORT REASON"
+    }
+  ],
+  "bmDayxG7DJ": [
+    {
+      "type": 0,
+      "value": "MALICIOUS CODE BURIED IN SITES MAY OVERRIDE YOUR INSTRUCTIONS IN ORDER TO STEAL YOUR DATA, INJECT MALWARE INTO YOUR SYSTEMS, OR TAKE OVER YOUR SYSTEM TO ATTACK OTHER USERS. "
+    },
+    {
+      "type": 1,
+      "value": "learnMoreLink"
+    }
+  ],
+  "c0/oTKLaf+": [
+    {
+      "type": 0,
+      "value": "SKIP PERMISSIONS"
+    }
+  ],
+  "c0ZeCgLvCL": [
+    {
+      "type": 0,
+      "value": "CONVERSATION SUMMARY"
+    }
+  ],
+  "c5+JRMBv/Y": [
+    {
+      "type": 0,
+      "value": "UPGRADE PLAN"
+    }
+  ],
+  "cELBBLzSZE": [
+    {
+      "type": 0,
+      "value": "CLAUDE WANTS TO "
+    },
+    {
+      "type": 1,
+      "value": "toolAction"
+    },
+    {
+      "type": 0,
+      "value": ":"
+    }
+  ],
+  "cF32KOfDNQ": [
+    {
+      "type": 0,
+      "value": "SCREENSHOT WITH DRAG PATH"
+    }
+  ],
+  "cIbPxRbF3Y": [
+    {
+      "type": 0,
+      "value": "I DID NOTHING TODAY"
+    }
+  ],
+  "cP5M5utX/U": [
+    {
+      "type": 0,
+      "value": "FULL SCREEN MODE"
+    }
+  ],
+  "cPnivFkT6E": [
+    {
+      "type": 0,
+      "value": "READ "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " FILES"
+    }
+  ],
+  "cSp9Qor4f4": [
+    {
+      "type": 0,
+      "value": "OPEN EXTERNAL LINK"
+    }
+  ],
+  "cW6887Dc/X": [
+    {
+      "type": 0,
+      "value": "MICROPHONE"
+    }
+  ],
+  "cXAlMRerxW": [
+    {
+      "type": 0,
+      "value": "SCHEDULED"
+    }
+  ],
+  "cXTNE0Hbj4": [
+    {
+      "type": 0,
+      "value": "TEACH CLAUDE"
+    }
+  ],
+  "caw/dieQFJ": [
+    {
+      "type": 0,
+      "value": "TOOLS FOR TESTING AND DEBUGGING THE EXTENSION DURING DEVELOPMENT."
+    }
+  ],
+  "ceCuvzBxbw": [
+    {
+      "type": 0,
+      "value": "SET FORM VALUE"
+    }
+  ],
+  "cqx+RdJnHp": [
+    {
+      "type": 0,
+      "value": "MANAGE CONNECTORS"
+    }
+  ],
+  "cuaMuzr//N": [
+    {
+      "type": 0,
+      "value": "CREATING "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "cv8yc1KJ7n": [
+    {
+      "type": 0,
+      "value": "VISIT THESE SITES"
+    }
+  ],
+  "cv9VNYMHXY": [
+    {
+      "type": 0,
+      "value": "RAN A COMMAND"
+    }
+  ],
+  "cxkY9nyTFY": [
+    {
+      "type": 0,
+      "value": "SCRIPT"
+    }
+  ],
+  "cyR7KhiuaU": [
+    {
+      "type": 0,
+      "value": "BACK"
+    }
+  ],
+  "d1iFfHCXCd": [
+    {
+      "type": 0,
+      "value": "SET INPUT TO \""
+    },
+    {
+      "type": 1,
+      "value": "value"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "dJqE3eAWkM": [
+    {
+      "type": 0,
+      "value": "CREATE SCHEDULED TASK"
+    }
+  ],
+  "dNvIs5mEPO": [
+    {
+      "type": 0,
+      "value": "CLAUDE ALIGNS ON ITS APPROACH BEFORE TAKING ACTIONS"
+    }
+  ],
+  "dPfJcsF2EP": [
+    {
+      "type": 0,
+      "value": "CHATS ARE NOW SAVED—REFER BACK OR RESTART"
+    }
+  ],
+  "dS6ebV+vpY": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " STEP"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " STEPS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "collapsedCount"
+    }
+  ],
+  "dXUR4BjgcC": [
+    {
+      "type": 0,
+      "value": "YOUR TASK IS COMPLETED. READY TO CHECK IN?"
+    }
+  ],
+  "ddXREI8PNV": [
+    {
+      "type": 0,
+      "value": "CHILD SAFETY/SEXUAL ABUSE"
+    }
+  ],
+  "djtHiJ5aej": [
+    {
+      "type": 0,
+      "value": "PREVIEW OF "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "dqW6sjmil4": [
+    {
+      "type": 0,
+      "value": "FOLDER INSTRUCTIONS"
+    }
+  ],
+  "e15QX1hh5v": [
+    {
+      "type": 0,
+      "value": "SELECT MODEL"
+    }
+  ],
+  "e2DtORRpyx": [
+    {
+      "type": 0,
+      "value": "MICROPHONE ACCESS WAS DENIED. YOU CAN EITHER TRY AGAIN OR "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "OPEN CHROME SETTINGS"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " TO ENABLE MICROPHONE ACCESS."
+    }
+  ],
+  "e6uhP1Ta9X": [
+    {
+      "type": 0,
+      "value": "UPDATE PLAN"
+    }
+  ],
+  "e8VD9vcoJC": [
+    {
+      "type": 0,
+      "value": "FOLLOW THE PLAN"
+    }
+  ],
+  "eCBXvFgCTN": [
+    {
+      "type": 0,
+      "value": "FINISHED PLAN"
+    }
+  ],
+  "eDHTgRaIJG": [
+    {
+      "type": 0,
+      "value": "CLAUDE IN CHROME SETTINGS"
+    }
+  ],
+  "eFsJ8k8yFm": [
+    {
+      "type": 0,
+      "value": "SHOW IMAGE"
+    }
+  ],
+  "eH5gdeveIM": [
+    {
+      "type": 0,
+      "value": "TRY WHAT'S NEW"
+    }
+  ],
+  "eJFbw2HgHp": [
+    {
+      "type": 0,
+      "value": "ARE YOU SURE YOU WANT TO DELETE THIS PROMPT?"
+    }
+  ],
+  "eS0BrNV2g3": [
+    {
+      "type": 0,
+      "value": "NO CONTENT AVAILABLE"
+    }
+  ],
+  "ed76A9b9lB": [
+    {
+      "type": 0,
+      "value": "ALL PAID PLAN SUBSCRIBERS"
+    }
+  ],
+  "eePQiZiD6b": [
+    {
+      "type": 0,
+      "value": "CONVERSATION NOT FOUND."
+    }
+  ],
+  "ehDw1cvHNn": [
+    {
+      "type": 0,
+      "value": "ATTACHED IMAGE "
+    },
+    {
+      "type": 1,
+      "value": "imageNumber"
+    }
+  ],
+  "ejLVhl2kIU": [
+    {
+      "type": 0,
+      "value": "NO SHORTCUTS AVAILABLE"
+    }
+  ],
+  "eoF+zSJr4t": [
+    {
+      "type": 0,
+      "value": "ARE YOU SURE YOU WANT TO DELETE THIS CHAT?"
+    }
+  ],
+  "f00p/7iV78": [
+    {
+      "type": 0,
+      "value": "UPLOAD FAILED"
+    }
+  ],
+  "f9Tg4Tfohh": [
+    {
+      "type": 0,
+      "value": "CREATE YOUR FIRST SHORTCUT OR "
+    },
+    {
+      "type": 1,
+      "value": "exploreLink"
+    },
+    {
+      "type": 0,
+      "value": " TO GET STARTED"
+    }
+  ],
+  "fHClqd2+bS": [
+    {
+      "type": 0,
+      "value": "TYPE / FOR COMMANDS"
+    }
+  ],
+  "fJHdaZIRcd": [
+    {
+      "type": 0,
+      "value": "“"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "” IS TOO LARGE. CHOOSE A SMALLER FILE."
+    }
+  ],
+  "fOUfZ3Wftl": [
+    {
+      "type": 0,
+      "value": "REVIEW "
+    },
+    {
+      "type": 1,
+      "value": "risksLink"
+    },
+    {
+      "type": 0,
+      "value": " BEFORE YOU BEGIN."
+    }
+  ],
+  "fTNSna6r/X": [
+    {
+      "type": 0,
+      "value": "FILE TOO LARGE"
+    }
+  ],
+  "fcypZmiXOj": [
+    {
+      "type": 0,
+      "value": "SWITCHING BROWSER"
+    }
+  ],
+  "fhFmwPnm6J": [
+    {
+      "type": 0,
+      "value": "YOU'LL RECEIVE NOTIFICATIONS WHEN TASKS FINISH"
+    }
+  ],
+  "fio5opLcOZ": [
+    {
+      "type": 0,
+      "value": "OUTPUT"
+    }
+  ],
+  "fuoi35GbI+": [
+    {
+      "type": 0,
+      "value": "CLICK: \""
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "fxDu88cBut": [
+    {
+      "type": 0,
+      "value": "PERMISSIONS FOR NAVIGATING BETWEEN DIFFERENT DOMAINS."
+    }
+  ],
+  "g8ctzHRk8U": [
+    {
+      "type": 0,
+      "value": "EXECUTING..."
+    }
+  ],
+  "gAR0atqpRn": [
+    {
+      "type": 0,
+      "value": "WORKING"
+    }
+  ],
+  "gFAHXgACot": [
+    {
+      "type": 0,
+      "value": "E.G., 9:30 AM OR 14:00"
+    }
+  ],
+  "gHpDMF2yPM": [
+    {
+      "type": 0,
+      "value": "ACCESS AND WORK WITH YOUR CONNECTED APPS WHILE CHATTING IN THE EXTENSION"
+    }
+  ],
+  "gRqsbs2s7I": [
+    {
+      "type": 0,
+      "value": "SYNTAX HIGHLIGHTING HAS BEEN DISABLED DUE TO CODE SIZE."
+    }
+  ],
+  "gcaJtRf4b0": [
+    {
+      "type": 0,
+      "value": "FILE NOT FOUND"
+    }
+  ],
+  "gh/lBJ3ybG": [
+    {
+      "type": 0,
+      "value": "ADDITIONAL INFORMATION"
+    }
+  ],
+  "gjBiyjshwX": [
+    {
+      "type": 0,
+      "value": "LOADING..."
+    }
+  ],
+  "gltmHPfviz": [
+    {
+      "type": 0,
+      "value": "YOUR MESSAGE WILL EXCEED THE "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "MAXIMUM IMAGE COUNT"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " FOR THIS CHAT. TRY UPLOADING "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " DOCUMENT"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " DOCUMENTS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " WITH FEWER PAGES, REMOVING IMAGES, "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "OR STARTING A NEW CONVERSATION."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    }
+  ],
+  "gtvz8LDd6q": [
+    {
+      "type": 0,
+      "value": "CLAUDE CAN ANALYZE CSVS WITH THE ANALYSIS TOOL."
+    }
+  ],
+  "gylVBxmE7Z": [
+    {
+      "type": 0,
+      "value": "CLOSE IMAGE PREVIEW"
+    }
+  ],
+  "h/6cMHSn1V": [
+    {
+      "type": 0,
+      "value": "TOO MANY FILE UPLOAD ATTEMPTS. PLEASE WAIT AND TRY AGAIN LATER."
+    }
+  ],
+  "h7CrEtBxuD": [
+    {
+      "type": 0,
+      "value": "UNABLE TO SHOW FILE IN FOLDER."
+    }
+  ],
+  "h7xti1PjS7": [
+    {
+      "type": 0,
+      "value": "APRIL"
+    }
+  ],
+  "h9Y5N1xs5X": [
+    {
+      "type": 0,
+      "value": "DEFAMATION"
+    }
+  ],
+  "hEM04r/mwh": [
+    {
+      "type": 0,
+      "value": "1568PX (DEFAULT)"
+    }
+  ],
+  "hGQqkWwmJD": [
+    {
+      "type": 0,
+      "value": "SCHEDULE"
+    }
+  ],
+  "hGdb967wOL": [
+    {
+      "type": 0,
+      "value": "CLAUDE LANDED ON A BLOCKED SITE AND CAN'T COMPLETE YOUR REQUEST."
+    }
+  ],
+  "hItngLUKCl": [
+    {
+      "type": 0,
+      "value": "CLAUDE CAN VIEW THE URL OF TABS WHERE THE PANEL IS OPEN AND TAKE SCREENSHOTS WHEN RESPONDING. FOR PRIVACY, AVOID USING CLAUDE ON SENSITIVE SITES LIKE HEALTH AND DATING PLATFORMS."
+    }
+  ],
+  "hW8KjZhriV": [
+    {
+      "type": 0,
+      "value": "PLAN"
+    }
+  ],
+  "hWG9HINm7Y": [
+    {
+      "type": 1,
+      "value": "quality"
+    },
+    {
+      "type": 0,
+      "value": "%"
+    }
+  ],
+  "hZDjbuZQlF": [
+    {
+      "type": 0,
+      "value": "THE SIDE PANEL READS THIS DATA ON INITIALIZATION"
+    }
+  ],
+  "hbWicV9xaa": [
+    {
+      "type": 0,
+      "value": "READ PAGE"
+    }
+  ],
+  "hd3haPU1gQ": [
+    {
+      "type": 0,
+      "value": "START FROM"
+    }
+  ],
+  "heKLO07Qz/": [
+    {
+      "type": 0,
+      "value": "TASKS ILLUSTRATION"
+    }
+  ],
+  "hg/DxQvpUn": [
+    {
+      "type": 0,
+      "value": "CLAUDE IN CHROME REQUIRES A PAID PLAN"
+    }
+  ],
+  "hidF6esI2b": [
+    {
+      "type": 0,
+      "value": "ENABLE WITH "
+    },
+    {
+      "type": 1,
+      "value": "modelName"
+    }
+  ],
+  "hjoV9zJZVT": [
+    {
+      "type": 0,
+      "value": "CREATE NEW TAB"
+    }
+  ],
+  "hjqZygykww": [
+    {
+      "type": 0,
+      "value": "ERROR ACCESSING SHARED DATA"
+    }
+  ],
+  "ht0kL7D9jA": [
+    {
+      "type": 0,
+      "value": "ALL MESSAGES IN THE CONVERSATION"
+    }
+  ],
+  "htmyA3WAQx": [
+    {
+      "type": 0,
+      "value": "PLAN APPROVED"
+    }
+  ],
+  "htvX+Z11l+": [
+    {
+      "type": 0,
+      "value": "DENY"
+    }
+  ],
+  "huCHmkVjex": [
+    {
+      "type": 0,
+      "value": "STEPS"
+    }
+  ],
+  "i+imRH5ndN": [
+    {
+      "type": 0,
+      "value": "NEW NOTE..."
+    }
+  ],
+  "i5E6OW65QG": [
+    {
+      "type": 0,
+      "value": "VOICE NARRATION PAUSED"
+    }
+  ],
+  "iDpNOkVmEn": [
+    {
+      "type": 0,
+      "value": "SHOWING BUILT-IN DEFAULT. EDIT AND SAVE TO USE A CUSTOM PROMPT."
+    }
+  ],
+  "iMMX+ZCJ/I": [
+    {
+      "type": 0,
+      "value": "VERSION "
+    },
+    {
+      "type": 1,
+      "value": "versionNum"
+    }
+  ],
+  "iTAs3tpllt": [
+    {
+      "type": 0,
+      "value": "CONVERSATION COMPACTED"
+    }
+  ],
+  "iTW/IIP3mS": [
+    {
+      "type": 0,
+      "value": "TAB "
+    },
+    {
+      "type": 1,
+      "value": "tabId"
+    }
+  ],
+  "iWKE8shLIt": [
+    {
+      "type": 0,
+      "value": "PROMPT"
+    }
+  ],
+  "iWwS2NQh2N": [
+    {
+      "type": 0,
+      "value": "LOAD NEAR CONTEXT LIMIT"
+    }
+  ],
+  "iXNbPfQDIZ": [
+    {
+      "type": 0,
+      "value": "RENAME"
+    }
+  ],
+  "iZNLJyNrgT": [
+    {
+      "type": 0,
+      "value": "USED A SKILL"
+    }
+  ],
+  "ifBuzEbIz2": [
+    {
+      "type": 0,
+      "value": "SCREENSHOT TOO LARGE"
+    }
+  ],
+  "ihRWxb7Azt": [
+    {
+      "type": 0,
+      "value": "REMEMBER MY CHOICE FOR THIS SESSION"
+    }
+  ],
+  "ipGe+BIJx7": [
+    {
+      "type": 0,
+      "value": "NOTIFY ME"
+    }
+  ],
+  "iqT0iuZphp": [
+    {
+      "type": 0,
+      "value": "PLEASE PROVIDE ANY ADDITIONAL INFORMATION TO HELP US UNDERSTAND YOUR REQUEST."
+    }
+  ],
+  "iqnTWdnwhH": [
+    {
+      "type": 0,
+      "value": "PLATFORM.CLAUDE.COM"
+    }
+  ],
+  "ivOuJVNgF2": [
+    {
+      "type": 0,
+      "value": "SHIELD"
+    }
+  ],
+  "j111DEvZ03": [
+    {
+      "type": 0,
+      "value": "CLICKING THE BUTTON WILL RELOAD THE EXTENSION TO APPLY ANY PENDING UPDATES."
+    }
+  ],
+  "j1niUi0cRv": [
+    {
+      "type": 0,
+      "value": "WORKFLOW STOPPED"
+    }
+  ],
+  "j7dxuPbB4O": [
+    {
+      "type": 0,
+      "value": "CONTENT IS USER-GENERATED AND UNVERIFIED."
+    }
+  ],
+  "jCAxc4X6gm": [
+    {
+      "type": 0,
+      "value": "CLAUDE CONNECTING TO BROWSER AND FILE SYSTEM"
+    }
+  ],
+  "jM15m5vYxQ": [
+    {
+      "type": 0,
+      "value": "LEAVE EMPTY TO USE SELECTED MODEL"
+    }
+  ],
+  "jN7b0qJSmv": [
+    {
+      "type": 0,
+      "value": "IF CLAUDE IS OPEN IN A TAB GROUP, IT CAN ACCESS THE URL, CONTEXT AND INFORMATION OF ALL THE TABS IN THAT GROUP."
+    }
+  ],
+  "jOuyTp+O9P": [
+    {
+      "type": 0,
+      "value": "CHANGE LANGUAGE"
+    }
+  ],
+  "jbEJHKa0PR": [
+    {
+      "type": 0,
+      "value": "CLICK TO CAPTURE SCREEN OR DRAG TO SELECT AN AREA"
+    }
+  ],
+  "jebWZltnsn": [
+    {
+      "type": 0,
+      "value": "CHROME SETTINGS"
+    }
+  ],
+  "jogSA3tQ8x": [
+    {
+      "type": 0,
+      "value": "ALL (KEEP EVERY SCREENSHOT)"
+    }
+  ],
+  "jvo0vs3nF0": [
+    {
+      "type": 0,
+      "value": "SAVE"
+    }
+  ],
+  "jz5L9A3Vjy": [
+    {
+      "type": 0,
+      "value": "CLAUDE CAN NOW"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "CONTROL YOUR BROWSER"
+    }
+  ],
+  "jzFcrtq+o4": [
+    {
+      "type": 0,
+      "value": "SCROLL LEFT"
+    }
+  ],
+  "jzcrjmVTFk": [
+    {
+      "type": 0,
+      "value": "YOU NEED A CLAUDE ACCOUNT TO USE THIS ARTIFACT"
+    }
+  ],
+  "k4+9F0xUH9": [
+    {
+      "type": 0,
+      "value": "JAPANESE (SHIFT_JIS)"
+    }
+  ],
+  "k9qHCCLPA5": [
+    {
+      "type": 0,
+      "value": "DOWNLOAD FILE"
+    }
+  ],
+  "kDYzre2KOj": [
+    {
+      "type": 0,
+      "value": "REQUESTING ACCESS..."
+    }
+  ],
+  "kDcz4TuVQh": [
+    {
+      "type": 0,
+      "value": "TEST THE NEWEST"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "CLAUDE EXPERIENCE"
+    }
+  ],
+  "kQAf2d9u+x": [
+    {
+      "type": 0,
+      "value": "SELECT"
+    }
+  ],
+  "kQkEmBIQ/m": [
+    {
+      "type": 0,
+      "value": "1 (DEFAULT, LATEST ONLY)"
+    }
+  ],
+  "kWxPgoo7qQ": [
+    {
+      "type": 0,
+      "value": "YOUR EXTENSION VERSION ("
+    },
+    {
+      "type": 1,
+      "value": "currentVersion"
+    },
+    {
+      "type": 0,
+      "value": ") IS NO LONGER SUPPORTED. PLEASE UPDATE TO VERSION "
+    },
+    {
+      "type": 1,
+      "value": "minSupportedVersion"
+    },
+    {
+      "type": 0,
+      "value": " OR LATER TO CONTINUE USING CLAUDE."
+    }
+  ],
+  "kcb2pY5IsN": [
+    {
+      "type": 0,
+      "value": "ARTIFACT REPORTED"
+    }
+  ],
+  "kdrUaXpTqd": [
+    {
+      "type": 0,
+      "value": "CLAUDE MODEL VERSION NOT FOUND."
+    }
+  ],
+  "kgUPo+XHrd": [
+    {
+      "type": 0,
+      "value": "USED "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " SKILLS"
+    }
+  ],
+  "kmh/1AmVcl": [
+    {
+      "type": 0,
+      "value": "MANY REQUESTS MADE. ACKNOWLEDGE THAT YOU’RE STILL HERE TO CONTINUE."
+    }
+  ],
+  "krKI1Qy1a5": [
+    {
+      "type": 0,
+      "value": "API BASE URL"
+    }
+  ],
+  "krgcu80Qe5": [
+    {
+      "type": 0,
+      "value": "THANK YOU FOR REPORTING THE ARTIFACT. WE TAKE THESE MATTERS SERIOUSLY AND WILL INVESTIGATE THE ISSUE. YOUR REPORT HELPS US MAINTAIN THE INTEGRITY OF OUR PLATFORM."
+    }
+  ],
+  "kwxxreL+i3": [
+    {
+      "type": 0,
+      "value": "EXTRACT PAGE TEXT"
+    }
+  ],
+  "l+dE/S7JbF": [
+    {
+      "type": 0,
+      "value": "REPLY TO CLAUDE"
+    }
+  ],
+  "lG4VIx4FDG": [
+    {
+      "type": 0,
+      "value": "FAILED TO UPLOAD ATTACHMENT. YOU CAN TRY AGAIN."
+    }
+  ],
+  "lINtN6vYsg": [
+    {
+      "type": 0,
+      "value": "AUGUST"
+    }
+  ],
+  "lMdXZI/U+s": [
+    {
+      "type": 0,
+      "value": "DISPLAY TRACE IDS AT THE BEGINNING OF EACH RESPONSE STREAM"
+    }
+  ],
+  "lQnSmhAWv8": [
+    {
+      "type": 0,
+      "value": "TYPE / TO USE SHORTCUTS OR RUN THEM ON A SCHEDULE"
+    }
+  ],
+  "lU28LDdk7g": [
+    {
+      "type": 0,
+      "value": "FOR HIGHER LIMITS, "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "EXPLORE OUR PRO PLAN"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "lbjPYg5eW9": [
+    {
+      "type": 0,
+      "value": "GO THROUGH THE STEPS AS IF YOU'RE TEACHING A NEW TEAMMATE. CLAUDE WILL LEARN THE PROCESS AND REPEAT IT FOR YOU."
+    }
+  ],
+  "ls2O3RKjqV": [
+    {
+      "type": 0,
+      "value": "MISSING ENCODING"
+    }
+  ],
+  "lxblglMBAV": [
+    {
+      "type": 0,
+      "value": "WEDNESDAY"
+    }
+  ],
+  "lzq8R0x4iG": [
+    {
+      "type": 0,
+      "value": "LOAD LONG CONVERSATION"
+    }
+  ],
+  "m0+xd2UWTk": [
+    {
+      "type": 0,
+      "value": "INVALID LOGIN"
+    }
+  ],
+  "mH4wEOlsQs": [
+    {
+      "type": 0,
+      "value": "RESIZE WINDOW"
+    }
+  ],
+  "mHmhCARyh8": [
+    {
+      "type": 0,
+      "value": "CREATE SCHEDULED TASK"
+    }
+  ],
+  "mJR06Pgp0X": [
+    {
+      "type": 0,
+      "value": "SUNDAY"
+    }
+  ],
+  "mNqQMp8tgC": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "NOTE:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " THE EXPORT WILL INCLUDE:"
+    }
+  ],
+  "mREcB0MAuE": [
+    {
+      "type": 0,
+      "value": "OPT OUT OF TRAINING ON THIS REPORT"
+    }
+  ],
+  "mu83ADAkT4": [
+    {
+      "type": 0,
+      "value": "GOOGLE WORKSPACE API"
+    }
+  ],
+  "n2uO4zTmwR": [
+    {
+      "type": 0,
+      "value": "THIS LINK CONTAINS AN INTERNATIONALIZED DOMAIN NAME THAT MAY BE DECEPTIVE. THE DOMAIN APPEARS AS:"
+    }
+  ],
+  "nF7/NB+ws3": [
+    {
+      "type": 0,
+      "value": "NAME THIS BROWSER SO YOU CAN IDENTIFY IT LATER."
+    }
+  ],
+  "nONnTwYJzw": [
+    {
+      "type": 0,
+      "value": "YOUR EMAIL"
+    }
+  ],
+  "nW3gZD88Va": [
+    {
+      "type": 0,
+      "value": "YOU MAY NOT UPLOAD FILES LARGER THAN "
+    },
+    {
+      "type": 1,
+      "value": "sizeLimit"
+    },
+    {
+      "type": 0,
+      "value": "MB."
+    }
+  ],
+  "nbBDYo5GDn": [
+    {
+      "type": 0,
+      "value": "IMAGE FORMAT"
+    }
+  ],
+  "ngIzbjIFxF": [
+    {
+      "type": 0,
+      "value": "DELETE CHAT"
+    }
+  ],
+  "ngzzQUJCXB": [
+    {
+      "type": 0,
+      "value": "GIVE NEGATIVE FEEDBACK"
+    }
+  ],
+  "nl5phX6L/e": [
+    {
+      "type": 0,
+      "value": "TOGGLE EDIT MODE"
+    }
+  ],
+  "nmpevlUATU": [
+    {
+      "type": 0,
+      "value": "DISCARD"
+    }
+  ],
+  "npmO1c1YO3": [
+    {
+      "type": 0,
+      "value": "CLICK AND DRAG TO SELECT AN AREA, OR CLICK ONCE FOR FULL PAGE"
+    }
+  ],
+  "nqpr0hOeKE": [
+    {
+      "type": 0,
+      "value": "CUSTOMIZING AN ARTIFACT REQUIRES A CLAUDE.AI ACCOUNT."
+    }
+  ],
+  "o/G2cAuU9n": [
+    {
+      "type": 0,
+      "value": "THIS PDF WAS CONVERTED TO TEXT DUE TO ITS LARGE SIZE"
+    }
+  ],
+  "o/NOFEuWmE": [
+    {
+      "type": 0,
+      "value": "FILES OF THE FOLLOWING "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "FORMAT"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "FORMATS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " REQUIRE 'CODE EXECUTION AND FILE CREATION'. GO TO SETTINGS > CAPABILITIES TO ENABLE: "
+    },
+    {
+      "type": 1,
+      "value": "formats"
+    }
+  ],
+  "o8XuRD97nP": [
+    {
+      "type": 0,
+      "value": "ENABLE EXPANDABLE TOOL RESULT BLOCKS TO VIEW PARAMETERS AND OUTPUTS"
+    }
+  ],
+  "oCBOPo+ZDe": [
+    {
+      "type": 0,
+      "value": "SHORTCUTS MAKE IT EASY TO SEND INSTRUCTIONS TO CLAUDE. GREAT FOR TASKS YOU REPEAT OFTEN! TYPE / IN THE CHAT TO FIND AND CREATE SHORTCUTS."
+    }
+  ],
+  "oG042zasXb": [
+    {
+      "type": 0,
+      "value": "ERROR LOADING TEST DATA: "
+    },
+    {
+      "type": 1,
+      "value": "error"
+    }
+  ],
+  "oN0R8lZNm6": [
+    {
+      "type": 0,
+      "value": "PLEASE CONSIDER STARTING A NEW CHAT."
+    }
+  ],
+  "oNp1waFarV": [
+    {
+      "type": 0,
+      "value": "LATIN-1 (ISO-8859-1)"
+    }
+  ],
+  "oOkdOmGhII": [
+    {
+      "type": 0,
+      "value": "HTTPS://EXAMPLE.COM"
+    }
+  ],
+  "oTdWIw/nMo": [
+    {
+      "type": 0,
+      "value": "MOVE BEYOND CHAT BY CREATING DOWNLOADABLE DOCS, SPREADSHEETS, AND CODE"
+    }
+  ],
+  "oU4ZCzJVI6": [
+    {
+      "type": 0,
+      "value": "VIEWED "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " FILES"
+    }
+  ],
+  "odXlk858Gb": [
+    {
+      "type": 0,
+      "value": "LOG IN"
+    }
+  ],
+  "og1W/bIZdx": [
+    {
+      "type": 0,
+      "value": "PLEASE PROVIDE DETAILS: (OPTIONAL)"
+    }
+  ],
+  "okKwHjIO0b": [
+    {
+      "type": 0,
+      "value": "PASTED CONTENT"
+    }
+  ],
+  "omhQimAye8": [
+    {
+      "type": 0,
+      "value": "SHOW SYSTEM REMINDERS"
+    }
+  ],
+  "opnhVjl2Ux": [
+    {
+      "type": 0,
+      "value": "CLAUDE IS UNABLE TO RESPOND TO THIS REQUEST, WHICH APPEARS TO VIOLATE OUR "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "USAGE POLICY"
+        }
+      ],
+      "type": 8,
+      "value": "usagePolicyLink"
+    },
+    {
+      "type": 0,
+      "value": ". PLEASE START A NEW CHAT."
+    }
+  ],
+  "oqZjDDkxak": [
+    {
+      "type": 0,
+      "value": "TAKE SCREENSHOT"
+    }
+  ],
+  "orvpWhO3rI": [
+    {
+      "type": 0,
+      "value": "GO BACK"
+    }
+  ],
+  "ovJ26CKo4Q": [
+    {
+      "type": 0,
+      "value": "MEDIUM"
+    }
+  ],
+  "p1P+hQq6tY": [
+    {
+      "type": 0,
+      "value": "REQUEST"
+    }
+  ],
+  "p556q3uvbn": [
+    {
+      "type": 0,
+      "value": "COPIED"
+    }
+  ],
+  "p5wxjR3WJg": [
+    {
+      "type": 0,
+      "value": "I UNDERSTAND"
+    }
+  ],
+  "pQKS8jGiWa": [
+    {
+      "type": 0,
+      "value": "FAILED TO UPLOAD “"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "”. YOU CAN TRY AGAIN."
+    }
+  ],
+  "paBpxNk4t8": [
+    {
+      "type": 0,
+      "value": "IGNORE"
+    }
+  ],
+  "pbB2xqdbta": [
+    {
+      "type": 0,
+      "value": "LOADED TOOLS"
+    }
+  ],
+  "pn+jQDsOvh": [
+    {
+      "type": 0,
+      "value": "NOVEMBER"
+    }
+  ],
+  "pnrK9Ss/bt": [
+    {
+      "type": 0,
+      "value": "CLAUDE IS DONE"
+    }
+  ],
+  "pvtgR26QWY": [
+    {
+      "type": 0,
+      "value": "DECLINE"
+    }
+  ],
+  "q+0F07GZA/": [
+    {
+      "type": 0,
+      "value": "EXPLORE EXAMPLES"
+    }
+  ],
+  "q/uwLTb3Zf": [
+    {
+      "type": 0,
+      "value": "STOP"
+    }
+  ],
+  "q1BWaIlpbN": [
+    {
+      "type": 0,
+      "value": "CYRILLIC (WINDOWS-1251)"
+    }
+  ],
+  "qAhUUOIWbF": [
+    {
+      "type": 0,
+      "value": "THURSDAY"
+    }
+  ],
+  "qEqMmrx/MW": [
+    {
+      "type": 0,
+      "value": "YOUR PERMISSION IS NEEDED TO CONTINUE"
+    }
+  ],
+  "qTWwGwIHH6": [
+    {
+      "type": 0,
+      "value": "PARAMETERS:"
+    }
+  ],
+  "qgGoWr0XYl": [
+    {
+      "type": 0,
+      "value": "YOU MUST APPROVE ANY CLAUDE ACTION ON THIS SITE"
+    }
+  ],
+  "qndjDTg0gE": [
+    {
+      "type": 0,
+      "value": "PRIVATE/CONFIDENTIAL INFORMATION"
+    }
+  ],
+  "qphPEQ/z5U": [
+    {
+      "type": 0,
+      "value": "KOREAN (EUC-KR)"
+    }
+  ],
+  "qxV00r12ob": [
+    {
+      "type": 0,
+      "value": "YOU CAN ADD AT MOST "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " ATTACHMENT"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " ATTACHMENTS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " TO A MESSAGE. PLEASE SELECT FEWER ATTACHMENTS."
+    }
+  ],
+  "qyJtWyZ0yt": [
+    {
+      "type": 0,
+      "value": "SHOW LESS"
+    }
+  ],
+  "r2Qwbqbb9d": [
+    {
+      "type": 0,
+      "value": "TAKE THIS ARTIFACT WITH YOU IN A NEW CHAT WITH CLAUDE AND EVOLVE IT WITH YOUR OWN UNIQUE SPIN."
+    }
+  ],
+  "r5pj/5J6ic": [
+    {
+      "type": 0,
+      "value": "DRAG"
+    }
+  ],
+  "rHyMT1rizz": [
+    {
+      "type": 0,
+      "value": "KEYBOARD SHORTCUT"
+    }
+  ],
+  "rKQPgfPvWS": [
+    {
+      "type": 0,
+      "value": "MORE OPTIONS FOR "
+    },
+    {
+      "type": 1,
+      "value": "label"
+    }
+  ],
+  "rQ2DY5IToI": [
+    {
+      "type": 1,
+      "value": "modelName"
+    },
+    {
+      "type": 0,
+      "value": " IS BILLED AS EXTRA USAGE AT A PREMIUM RATE. SEPARATE RATE LIMITS APPLY."
+    }
+  ],
+  "rQqW2V2Nvh": [
+    {
+      "type": 0,
+      "value": "FILE COULD NOT BE SAVED."
+    }
+  ],
+  "rW/kw78ou7": [
+    {
+      "type": 0,
+      "value": "ADD CONTENT ("
+    },
+    {
+      "type": 1,
+      "value": "maxUploads"
+    },
+    {
+      "type": 0,
+      "value": " MAX, "
+    },
+    {
+      "type": 1,
+      "value": "maxSize"
+    },
+    {
+      "type": 0,
+      "value": "MB EACH)\\NACCEPTS PDF, TXT, CSV, ETC."
+    }
+  ],
+  "rWFePRi0Xm": [
+    {
+      "type": 0,
+      "value": "SEARCHED MEMORY"
+    }
+  ],
+  "rbG4gZ94o6": [
+    {
+      "type": 0,
+      "value": "FAILED TO RENAME CONVERSATION"
+    }
+  ],
+  "rbrahOGMC3": [
+    {
+      "type": 0,
+      "value": "CLOSE"
+    }
+  ],
+  "rdQw3nhjJl": [
+    {
+      "type": 0,
+      "value": "LOAD TOOL USE CONVERSATION"
+    }
+  ],
+  "rhSI1/3g21": [
+    {
+      "type": 0,
+      "value": "MODEL"
+    }
+  ],
+  "riw/yc06Nq": [
+    {
+      "type": 0,
+      "value": "BETA"
+    }
+  ],
+  "rwoZ8xAmCX": [
+    {
+      "type": 0,
+      "value": "PRESS "
+    },
+    {
+      "type": 1,
+      "value": "key"
+    },
+    {
+      "type": 0,
+      "value": " KEY"
+    }
+  ],
+  "s3IOQQ+nJU": [
+    {
+      "type": 0,
+      "value": "EDIT "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "s5uJOAoEr4": [
+    {
+      "type": 0,
+      "value": "CLICK BELOW TO GET THE LATEST INTERNAL BUILD FROM THE CHROME WEB STORE."
+    }
+  ],
+  "s88ium+h8p": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " RESULT"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " RESULTS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "sB0/cnPXfX": [
+    {
+      "type": 0,
+      "value": "QUICK MODE IS EXPERIMENTAL"
+    }
+  ],
+  "sDX6Oo6Pj4": [
+    {
+      "type": 0,
+      "value": "USE SHORTCUTS TO SAVE TIME"
+    }
+  ],
+  "sHRMIfTKu4": [
+    {
+      "type": 0,
+      "value": "CLAUDE’S RESPONSE WAS INTERRUPTED. THIS CAN BE CAUSED BY NETWORK PROBLEMS OR EXCEEDING THE MAXIMUM CONVERSATION LENGTH. PLEASE "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "CONTACT SUPPORT"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " IF THE ISSUE PERSISTS."
+    }
+  ],
+  "sbllSdx3rS": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "HIGH RISK:"
+        }
+      ],
+      "type": 8,
+      "value": "bold"
+    },
+    {
+      "type": 0,
+      "value": " CLAUDE CAN TAKE MOST ACTIONS ON THE INTERNET NOW. THIS SETTING COULD PUT YOUR DATA AT RISK. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "SEE SAFE USE TIPS"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "sl7GM0q/D+": [
+    {
+      "type": 0,
+      "value": "NONE (OMIT PARAMETER)"
+    }
+  ],
+  "smio7jldoW": [
+    {
+      "type": 0,
+      "value": "DESCRIBE WHAT YOU WOULD LIKE TO UPDATE..."
+    }
+  ],
+  "syL/4bL0LR": [
+    {
+      "type": 0,
+      "value": "YOU'RE LEAVING CLAUDE TO VISIT AN EXTERNAL LINK:"
+    }
+  ],
+  "t8LDMCebfq": [
+    {
+      "type": 0,
+      "value": "CUSTOMIZE THIS ARTIFACT"
+    }
+  ],
+  "t8QlFE5KKF": [
+    {
+      "type": 0,
+      "value": "JANUARY"
+    }
+  ],
+  "tAAqTd9GOn": [
+    {
+      "type": 0,
+      "value": "SCREENSHOT IS NOT AVAILABLE ON THIS PAGE"
+    }
+  ],
+  "tEIdSD1dER": [
+    {
+      "type": 0,
+      "value": "EDITED A NOTEBOOK"
+    }
+  ],
+  "tFFMkFDBMO": [
+    {
+      "type": 0,
+      "value": "PAUSE"
+    }
+  ],
+  "tI3ocabFQo": [
+    {
+      "type": 0,
+      "value": "THIS CONNECTOR HAS KNOWN ISSUES"
+    }
+  ],
+  "tKMlOcHz9T": [
+    {
+      "type": 0,
+      "value": "MENU"
+    }
+  ],
+  "tL4WC1FPW1": [
+    {
+      "type": 0,
+      "value": "LOADING MORE..."
+    }
+  ],
+  "tLmAeX6EIO": [
+    {
+      "type": 0,
+      "value": "SYSTEM PROMPTS AND METADATA"
+    }
+  ],
+  "tTVI3GQeyu": [
+    {
+      "type": 0,
+      "value": "CREATED A FILE"
+    }
+  ],
+  "tX+S0cc3I4": [
+    {
+      "type": 0,
+      "value": "CLAUDE WANTS TO USE:"
+    }
+  ],
+  "tnRDuUFRQw": [
+    {
+      "type": 0,
+      "value": "REVOKE"
+    }
+  ],
+  "ttaSfve/3w": [
+    {
+      "type": 0,
+      "value": "CLAUDE WILL ONLY USE THE SITES LISTED. YOU'LL BE ASKED BEFORE ACCESSING ANYTHING ELSE."
+    }
+  ],
+  "tuJiA0ZNUD": [
+    {
+      "type": 0,
+      "value": "BAD RESPONSE"
+    }
+  ],
+  "txkW56MpkQ": [
+    {
+      "type": 0,
+      "value": "SUBMITTING..."
+    }
+  ],
+  "u18BzaOjgu": [
+    {
+      "type": 0,
+      "value": "TASK COMPLETION NOTIFICATIONS"
+    }
+  ],
+  "uAw7cJ5rnr": [
+    {
+      "type": 0,
+      "value": "FETCHING PAGE"
+    }
+  ],
+  "uMZxG9zGvp": [
+    {
+      "type": 0,
+      "value": "WESTERN EUROPEAN (WINDOWS-1252)"
+    }
+  ],
+  "uPTRxsratl": [
+    {
+      "type": 0,
+      "value": "MESSAGE CLAUDE..."
+    }
+  ],
+  "uQDRsYlg+S": [
+    {
+      "type": 0,
+      "value": "LATER"
+    }
+  ],
+  "uXoBCKm0ys": [
+    {
+      "type": 0,
+      "value": "FILE ACCESS WAS DENIED."
+    }
+  ],
+  "uYztQwXf/+": [
+    {
+      "type": 0,
+      "value": "DOMAIN TRANSITIONS"
+    }
+  ],
+  "un14bsOIsH": [
+    {
+      "type": 0,
+      "value": "OPEN CHAT"
+    }
+  ],
+  "uu/l1k2f+L": [
+    {
+      "type": 0,
+      "value": "YOU’VE REACHED YOUR WEEKLY LIMIT FOR THINKING MESSAGES. PLEASE TRY AGAIN NEXT WEEK."
+    }
+  ],
+  "uyEHx0NjuN": [
+    {
+      "type": 0,
+      "value": "ANIMATED GIF WITH ACTION INDICATORS"
+    }
+  ],
+  "vAKAnIbJ4M": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " STEP"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " STEPS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "vBiQpyXw2X": [
+    {
+      "type": 0,
+      "value": "RESULT:"
+    }
+  ],
+  "vELHSm4csV": [
+    {
+      "type": 0,
+      "value": "SENT COMPLETION NOTIFICATION"
+    }
+  ],
+  "vJH/bBoB1X": [
+    {
+      "type": 0,
+      "value": "SHARE CONVERSATION"
+    }
+  ],
+  "vJNMTf4kWc": [
+    {
+      "type": 0,
+      "value": "API CONFIGURATION"
+    }
+  ],
+  "vKFHWS4Ycl": [
+    {
+      "type": 1,
+      "value": "size"
+    },
+    {
+      "type": 0,
+      "value": " KB"
+    }
+  ],
+  "vKYgXlWdOu": [
+    {
+      "type": 0,
+      "value": "TOGGLE PERMISSION MODE"
+    }
+  ],
+  "vM9lvLriK9": [
+    {
+      "type": 0,
+      "value": "ENABLE STRUCTURED API TOOLS FOR GOOGLE DOCS, SHEETS, SLIDES, GMAIL, AND CALENDAR"
+    }
+  ],
+  "vMUomPyEk+": [
+    {
+      "type": 0,
+      "value": "UPLOAD IMAGE"
+    }
+  ],
+  "vWBKqpDTBm": [
+    {
+      "type": 0,
+      "value": "LOADING CONVERSATIONS..."
+    }
+  ],
+  "vYjeaNdXif": [
+    {
+      "type": 0,
+      "value": "TRADEMARK INFRINGEMENT"
+    }
+  ],
+  "vjsFq8zg2Y": [
+    {
+      "type": 0,
+      "value": "CLICK THROUGH YOUR TASK TO RECORD EACH STEP"
+    }
+  ],
+  "vlKhIlKczK": [
+    {
+      "type": 0,
+      "value": "YOUR NAME"
+    }
+  ],
+  "vwxMsyPVYx": [
+    {
+      "type": 0,
+      "value": "FILE"
+    }
+  ],
+  "vyV1zGTEEH": [
+    {
+      "type": 0,
+      "value": "VIOLENCE AND/OR HATE SPEECH"
+    }
+  ],
+  "w5LAgMj8xn": [
+    {
+      "type": 0,
+      "value": "CREATE NEW SHORTCUT"
+    }
+  ],
+  "wEQDC6Wv3/": [
+    {
+      "type": 0,
+      "value": "EDIT"
+    }
+  ],
+  "wJ41IHBkzE": [
+    {
+      "type": 0,
+      "value": "GET NOTIFIED WHEN TASKS COMPLETE OR NEED INPUT"
+    }
+  ],
+  "wL7VAE/fRX": [
+    {
+      "type": 0,
+      "value": "ACTIONS"
+    }
+  ],
+  "wLZuGWqTtQ": [
+    {
+      "type": 0,
+      "value": "PLEASE HELP US ANTFOOD THE LATEST VERSION OF CLAUDE. YOUR TESTING ACCELERATES OUR DEVELOPMENT."
+    }
+  ],
+  "wQ9MRHcGCI": [
+    {
+      "type": 0,
+      "value": "RELOAD THE SIDE PANEL AFTER LOADING TEST DATA"
+    }
+  ],
+  "wSZR47Y5kj": [
+    {
+      "type": 0,
+      "value": "SUBMIT"
+    }
+  ],
+  "wT63jkA9qK": [
+    {
+      "type": 0,
+      "value": "EDITED A FILE"
+    }
+  ],
+  "wVu1FLTwAn": [
+    {
+      "type": 0,
+      "value": "LET'S GO"
+    }
+  ],
+  "wWT0iz9SkP": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "VIEW YOUR USAGE DETAILS"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "wYsv4ZHu+B": [
+    {
+      "type": 0,
+      "value": "MONTHLY"
+    }
+  ],
+  "wn15NDyLWm": [
+    {
+      "type": 0,
+      "value": "SHORTCUT ADDED"
+    }
+  ],
+  "wrcoZ2Zo0b": [
+    {
+      "type": 0,
+      "value": "TRY FIXING WITH CLAUDE"
+    }
+  ],
+  "wvGBF/FvBd": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " COLUMN"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " COLUMNS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "columnCount"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " ROW"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " ROWS"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "rowCount"
+    }
+  ],
+  "x0W7xxxEcv": [
+    {
+      "type": 0,
+      "value": "WEB SEARCH"
+    }
+  ],
+  "x0gJoMad7a": [
+    {
+      "type": 0,
+      "value": "DOUBLE-CLICK"
+    }
+  ],
+  "x5Tz6MZH82": [
+    {
+      "type": 0,
+      "value": "REPORT"
+    }
+  ],
+  "x8JhFG5A3f": [
+    {
+      "type": 0,
+      "value": "CLAUDE HAD TO PAUSE"
+    }
+  ],
+  "xBaHKeE0uO": [
+    {
+      "type": 0,
+      "value": "JUNE"
+    }
+  ],
+  "xFdRKGza1P": [
+    {
+      "type": 0,
+      "value": "STEP 2: REMOVE THIS EXTENSION"
+    }
+  ],
+  "xLpBTyWHMH": [
+    {
+      "type": 0,
+      "value": "COMPUTER ACTION: "
+    },
+    {
+      "type": 1,
+      "value": "action"
+    }
+  ],
+  "xUedNbOuGK": [
+    {
+      "type": 0,
+      "value": "SHARE "
+    },
+    {
+      "type": 1,
+      "value": "feedbackType"
+    },
+    {
+      "type": 0,
+      "value": " FEEDBACK"
+    }
+  ],
+  "xeH1mSU1MS": [
+    {
+      "type": 0,
+      "value": "THIS MODE PUTS YOUR DATA AND THE DATA OF OTHERS AT RISK FROM MALICIOUS CODE."
+    }
+  ],
+  "xgz5co4oqe": [
+    {
+      "type": 0,
+      "value": "CLAUDE PAUSED DUE TO A NAVIGATION FROM "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "fromDomain"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " TO "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "toDomain"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "xsy6u5jY4z": [
+    {
+      "type": 0,
+      "value": "SITE-LEVEL PERMISSIONS ARE DISABLED FOR THIS SITE."
+    }
+  ],
+  "xvBEtpDq86": [
+    {
+      "type": 0,
+      "value": "ENTER YOUR PROMPT TEXT..."
+    }
+  ],
+  "y/bmsG8rnv": [
+    {
+      "type": 0,
+      "value": "ALLOW"
+    }
+  ],
+  "y1Z3orIe9Z": [
+    {
+      "type": 0,
+      "value": "LANGUAGE"
+    }
+  ],
+  "y5DX5NCmrm": [
+    {
+      "type": 0,
+      "value": "EDITED "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " FILES"
+    }
+  ],
+  "yJAKR0Ngpn": [
+    {
+      "type": 0,
+      "value": "SEND MESSAGE"
+    }
+  ],
+  "yJFWG3mK1I": [
+    {
+      "type": 0,
+      "value": "WHAT WAS SATISFYING ABOUT THIS RESPONSE?"
+    }
+  ],
+  "yLeYIHrySb": [
+    {
+      "type": 0,
+      "value": "CLAUDE CAN TAKE ON YOUR MULTI-STEP WORK LIKE QA TESTING, RESEARCHING SALES LEADS, AND DATA ENTRY ACROSS MULTIPLE SITES. YOU CAN FOCUS ELSEWHERE KNOWING CLAUDE IS WORKING IN BACKGROUND."
+    }
+  ],
+  "yMbKjuDH/n": [
+    {
+      "type": 0,
+      "value": "ZOOM"
+    }
+  ],
+  "yPUC8ZWYmE": [
+    {
+      "type": 0,
+      "value": "CHANGING THE LANGUAGE WILL START A NEW CHAT."
+    }
+  ],
+  "ya5HK9oB9T": [
+    {
+      "type": 0,
+      "value": "ERROR IN CLAUDE COMPLETION"
+    }
+  ],
+  "ycIOwbY8b/": [
+    {
+      "type": 0,
+      "value": "ASK BEFORE ACTING"
+    }
+  ],
+  "yeVBln6MC+": [
+    {
+      "type": 0,
+      "value": "RETRY WITH "
+    },
+    {
+      "type": 1,
+      "value": "fallbackDisplayName"
+    }
+  ],
+  "ymWsV10Pz1": [
+    {
+      "type": 0,
+      "value": "YOUR "
+    },
+    {
+      "type": 1,
+      "value": "resourceType"
+    },
+    {
+      "type": 0,
+      "value": " UPLOAD FAILED. PLEASE TRY AGAIN."
+    }
+  ],
+  "yq8mEk+Hev": [
+    {
+      "type": 0,
+      "value": "VOICE NARRATION ACTIVE"
+    }
+  ],
+  "ysZbg4a2QH": [
+    {
+      "type": 0,
+      "value": "THE TEXT ENCODING FOR "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "fileName"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " COULD NOT BE DETERMINED. CHOOSE AN ENCODING AND VERIFY WITH THE PREVIEW."
+    }
+  ],
+  "yx1UefClU6": [
+    {
+      "type": 0,
+      "value": "DISPLAY SYSTEM REMINDER TAGS FOR DEBUGGING TAB CONTEXT CHANGES"
+    }
+  ],
+  "z/9/pgDLbi": [
+    {
+      "type": 0,
+      "value": "768PX"
+    }
+  ],
+  "z7AnVbQ0rh": [
+    {
+      "type": 0,
+      "value": "THIS FILE TYPE CANNOT BE OPENED."
+    }
+  ],
+  "z9VjDwhyoe": [
+    {
+      "type": 0,
+      "value": "SAVE AS SHORTCUT"
+    }
+  ],
+  "zPbO6HcY5Z": [
+    {
+      "type": 0,
+      "value": "CLAUDE WILL NOT PURCHASE ITEMS, CREATE ACCOUNTS, OR BYPASS CAPTCHAS WITHOUT INPUT. REVOKE SITE PERMISSIONS IN "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "SETTINGS"
+        }
+      ],
+      "type": 8,
+      "value": "settingsButton"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "zQipeg7kSl": [
+    {
+      "type": 0,
+      "value": "SCROLL DOWN"
+    }
+  ],
+  "zU/q1NoIdN": [
+    {
+      "type": 0,
+      "value": "LINK COPIED"
+    }
+  ],
+  "zUpHdfwzIp": [
+    {
+      "type": 0,
+      "value": "MAY"
+    }
+  ],
+  "zUqcG2+Ygl": [
+    {
+      "type": 0,
+      "value": "UPDATED TODO LIST"
+    }
+  ],
+  "zVfLRVWxUM": [
+    {
+      "type": 0,
+      "value": "IMAGE QUALITY"
+    }
+  ],
+  "zYPk/n3qmG": [
+    {
+      "type": 0,
+      "value": "CHAT SESSIONS WILL APPEAR HERE"
+    }
+  ],
+  "zZuYUk2GGf": [
+    {
+      "type": 0,
+      "value": "UNTITLED"
+    }
+  ],
+  "ze8mOEi4wo": [
+    {
+      "type": 0,
+      "value": "EDITED "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " NOTEBOOKS"
+    }
+  ],
+  "zfW5u5DbnY": [
+    {
+      "type": 0,
+      "value": "TASK-NAME"
+    }
+  ],
+  "zi3F37/OAt": [
+    {
+      "type": 0,
+      "value": "CUSTOMIZE SYSTEM PROMPT"
+    }
+  ],
+  "zqQotfDw3h": [
+    {
+      "type": 0,
+      "value": "COMPACTING..."
+    }
+  ],
+  "ztswgLtQRV": [
+    {
+      "type": 0,
+      "value": "SELECT ELEMENT"
+    }
+  ],
+  "zxvhnETmn2": [
+    {
+      "type": 0,
+      "value": "DAILY"
+    }
+  ]
+}

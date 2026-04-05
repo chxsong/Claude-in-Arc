@@ -1,0 +1,6774 @@
+{
+  "++Pasr1YW3": [
+    {
+      "type": 0,
+      "value": "PNG (lossless, large)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "+0zv6gS/c6": [
+    {
+      "type": 0,
+      "value": "ImageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "+3JNZUiU+F": [
+    {
+      "type": 0,
+      "value": "This is an experimental mode that is still being evaluated. Monitor Claude closely while using it. Avoid sensitive workflows.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "+DB/t6WTki": [
+    {
+      "type": 0,
+      "value": "What was unsatisfying about this response?SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "+G68MpAlMw": [
+    {
+      "type": 0,
+      "value": "Used PreviewSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "+K+Ivzv8BD": [
+    {
+      "type": 0,
+      "value": "Wait for Claude to finishSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "+N2w6QNwn2": [
+    {
+      "type": 0,
+      "value": "See something Claude should know about? Send a screenshot with a message.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "+hhq5pP98n": [
+    {
+      "type": 0,
+      "value": "Describe what worked well and what could be improved about the suggestions...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "+lsh8v//5g": [
+    {
+      "type": 0,
+      "value": "Scroll rightSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "+vVZ/G11Zg": [
+    {
+      "type": 0,
+      "value": "ConnectSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "+yoqHvrSyZ": [
+    {
+      "type": 0,
+      "value": "Debug SettingsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/06n65wN4J": [
+    {
+      "type": 0,
+      "value": "This is a beta featureSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/5FoUj4Va+": [
+    {
+      "type": 0,
+      "value": "When navigating between these sitesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/6iExgDC34": [
+    {
+      "type": 0,
+      "value": "Invalid time formatSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/AyXW9R0Le": [
+    {
+      "type": 0,
+      "value": "Too many upload attempts. Wait a moment and try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/CBk9UV8iS": [
+    {
+      "type": 0,
+      "value": "New permissions requiredSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/GXAvJ98t+": [
+    {
+      "type": 0,
+      "value": "Running commandSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/Ma3teJf9/": [
+    {
+      "type": 0,
+      "value": "Claude contentSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/VnDMl81rh": [
+    {
+      "type": 0,
+      "value": "OtherSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/cUj2zoCtz": [
+    {
+      "type": 0,
+      "value": "Read console messagesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/clOBUs/wZ": [
+    {
+      "type": 0,
+      "value": "WeeklySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/fdYJU5SMC": [
+    {
+      "type": 0,
+      "value": "Please check the file name and try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/hgypvsrtJ": [
+    {
+      "type": 1,
+      "value": "size"
+    },
+    {
+      "type": 0,
+      "value": " KBSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/iWSNCU/BH": [
+    {
+      "type": 0,
+      "value": "My shortcutsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/jNwaAHdg9": [
+    {
+      "type": 0,
+      "value": "Your message will exceed the maximum number of files allowed per message. Consider removing some of your files or adding files over several messages.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/ly4NRQA83": [
+    {
+      "type": 0,
+      "value": "Loaded skillSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/mCoauj3Ws": [
+    {
+      "type": 0,
+      "value": "Uploaded file is too large. Try uploading a smaller part of the document, or copy/pasting an excerpt from the file.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/oSRHC9/hb": [
+    {
+      "type": 0,
+      "value": "Screenshot thumbnailSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "/vpJ4PBekj": [
+    {
+      "type": 0,
+      "value": "Dev TestingSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "04w/1piSXb": [
+    {
+      "type": 0,
+      "value": "Submitting this report will send the entire current conversation to Anthropic for future improvements to our models. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Learn more"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "06tSNl9YfF": [
+    {
+      "type": 0,
+      "value": "Scroll upSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "07CU16lPVb": [
+    {
+      "type": 0,
+      "value": "Press "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " keys: "
+    },
+    {
+      "type": 1,
+      "value": "summary"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "0A0qMvsWV4": [
+    {
+      "type": 0,
+      "value": "Drafting plan...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "0BMfJOry+3": [
+    {
+      "type": 0,
+      "value": "Save API KeySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "0HUNCOubmp": [
+    {
+      "type": 0,
+      "value": "Making edits...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "0TR0PDvKax": [
+    {
+      "type": 0,
+      "value": "FebruarySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "0YIsn/UOa0": [
+    {
+      "type": 0,
+      "value": "Stop messageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "0ZuuhwjU4n": [
+    {
+      "type": 0,
+      "value": "SearchedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "0kOCGtB3eN": [
+    {
+      "type": 0,
+      "value": "The file “"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "” could not be found.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "0nCKXihfO0": [
+    {
+      "type": 0,
+      "value": "Why are you reporting this?SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "13OdRQYanm": [
+    {
+      "type": 0,
+      "value": "Illegal goodsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "13YOiAKDfM": [
+    {
+      "type": 0,
+      "value": "Microphone access blockedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "14+jcDS33B": [
+    {
+      "type": 0,
+      "value": "Created "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " filesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "1IMB/Q+/I9": [
+    {
+      "type": 0,
+      "value": "Try on desktopSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "1M/MackCDO": [
+    {
+      "type": 0,
+      "value": "Searched "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " patternsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "1bEhiGnHtL": [
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": " thumbnailSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "1bxKaj0pKU": [
+    {
+      "type": 0,
+      "value": "Upload failed due to a network issue. Check your internet connection and try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "1cBbdp1n7Q": [
+    {
+      "type": 0,
+      "value": "You should oversee Claude when it is in this mode. You are fully responsible for all risks associated with permission-less Claude.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "1e/v371QIT": [
+    {
+      "type": 0,
+      "value": "Open artifact"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "1if5aMN6aR": [
+    {
+      "type": 0,
+      "value": "Desktop screenshotsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "1mTUAYpy10": [
+    {
+      "type": 0,
+      "value": "image.pngSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "1nV3NuMwiG": [
+    {
+      "type": 0,
+      "value": "Failed to fetchSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2/2yg+qAwp": [
+    {
+      "type": 0,
+      "value": "AddSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "242T21lCRb": [
+    {
+      "type": 0,
+      "value": "Deleted "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " filesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "26Cn0oifmR": [
+    {
+      "type": 0,
+      "value": "URL is requiredSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "29gmtdw6e5": [
+    {
+      "type": 0,
+      "value": "Error: "
+    },
+    {
+      "type": 1,
+      "value": "error"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2Gct3kUo/o": [
+    {
+      "type": 0,
+      "value": "Browser automationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2H4p4zLO4P": [
+    {
+      "type": 0,
+      "value": "Anthropic API KeySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2IdpXcmaL/": [
+    {
+      "type": 0,
+      "value": "Unable to open file.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2IiG1AGCna": [
+    {
+      "type": 0,
+      "value": "We value user reports to uphold our platform’s integrity and improve our ability to enforce our Usage Policy. Unless you opt out, reports may be used to train models for use by our Trust & Safety team, consistent with Anthropic’s safety mission. Opt out of this use by changing the toggle above.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2KtWqT5Nl+": [
+    {
+      "type": 0,
+      "value": "InternalSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2Of7XEfvDu": [
+    {
+      "type": 0,
+      "value": "Try quick mode - our experimental fast browsing experience.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2QDdAh+Gbf": [
+    {
+      "type": 0,
+      "value": "This conversation is too long to continue. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Start a new chat"
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 0,
+      "value": ", or remove some tools to free up space.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2ZM4JNJI7K": [
+    {
+      "type": 0,
+      "value": "Your session has expiredSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2epHWDjRXo": [
+    {
+      "type": 0,
+      "value": "Turkish (Windows-1254)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2iPAwj1yCC": [
+    {
+      "type": 0,
+      "value": "Log in to Claude to use or customize this artifact. No account? You can create one for free.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2jjdVzJX0c": [
+    {
+      "type": 0,
+      "value": "Upload filesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2kBzPQ9Wsi": [
+    {
+      "type": 0,
+      "value": "This site requires permission for each action.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2kIOIQ+IMe": [
+    {
+      "type": 0,
+      "value": "Limits will reset "
+    },
+    {
+      "type": 1,
+      "value": "day"
+    },
+    {
+      "type": 0,
+      "value": " at "
+    },
+    {
+      "type": 1,
+      "value": "resetsAt"
+    },
+    {
+      "type": 0,
+      "value": ".SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2mMJRvsAg1": [
+    {
+      "type": 0,
+      "value": "ConnectorsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2mmEfFQIze": [
+    {
+      "type": 0,
+      "value": "Court orderSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2n9PvXg1wT": [
+    {
+      "type": 0,
+      "value": "Enable microphone access to use your browser's speech-to-text functionality for voice narration during workflow recordingSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2uu7KJJCOH": [
+    {
+      "type": 0,
+      "value": "Step "
+    },
+    {
+      "type": 1,
+      "value": "currentStep"
+    },
+    {
+      "type": 0,
+      "value": " of "
+    },
+    {
+      "type": 1,
+      "value": "totalCount"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2x8xsy/VJk": [
+    {
+      "type": 0,
+      "value": "Current shortcut: "
+    },
+    {
+      "type": 1,
+      "value": "shortcut"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "2yTW8KQyIr": [
+    {
+      "type": 0,
+      "value": "This allows Claude to take any action on the internet.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "3HqwPnSzes": [
+    {
+      "type": 0,
+      "value": "Ran terminalSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "3KYfO78h3Q": [
+    {
+      "type": 0,
+      "value": "Put Claude to work in your browser...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "3KbdFvbeRu": [
+    {
+      "type": 0,
+      "value": "Test notificationsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "3RpkNRAyPc": [
+    {
+      "type": 0,
+      "value": "An error occurred while trying to run the generated artifact.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "3VG8rbxa4v": [
+    {
+      "type": 0,
+      "value": "An unknown error occurredSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "3h3ag+S9Qb": [
+    {
+      "type": 0,
+      "value": "Click Location:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "3hk4yMCf5v": [
+    {
+      "type": 0,
+      "value": "Or "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "contact sales"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " if you would be interested in upgrading to a paid version of Claude.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "3jVWWj+aj4": [
+    {
+      "type": 0,
+      "value": "e.g., summarizeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "3kbIhS7KZS": [
+    {
+      "type": 0,
+      "value": "UntitledSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "3y9DGgura7": [
+    {
+      "type": 0,
+      "value": "ResumeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "4+310Bnuvz": [
+    {
+      "type": 0,
+      "value": "Searched the webSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "438y6E4IUP": [
+    {
+      "type": 0,
+      "value": "Show trace IDsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "477I0ggSYe": [
+    {
+      "type": 0,
+      "value": "LowSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "47FYwba+bI": [
+    {
+      "type": 0,
+      "value": "CancelSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "481hO7jC9z": [
+    {
+      "type": 0,
+      "value": "Loading permissions...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "4AhXwwJN7S": [
+    {
+      "type": 0,
+      "value": "Customize the instructions given to Claude for browser automation tasks.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "4Bom+nABM6": [
+    {
+      "type": 0,
+      "value": "Web fetchSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "4VcUGIGtNu": [
+    {
+      "type": 0,
+      "value": "Greek (Windows-1253)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "4XdZthEtcv": [
+    {
+      "type": 0,
+      "value": "If you are reporting the content as violating our policies (including our terms or Usage Policy), please describe in detail why you believe the identified content is in violation of our policies, with specific citations to our policies wherever possible.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "4aIpD3RYB/": [
+    {
+      "type": 0,
+      "value": "Chrome extension with connected appsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "4c3LCpKv39": [
+    {
+      "type": 0,
+      "value": "This conversation can't be compacted any further. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Start a new chat"
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 0,
+      "value": " to continue.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "4jbxHKfdQJ": [
+    {
+      "type": 0,
+      "value": "Load simple conversationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "4l6vz1/eZ5": [
+    {
+      "type": 0,
+      "value": "CopySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "4opisC4xNg": [
+    {
+      "type": 0,
+      "value": "Model selector, "
+    },
+    {
+      "type": 1,
+      "value": "model"
+    },
+    {
+      "type": 0,
+      "value": " selectedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "53DiPrdI5r": [
+    {
+      "type": 0,
+      "value": "Global instructionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5CvLCHBlfQ": [
+    {
+      "type": 0,
+      "value": "Created "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5KajyzHSXj": [
+    {
+      "type": 0,
+      "value": "Searching the webSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5Ocu9uCFLz": [
+    {
+      "type": 0,
+      "value": "Limit reached. This artifact uses Claude for responses. Try again when the message limit resets.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5SGbHZD5HC": [
+    {
+      "type": 0,
+      "value": "Microphone access has been denied. To enable, change Microphone to 'Allow' in "
+    },
+    {
+      "type": 1,
+      "value": "chromeSettingsLink"
+    },
+    {
+      "type": 0,
+      "value": ".SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5U/pkz4osv": [
+    {
+      "type": 0,
+      "value": "Automate your repetitive tasksSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5YeZ4eSCdp": [
+    {
+      "type": 0,
+      "value": "\""
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "\" is too large. Images must be under "
+    },
+    {
+      "type": 1,
+      "value": "limit"
+    },
+    {
+      "type": 0,
+      "value": "MB. You can resize or compress it and try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5cTjpUYBW8": [
+    {
+      "type": 0,
+      "value": "Test conversationsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5mDrlUu7+N": [
+    {
+      "type": 0,
+      "value": "Can't access this pageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5n05oJw5CD": [
+    {
+      "type": 0,
+      "value": "Screenshot with click locationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5oZeuus9Dz": [
+    {
+      "type": 0,
+      "value": "API Key ModeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5q3qC0sC3r": [
+    {
+      "type": 0,
+      "value": "DownloadSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5qKeNV67+8": [
+    {
+      "type": 0,
+      "value": "Fetching from "
+    },
+    {
+      "type": 1,
+      "value": "hostname"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "5qaD7sDVxu": [
+    {
+      "type": 0,
+      "value": "RejectedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "62nsdyMyIO": [
+    {
+      "type": 0,
+      "value": "RetrySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "64Zy5GdKR8": [
+    {
+      "type": 0,
+      "value": "Customize is not available for teamsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6GZsc+GLF3": [
+    {
+      "type": 0,
+      "value": "Structured API tools are enabled for Google Docs, Sheets, Slides, Gmail, and CalendarSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6Ovg0gmxY3": [
+    {
+      "type": 0,
+      "value": "Please use this "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "form"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " to report copyright infringement.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6RGlahDX2/": [
+    {
+      "type": 0,
+      "value": "Model OverrideSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6Ss5IpaxlL": [
+    {
+      "type": 0,
+      "value": "Allow this actionSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6UuyKKMuCv": [
+    {
+      "type": 0,
+      "value": "Read network requestsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6VB5leIcQ2": [
+    {
+      "type": 0,
+      "value": "Enable quick modeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6XFO/Cw7Ld": [
+    {
+      "type": 0,
+      "value": "ApprovedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6baLmoYEwS": [
+    {
+      "type": 0,
+      "value": "Browse, click, and typeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6jDabxQKDj": [
+    {
+      "type": 0,
+      "value": "Give FeedbackSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6kGP03sC6R": [
+    {
+      "type": 0,
+      "value": "Read page (interactive)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6pwz+Cv63v": [
+    {
+      "type": 0,
+      "value": "Record workflowSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6x5YwESShd": [
+    {
+      "type": 0,
+      "value": "Waiting for permission request...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "6zfn3n4+te": [
+    {
+      "type": 0,
+      "value": "Another extension you're using is preventing Claude in Chrome from operating. Turn off extensions such as "
+    },
+    {
+      "type": 1,
+      "value": "extensionName"
+    },
+    {
+      "type": 0,
+      "value": " to use Claude in your browser.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "7/3PxH3ltB": [
+    {
+      "type": 0,
+      "value": "No shortcut configuredSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "76+sVeXWuh": [
+    {
+      "type": 0,
+      "value": "If provided, we may contact you for additional information or updates on this reportSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "7DuHI9a2sT": [
+    {
+      "type": 1,
+      "value": "serverName"
+    },
+    {
+      "type": 0,
+      "value": ": "
+    },
+    {
+      "type": 1,
+      "value": "toolDisplayName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "7FAwwkYilD": [
+    {
+      "type": 0,
+      "value": "ShortcutsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "7NXXhvNk8g": [
+    {
+      "type": 0,
+      "value": "Continue and DownloadSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "7W74V502ms": [
+    {
+      "type": 0,
+      "value": "You have allowed Claude to take all actions (browse, click, type) on these sites.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "7Zr5grAGuN": [
+    {
+      "type": 0,
+      "value": "No shortcuts found for \"/"
+    },
+    {
+      "type": 1,
+      "value": "searchTerm"
+    },
+    {
+      "type": 0,
+      "value": "\"SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "7qYF66c9/s": [
+    {
+      "type": 0,
+      "value": "Google DocSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "7wJz7kSrLT": [
+    {
+      "type": 0,
+      "value": "Plan rejectedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "7wuY3W3ryd": [
+    {
+      "type": 0,
+      "value": "Allow for all chatsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "83Jawm3PD0": [
+    {
+      "type": 0,
+      "value": "Teach Claude your workflowSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "83itGujdwB": [
+    {
+      "type": 0,
+      "value": "Allow microphone accessSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "83rtGTKgfN": [
+    {
+      "type": 0,
+      "value": "Sent permission notificationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8Aa/HbeJSY": [
+    {
+      "type": 0,
+      "value": "Violation of terms or usage policySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8NQAeTqGOl": [
+    {
+      "type": 0,
+      "value": "Drafting artifact...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8QvDObQuPZ": [
+    {
+      "type": 0,
+      "value": "Follow a planSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8Rj4WgXPcB": [
+    {
+      "type": 0,
+      "value": "Copy messageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8SygarDkaz": [
+    {
+      "type": 0,
+      "value": "Cannot sendSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8Y2q4SsIpY": [
+    {
+      "type": 0,
+      "value": "Create your first shortcut to get startedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8YQCrT7GkS": [
+    {
+      "type": 0,
+      "value": "Target Tab ID:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8ZaktIWXig": [
+    {
+      "type": 0,
+      "value": "\""
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "\" exceeds the "
+    },
+    {
+      "type": 1,
+      "value": "limit"
+    },
+    {
+      "type": 0,
+      "value": "-pixel dimension limit. You can resize it and try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8amcCGO7ya": [
+    {
+      "type": 1,
+      "value": "size"
+    },
+    {
+      "type": 0,
+      "value": " MBSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8jAKYtgD1r": [
+    {
+      "type": 0,
+      "value": "Close previewSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8laklrhkfX": [
+    {
+      "type": 0,
+      "value": "Text to be typed:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "8yJb2QLQAo": [
+    {
+      "type": 0,
+      "value": "Another Claude is using this tabSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9+DdtuCqLw": [
+    {
+      "type": 0,
+      "value": "NextSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "99OdS35+yZ": [
+    {
+      "type": 0,
+      "value": "PlanningSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "99ghrgx5j8": [
+    {
+      "type": 0,
+      "value": "File previews are not supported for this file typeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9JcWWPAZoB": [
+    {
+      "type": 0,
+      "value": "Files of the following "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "format is"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "formats are"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " not supported: "
+    },
+    {
+      "type": 1,
+      "value": "formats"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9NeTb00/cM": [
+    {
+      "type": 0,
+      "value": "Formatting may be inconsistent from sourceSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9W9AYgC9Qk": [
+    {
+      "type": 0,
+      "value": "Report ArtifactSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9a+SKtXKhe": [
+    {
+      "type": 0,
+      "value": "ScreenshotSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9anUl9Q74Z": [
+    {
+      "type": 0,
+      "value": "This is a beta feature with unique risks distinct from other Claude products. You are fully responsible for all risks associated with use of this product.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9fXfauBZpW": [
+    {
+      "type": 0,
+      "value": "Reading "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9hU0zUNoF+": [
+    {
+      "type": 0,
+      "value": "All widgets are currently visibleSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9qJKQKXInl": [
+    {
+      "type": 0,
+      "value": "Pin Claude for quick accessSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9qWxtxsjAd": [
+    {
+      "type": 0,
+      "value": "Generating shortcut...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "9t1iivhk67": [
+    {
+      "type": 0,
+      "value": "ConfigureSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "A+vguREwVx": [
+    {
+      "type": 0,
+      "value": "Click to open in new tabSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "A/lLjOnjl0": [
+    {
+      "type": 0,
+      "value": "Generating...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "A1D4wkEiQy": [
+    {
+      "type": 0,
+      "value": "Image too largeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "AC8r0aGOfS": [
+    {
+      "type": 0,
+      "value": "Remove "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "AFTxeGB4qO": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " line"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " lines"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "AG0gBvRduy": [
+    {
+      "type": 0,
+      "value": "Triple-clickSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ARbpHolQpg": [
+    {
+      "type": 0,
+      "value": "Get a quote insteadSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ATy/CxAxS4": [
+    {
+      "type": 0,
+      "value": "Could not load file previewSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "AU53gP2rAv": [
+    {
+      "type": 0,
+      "value": "Drag Path:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "AVGRJcgMbU": [
+    {
+      "type": 0,
+      "value": "Unable to access file in virtual environment.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "AetNADx5Bh": [
+    {
+      "type": 0,
+      "value": "BrowseSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ArrUF7Kfqw": [
+    {
+      "type": 0,
+      "value": "Find: \""
+    },
+    {
+      "type": 1,
+      "value": "query"
+    },
+    {
+      "type": 0,
+      "value": "\"SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "AtUwwM+FWM": [
+    {
+      "type": 0,
+      "value": "Clear history and keep summarySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "AvzR+WuOGF": [
+    {
+      "type": 0,
+      "value": "File could not be opened.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "AyGauyc55S": [
+    {
+      "type": 0,
+      "value": "LoginSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "AzO4h7b149": [
+    {
+      "type": 0,
+      "value": "Create shortcutSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "B2ROp8L071": [
+    {
+      "type": 0,
+      "value": "No sites have been approved yetSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "B5amdqFEtT": [
+    {
+      "type": 0,
+      "value": "Navigate to "
+    },
+    {
+      "type": 1,
+      "value": "url"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "B5h0vjkrIg": [
+    {
+      "type": 0,
+      "value": "Searched DriveSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "B8MRsI/UjW": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " item"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " items"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "B9+OriKQKb": [
+    {
+      "type": 0,
+      "value": "Test completion notificationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "BATKcMm/a2": [
+    {
+      "type": 0,
+      "value": "ImproveSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "BAeUW3tSiP": [
+    {
+      "type": 0,
+      "value": "No direct manipulation of message stateSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "BHppLJelWo": [
+    {
+      "type": 0,
+      "value": "Share the conversationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "BHzoQdwFnu": [
+    {
+      "type": 0,
+      "value": "Returning to your workflow...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "BWpuKlRSA1": [
+    {
+      "type": 0,
+      "value": "UpdateSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "BfcxKxig7S": [
+    {
+      "type": 0,
+      "value": "risksSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "BgSBBhOmOQ": [
+    {
+      "type": 0,
+      "value": "Access shared dataSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Bjp5vOloME": [
+    {
+      "type": 0,
+      "value": "Other illegal or unlawful contentSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "BpjonN0qoV": [
+    {
+      "type": 0,
+      "value": "Press key: "
+    },
+    {
+      "type": 1,
+      "value": "keys"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Bt8FNxmBoj": [
+    {
+      "type": 0,
+      "value": "5SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "BwIZY+bHrv": [
+    {
+      "type": 0,
+      "value": "System PromptSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "C8CF1Igl7Q": [
+    {
+      "type": 0,
+      "value": "Claude needs microphone access to hear your voice narration while you demonstrate workflows. When prompted, select "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Allow while visiting the site"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " to enable voice narration.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "C9scsm6HrW": [
+    {
+      "type": 0,
+      "value": "Find elementSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "CTEIoG7qEy": [
+    {
+      "type": 0,
+      "value": "1024pxSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "CZn1nvWlQF": [
+    {
+      "type": 0,
+      "value": "Expand messageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "CcjsWsUTac": [
+    {
+      "type": 0,
+      "value": "Configure the keyboard shortcut used to open Claude in Chrome.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Cd4uvaQFKD": [
+    {
+      "type": 0,
+      "value": "Recent chatsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "CeT7NBzUtl": [
+    {
+      "type": 0,
+      "value": "Converting...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Cf7tH0HDeT": [
+    {
+      "type": 0,
+      "value": "Failed to upload “"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "”. The file format may not be supported or the file may be corrupted.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "CnmTFdmsRf": [
+    {
+      "type": 0,
+      "value": "Enter your Anthropic API keySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "CvPTXPZIw8": [
+    {
+      "type": 0,
+      "value": "The file format may not be supported or the file may be corrupted.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "CyQ6so5Xsy": [
+    {
+      "type": 0,
+      "value": "Scroll to elementSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "D0NxeIKdoR": [
+    {
+      "type": 0,
+      "value": "Sexually Explicit contentSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "D3idYvSLF9": [
+    {
+      "type": 0,
+      "value": "SettingsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "D5uO7q2GqB": [
+    {
+      "type": 0,
+      "value": "Max Image DimensionSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "D7jDzqECHA": [
+    {
+      "type": 0,
+      "value": "Screenshot HistorySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "DHwwKwuaCR": [
+    {
+      "type": 0,
+      "value": "The document you uploaded is password protected. Please remove the password and try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "DLwrrxRpu/": [
+    {
+      "type": 1,
+      "value": "currentModelName"
+    },
+    {
+      "type": 0,
+      "value": "'s safety filters flagged this chat. Due to its advanced capabilities, "
+    },
+    {
+      "type": 1,
+      "value": "currentModelName"
+    },
+    {
+      "type": 0,
+      "value": " has additional safety measures that occasionally pause normal, safe chats. We're working to improve this. Continue your chat with "
+    },
+    {
+      "type": 1,
+      "value": "fallbackDisplayName"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "type": 1,
+      "value": "sendFeedbackLink"
+    },
+    {
+      "type": 0,
+      "value": ", or "
+    },
+    {
+      "type": 1,
+      "value": "learnMoreLink"
+    },
+    {
+      "type": 0,
+      "value": ".SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "DNlRq2D8lw": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " step"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " steps"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "stepCount"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "DR5hG1vSxp": [
+    {
+      "type": 0,
+      "value": "Allow actions on these sitesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "DcOPulvEDu": [
+    {
+      "type": 0,
+      "value": "Skip all permissions across the internet?SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Ddc1eapnSI": [
+    {
+      "type": 0,
+      "value": "Claude can take screenshots when responding. For privacy, avoid using Claude on sensitive sites like health and dating platforms.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "DflDZ51Hia": [
+    {
+      "type": 0,
+      "value": "Claude is active in this tab groupSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Dh7mYgVZea": [
+    {
+      "type": 0,
+      "value": "You haven't set your notification preference yetSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "DqTQOpG2Me": [
+    {
+      "type": 0,
+      "value": "OnceSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Ds0W5o1uCY": [
+    {
+      "type": 0,
+      "value": "Add an imageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Duoty8G6d7": [
+    {
+      "type": 0,
+      "value": "Select file encodingSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "DvXQDnOGPc": [
+    {
+      "type": 0,
+      "value": "Malicious actors can hide instructions in websites, emails, and documents that trick AI into taking harmful actions without your knowledge. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Learn more"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "E8uSl+czLg": [
+    {
+      "type": 0,
+      "value": "Prompt is requiredSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ECOs1wUY9P": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Enable microphone"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " for voice narration. Recording workflow without speech.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "EIRohXEK72": [
+    {
+      "type": 0,
+      "value": "This model isn’t available right now. You can switch to another model to continue using Claude.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "EWtBrIlAAR": [
+    {
+      "type": 0,
+      "value": "Your message will exceed the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "length limit"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " for this chat. Try shortening your message "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "or starting a new conversation."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ErBqL1OKdE": [
+    {
+      "type": 0,
+      "value": "Permission denied. You can change this in your browser settings.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "EsGNUZDLMi": [
+    {
+      "type": 0,
+      "value": "You can manage permissions on the Claude "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "settings"
+        }
+      ],
+      "type": 8,
+      "value": "settingsLink"
+    },
+    {
+      "type": 0,
+      "value": " page.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Estqhf8MFY": [
+    {
+      "type": 0,
+      "value": "Enable to use structured API tools for Google WorkspaceSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Et/uvuRBba": [
+    {
+      "type": 0,
+      "value": "The code itself may still work. To use it, you’ll need a development setup with these libraries installed.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "EuK7yRq90M": [
+    {
+      "type": 0,
+      "value": "OctoberSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Evnb9+Woth": [
+    {
+      "type": 0,
+      "value": "Fetching failed for one of the URLs. Please try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "F1XW1ZAxYF": [
+    {
+      "type": 0,
+      "value": "Expand to textSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "F3l7yioCLQ": [
+    {
+      "type": 0,
+      "value": "Claude can research across sites, compare information, or handle multi-tab tasks.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "FGCv00cdfW": [
+    {
+      "type": 0,
+      "value": "Give positive feedbackSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "FHNYsg5qSG": [
+    {
+      "type": 0,
+      "value": "API configuration (internal)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "FIwcYDeyIC": [
+    {
+      "type": 0,
+      "value": "One or more file uploads have failed. Please try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "FKVVjBA/2e": [
+    {
+      "type": 0,
+      "value": "Turn on voice narrationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "FMvJL9TokP": [
+    {
+      "type": 0,
+      "value": "Unknown domainSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "FPK1O1X8S1": [
+    {
+      "type": 0,
+      "value": "Microphone permission neededSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "FWGJ6cHLeQ": [
+    {
+      "type": 0,
+      "value": "Enable your microphone to narrate as you demonstrate the workflow. Claude will learn the process and repeat it for you.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "FtDimnJZ6A": [
+    {
+      "type": 0,
+      "value": "If you are reporting the content as illegal/unlawful, please describe in detail why you believe the identified content is illegal/unlawful, citing specific provisions of law wherever possible.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "G/yZLul6P1": [
+    {
+      "type": 0,
+      "value": "RemoveSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "G1lejdsk5p": [
+    {
+      "type": 0,
+      "value": "Your message will exceed the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "length limit"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " for this chat. Try attaching fewer or smaller files "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "or starting a new conversation."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "GKyNESE2Te": [
+    {
+      "type": 0,
+      "value": "Local (localhost:8080)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "GhHvcgGjy9": [
+    {
+      "type": 0,
+      "value": "Fetch "
+    },
+    {
+      "type": 1,
+      "value": "url"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Gi2DHUQgB8": [
+    {
+      "type": 0,
+      "value": "Claude is working...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Gma+ACm5J+": [
+    {
+      "type": 0,
+      "value": "Requesting...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "GsEWS8NyxJ": [
+    {
+      "type": 0,
+      "value": "Starting up...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Gvxoji2HqE": [
+    {
+      "type": 0,
+      "value": "Name is requiredSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "GzejKCwLFI": [
+    {
+      "type": 0,
+      "value": "Notifications are turned offSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "HAlOn1ZsuY": [
+    {
+      "type": 0,
+      "value": "NameSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "HEgmPRO+5B": [
+    {
+      "type": 0,
+      "value": "I did nothing today yetSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "HG0Hu8xIQA": [
+    {
+      "type": 0,
+      "value": "The generated artifact uses libraries we don’t support:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "HGdgPPM2Ry": [
+    {
+      "type": 0,
+      "value": "ExplainSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "HLzAq2Ombw": [
+    {
+      "type": 0,
+      "value": "Steps ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "HO5Vl6oXRx": [
+    {
+      "type": 0,
+      "value": "Effort is not available for the selected model.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "HnoThnsyPP": [
+    {
+      "type": 0,
+      "value": "e.g., \"Work laptop\", \"Personal Chrome\"SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "HrYfy0gEA+": [
+    {
+      "type": 0,
+      "value": "Show ContentSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Hz3uf5n9Ga": [
+    {
+      "type": 0,
+      "value": "Claude is AI and can make mistakes. Please double-check responses.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "I4AiMx3dsz": [
+    {
+      "type": 0,
+      "value": "Clear chatSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "I61gA1Whgv": [
+    {
+      "type": 0,
+      "value": "Hold key: "
+    },
+    {
+      "type": 1,
+      "value": "keys"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "IB3vNKlUdQ": [
+    {
+      "type": 0,
+      "value": "Get your API key from "
+    },
+    {
+      "type": 1,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ICmjyWFB52": [
+    {
+      "type": 0,
+      "value": "\""
+    },
+    {
+      "type": 1,
+      "value": "transcript"
+    },
+    {
+      "type": 0,
+      "value": "\"SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "IFWIi9rs1t": [
+    {
+      "type": 0,
+      "value": "What type of issue do you wish to report? (optional)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "IKoTMcBJ0H": [
+    {
+      "type": 0,
+      "value": "Settings saved.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ILxlzNXiro": [
+    {
+      "type": 0,
+      "value": "Chinese (GB18030)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "IV5WU06zbs": [
+    {
+      "type": 0,
+      "value": "Shortcut updatedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "IYBR/J+nuA": [
+    {
+      "type": 0,
+      "value": "Drop files here to add to chatSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "IbrSk1x1M4": [
+    {
+      "type": 0,
+      "value": "LearnSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "IfE0if3ytt": [
+    {
+      "type": 0,
+      "value": "SearchingSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "IjBl43b/I/": [
+    {
+      "type": 0,
+      "value": "Always allow actions on this siteSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "InWqysQtIQ": [
+    {
+      "type": 0,
+      "value": "OptionalSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Iu0/PCYXfB": [
+    {
+      "type": 0,
+      "value": "Uninstall this version after installing the new one to avoid conflicts.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Iufn28MeR1": [
+    {
+      "type": 0,
+      "value": "Hide stepsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "IvNiHZimcV": [
+    {
+      "type": 0,
+      "value": "Onboarding illustrationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "IzCVhGdYVc": [
+    {
+      "type": 0,
+      "value": "More optionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "J1RykLtxKE": [
+    {
+      "type": 0,
+      "value": "Desktop screenshotSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "J90k8xwxXE": [
+    {
+      "type": 0,
+      "value": "Customize ArtifactSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "JQOIE896U3": [
+    {
+      "type": 0,
+      "value": "Remove "
+    },
+    {
+      "type": 1,
+      "value": "widgetName"
+    },
+    {
+      "type": 0,
+      "value": " widgetSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "JR7SJGPDTb": [
+    {
+      "type": 0,
+      "value": "You’ve hit your limit for Claude messages.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "JU2kK1J3jY": [
+    {
+      "type": 0,
+      "value": "Error running artifactSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "JXdbo8Vnlw": [
+    {
+      "type": 0,
+      "value": "DoneSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "JdFy/2Te9C": [
+    {
+      "type": 0,
+      "value": "Test data is saved to chrome.storage.localSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "JfUPjhqwuq": [
+    {
+      "type": 0,
+      "value": "Allow Microphone AccessSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Jiou5flQWh": [
+    {
+      "type": 0,
+      "value": "Turn off voice narrationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "JnxkKMhrqm": [
+    {
+      "type": 0,
+      "value": "Add linkSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "JpNRENzqW2": [
+    {
+      "type": 0,
+      "value": "learn moreSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "K3r6DQW7h+": [
+    {
+      "type": 0,
+      "value": "DeleteSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "K8niogJNQY": [
+    {
+      "type": 0,
+      "value": "Approve planSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KAhM8UkR3A": [
+    {
+      "type": 0,
+      "value": "No microphone found. Please connect a microphone and try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KBxpgB8JHb": [
+    {
+      "type": 0,
+      "value": "Copyright infringementSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KCmGxpLNuq": [
+    {
+      "type": 0,
+      "value": "Invalid screenshot formatSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KD5FDGzyMz": [
+    {
+      "type": 0,
+      "value": "Looks like you have too many chats going. Please close a tab to continue.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KGu4aumO2M": [
+    {
+      "type": 0,
+      "value": "Found filesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KL/gQqGUU1": [
+    {
+      "type": 0,
+      "value": "Schedule taskSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KLmcsO5yco": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " scheduledSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KN7zKn8z4F": [
+    {
+      "type": 0,
+      "value": "ErrorSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KSgHlAYtgG": [
+    {
+      "type": 0,
+      "value": "The same attachment was already added earlier. Claude sees the full conversation when replying, so there's no need to re-upload.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KduIvQDYMp": [
+    {
+      "type": 0,
+      "value": "Claude takes actions without asking for permissionSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KtjIeAooNb": [
+    {
+      "type": 0,
+      "value": "Create GIFSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "KzO0j4cGtg": [
+    {
+      "type": 0,
+      "value": "We couldn’t connect to Claude. Please check your network connection and try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "LI4B/nslxi": [
+    {
+      "type": 1,
+      "value": "progress"
+    },
+    {
+      "type": 0,
+      "value": "%SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "LMDbiRxyDQ": [
+    {
+      "type": 0,
+      "value": "Can you explain this section to me in more detail?SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "LStwu4n1yT": [
+    {
+      "type": 0,
+      "value": "Act without askingSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "LVG1dX6B8u": [
+    {
+      "type": 0,
+      "value": "Ran "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " commandsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "LWiiXht89U": [
+    {
+      "type": 0,
+      "value": "Click to view full screenshotSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "LWt6+WHYht": [
+    {
+      "type": 0,
+      "value": "Describe what you would like to updateSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "LcKcJVZQc7": [
+    {
+      "type": 0,
+      "value": "(click to expand)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Li1hTENvGa": [
+    {
+      "type": 0,
+      "value": "Stopped "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " commandsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Lkp0F6AHBT": [
+    {
+      "type": 0,
+      "value": "Presenting file(s)...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "LkvG7lWavW": [
+    {
+      "type": 0,
+      "value": "Add shortcutSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Luu9/7cA+i": [
+    {
+      "type": 0,
+      "value": "Development testing toolsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "M88GeEDB7r": [
+    {
+      "type": 0,
+      "value": "You’ve reached your limit for "
+    },
+    {
+      "type": 1,
+      "value": "resourceType"
+    },
+    {
+      "type": 0,
+      "value": " uploads. Please try again later.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MBYn4HHrFu": [
+    {
+      "type": 0,
+      "value": "We had an unexpected billing error, please "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "contact support."
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MDebIUeu03": [
+    {
+      "type": 0,
+      "value": "Artifacts are created by other users and aren’t verified by Anthropic. Only download files you trust.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MM/ULko3j1": [
+    {
+      "type": 0,
+      "value": "Extend what you can do in ChromeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MM7OHMBA9j": [
+    {
+      "type": 0,
+      "value": "Deleted a fileSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MMLgwunXx4": [
+    {
+      "type": 0,
+      "value": "Step 1: Download the Ant-only versionSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MVQTRBWYud": [
+    {
+      "type": 0,
+      "value": "Read a fileSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MY4mOkEIwY": [
+    {
+      "type": 0,
+      "value": "This will export your conversation as a JSON file and an animated GIF. Please ensure the conversation does not contain sensitive data like personally identifiable information (PII) before sharing with others.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MZEyK3VcKi": [
+    {
+      "type": 0,
+      "value": "No result availableSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MbvF6K3PJd": [
+    {
+      "type": 0,
+      "value": "Failed to upload file "
+    },
+    {
+      "type": 1,
+      "value": "filename"
+    },
+    {
+      "type": 0,
+      "value": ". Project knowledge exceeds maximum. Remove files to continue.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MihpzFiE1j": [
+    {
+      "type": 0,
+      "value": "Open side panelSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Mmft+LxUWy": [
+    {
+      "type": 0,
+      "value": "WaitSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "MtIcfsBa83": [
+    {
+      "type": 0,
+      "value": "Execute JavaScriptSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "N2IrpMDHDB": [
+    {
+      "type": 0,
+      "value": "ConfirmSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "N6hq8IFfkj": [
+    {
+      "type": 0,
+      "value": "Read page (all)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NAidKbB0vi": [
+    {
+      "type": 0,
+      "value": "NotificationsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NDV5MqT9ww": [
+    {
+      "type": 0,
+      "value": "OptionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NFf/0A3zf+": [
+    {
+      "type": 0,
+      "value": "Your approved sitesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NGWumBAsap": [
+    {
+      "type": 0,
+      "value": "JulySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NMMfOTMPPN": [
+    {
+      "type": 0,
+      "value": "File type is not supportedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NSJdoMrS0C": [
+    {
+      "type": 0,
+      "value": "You can now use voice narration when recording workflows. To disable, go to "
+    },
+    {
+      "type": 1,
+      "value": "chromeSettingsLink"
+    },
+    {
+      "type": 0,
+      "value": ".SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NcDXiSfIPe": [
+    {
+      "type": 0,
+      "value": "Artifact failed to loadSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NdLqN5Z3bE": [
+    {
+      "type": 0,
+      "value": "The title of the document you uploaded is too long, or includes forbidden characters (<, >, :, \", |, ?, *, \\, /, or unicode characters 0-31)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NeNSPm4fj3": [
+    {
+      "type": 0,
+      "value": "Max time to wait for the page to finish loading after commands execute. Set to 0 to disable the settle wait entirely.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NhwAlG8X9c": [
+    {
+      "type": 0,
+      "value": "Tool ID:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NiWg8afl9N": [
+    {
+      "type": 0,
+      "value": "Select element...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NkHG2fB0cW": [
+    {
+      "type": 1,
+      "value": "clientLabel"
+    },
+    {
+      "type": 0,
+      "value": " wants to connectSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NltzMwsCKS": [
+    {
+      "type": 0,
+      "value": "Saved tasksSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NrQ1CUE4v0": [
+    {
+      "type": 0,
+      "value": "Limits will reset at "
+    },
+    {
+      "type": 1,
+      "value": "resetsAt"
+    },
+    {
+      "type": 0,
+      "value": ".SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NtMBSeGOHp": [
+    {
+      "type": 0,
+      "value": "Show tool result detailsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "NwhjMfjigc": [
+    {
+      "type": 0,
+      "value": "I’m still hereSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Nz/hHlPMGy": [
+    {
+      "type": 0,
+      "value": "1280pxSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "O+2FnUTQ6S": [
+    {
+      "type": 0,
+      "value": "Get the Ant-only extensionSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "O2hMrU1FI9": [
+    {
+      "type": 0,
+      "value": "Editing "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "O2tb5KUxpc": [
+    {
+      "type": 0,
+      "value": "Allow onceSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "O52AcmzoE8": [
+    {
+      "type": 0,
+      "value": "Viewed a fileSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "O6+/CIgqLR": [
+    {
+      "type": 0,
+      "value": "3SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "OKhRC6eWRw": [
+    {
+      "type": 0,
+      "value": "ShareSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ON3IdRBcc4": [
+    {
+      "type": 0,
+      "value": "How it works:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "OQeBGoBcLP": [
+    {
+      "type": 0,
+      "value": "Add widgetSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "OSbNg+1qqF": [
+    {
+      "type": 0,
+      "value": "Good responseSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "OW9bZgoog6": [
+    {
+      "type": 0,
+      "value": "Hold keySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "OarD7TkDBO": [
+    {
+      "type": 0,
+      "value": "Close blocked siteSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Oi9LAY6C5H": [
+    {
+      "type": 0,
+      "value": "Rename chatSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "OxHjV2p0tw": [
+    {
+      "type": 0,
+      "value": "Quality not applicable for PNG (lossless)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "P0iWYFMJG2": [
+    {
+      "type": 0,
+      "value": "Creating plan...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "PJRWsHQ+YN": [
+    {
+      "type": 0,
+      "value": "URL must use http or httpsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "PMPIVxGCgO": [
+    {
+      "type": 0,
+      "value": "URL must start with http:// or https://SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "PSsQUhf180": [
+    {
+      "type": 0,
+      "value": "Make changesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "PecM9GAXxD": [
+    {
+      "type": 0,
+      "value": "Clear test dataSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "PhoFlacbDZ": [
+    {
+      "type": 0,
+      "value": "Scroll to: \""
+    },
+    {
+      "type": 1,
+      "value": "text"
+    },
+    {
+      "type": 0,
+      "value": "\"SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Pl7Qm8W+aN": [
+    {
+      "type": 0,
+      "value": "Text extraction failed for one of the URLs.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "PlBReUqqzW": [
+    {
+      "type": 0,
+      "value": "Log outSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "PqHH2BNESm": [
+    {
+      "type": 0,
+      "value": "Click the pin icon in the top right corner of the extension windowSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "PwZL2cdrCr": [
+    {
+      "type": 0,
+      "value": "Collapse messageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "PytICQxIDI": [
+    {
+      "type": 0,
+      "value": "Get tabsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Q+J7H4sPgD": [
+    {
+      "type": 0,
+      "value": "Error: "
+    },
+    {
+      "type": 1,
+      "value": "errorMessage"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Q4V+DsnBh+": [
+    {
+      "type": 0,
+      "value": "Central European (Windows-1250)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QJ0ownoZRd": [
+    {
+      "type": 0,
+      "value": "Default (UTF-8)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QLJEESZB3X": [
+    {
+      "type": 0,
+      "value": "2SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QNEFpq3fE/": [
+    {
+      "type": 0,
+      "value": "HoverSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QQU4cRvqWT": [
+    {
+      "type": 0,
+      "value": "Claude can now work in your folders, not just your browser tabs. Turn research into reports, pull together files, or prep your next deck—whatever's on your to-do list.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QSjqvNNsUq": [
+    {
+      "type": 0,
+      "value": "Please use this "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "form"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " to report violative content.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QXrOGus6PR": [
+    {
+      "type": 0,
+      "value": "Choose your preferred language for the extension interface.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QddFP/j7re": [
+    {
+      "type": 0,
+      "value": "BetaSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Ql0ICcy5UG": [
+    {
+      "type": 0,
+      "value": "Number of screenshots kept in conversation context. More screenshots use more tokens.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QmLhKBubcc": [
+    {
+      "type": 0,
+      "value": "Your message will exceed the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "maximum image count"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " for this chat. Try removing images "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "or starting a new conversation."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QpxPqx4skB": [
+    {
+      "type": 0,
+      "value": "Start recordingSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QrihTZnk0x": [
+    {
+      "type": 0,
+      "value": "FridaySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Qroasht1fR": [
+    {
+      "type": 0,
+      "value": "Searched codeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QugqYeS6zz": [
+    {
+      "type": 0,
+      "value": "Open Artifact detailsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "QyrCxYs5Jy": [
+    {
+      "type": 0,
+      "value": "You can add at most "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " file"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " files"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " to a chat. "
+    },
+    {
+      "type": 1,
+      "value": "suggestion"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "R592aOW18A": [
+    {
+      "type": 0,
+      "value": "Edit shortcutSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "RIrR6dJyeb": [
+    {
+      "type": 0,
+      "value": "WARNINGSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "RJ0ojHUGPj": [
+    {
+      "type": 0,
+      "value": "High (default)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "RRFjL3H23m": [
+    {
+      "type": 0,
+      "value": "Shortcut deletedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "RWrtnxjH8o": [
+    {
+      "type": 0,
+      "value": "This beta feature has unique risks distinct from other Claude products. You are fully responsible for all risks associated with use of this product.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Rc2RmGjQRw": [
+    {
+      "type": 0,
+      "value": "This site is blocked by your organization's policy.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "RhGz0PXZQn": [
+    {
+      "type": 0,
+      "value": "Test permission notificationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Ri63Z85D7E": [
+    {
+      "type": 0,
+      "value": "Right-clickSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Rtb80IDfRS": [
+    {
+      "type": 0,
+      "value": "send feedbackSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "RuX+iObJu9": [
+    {
+      "type": 0,
+      "value": "Claude has tab group accessSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "RyCW0gT/7M": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " page"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " pages"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "RzL2CtHKXp": [
+    {
+      "type": 0,
+      "value": "File is outside allowed folders.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "S8/4ZI1Fhf": [
+    {
+      "type": 0,
+      "value": "More actionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "SFbt+MAvby": [
+    {
+      "type": 0,
+      "value": "Image is too large. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Learn more"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "SFuk1vRI4X": [
+    {
+      "type": 0,
+      "value": "PermissionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "SQJto27U8S": [
+    {
+      "type": 0,
+      "value": "Sign inSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "SUa8mpheAG": [
+    {
+      "type": 0,
+      "value": "ColumnsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "SjBgp+EBYt": [
+    {
+      "type": 0,
+      "value": "(Ant-only) Debug SettingsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "SsiZK7n81x": [
+    {
+      "type": 0,
+      "value": "DecemberSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "StB9n+uYO4": [
+    {
+      "type": 0,
+      "value": "Enable microphone accessSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "SxCvYAQUfY": [
+    {
+      "type": 0,
+      "value": "ScrollSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "T0e6Lh8loG": [
+    {
+      "type": 0,
+      "value": "Remove "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "T40fliCDxK": [
+    {
+      "type": 0,
+      "value": "Always continueSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "T5W0CVKXi6": [
+    {
+      "type": 0,
+      "value": "MarchSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "T6BjuHu60u": [
+    {
+      "type": 0,
+      "value": "Save System PromptSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "TDaF6JVgG6": [
+    {
+      "type": 0,
+      "value": "DismissSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "TDyP36qHxV": [
+    {
+      "type": 0,
+      "value": "Update ExtensionSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "TFf5u+qBgM": [
+    {
+      "type": 0,
+      "value": "SeptemberSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "TGYeob9u0b": [
+    {
+      "type": 0,
+      "value": "Upload docs or images to Claude\\n(Max "
+    },
+    {
+      "type": 1,
+      "value": "maxUploads"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "type": 1,
+      "value": "maxSize"
+    },
+    {
+      "type": 0,
+      "value": "mb each)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "TJo5E6JuIN": [
+    {
+      "type": 0,
+      "value": "PreviewSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "TRpxX8Mu1L": [
+    {
+      "type": 0,
+      "value": "Due to unexpected capacity constraints, Claude is unable to respond to your message. Please try again soon.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "TXMFQQmX1y": [
+    {
+      "type": 0,
+      "value": "Enter custom system prompt...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "TXpOBiuxud": [
+    {
+      "type": 0,
+      "value": "CustomizeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "TdTXXf940t": [
+    {
+      "type": 0,
+      "value": "Learn moreSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "TtfNhgtojm": [
+    {
+      "type": 0,
+      "value": "Compacting our conversation so we can keep chatting...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "U/yflCckmc": [
+    {
+      "type": 0,
+      "value": "Send Screenshot to ClaudeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "U2k+N3mGYx": [
+    {
+      "type": 0,
+      "value": "Maximum dimension (width or height) for screenshots. Smaller = fewer tokens but less detail.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "U8e24+q4Zx": [
+    {
+      "type": 0,
+      "value": "Illustration placeholderSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "UDzVMLRS83": [
+    {
+      "type": 0,
+      "value": "Unable to read file.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "UfbV7FMys+": [
+    {
+      "type": 0,
+      "value": "WebP (lossy, smaller)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "UltGDMwKAE": [
+    {
+      "type": 0,
+      "value": "Error clearing test data: "
+    },
+    {
+      "type": 1,
+      "value": "error"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "UyWyQn/88m": [
+    {
+      "type": 0,
+      "value": "File could not be read.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "V+jPyROpXb": [
+    {
+      "type": 0,
+      "value": "Edited "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "V3zw7m9pi/": [
+    {
+      "type": 0,
+      "value": "Select fileSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "V8l8DZPvUY": [
+    {
+      "type": 0,
+      "value": "Production (api.anthropic.com)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "VJGixxlxF+": [
+    {
+      "type": 0,
+      "value": "Page Settle Timeout (ms)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "VKZ/U8vAsk": [
+    {
+      "type": 0,
+      "value": "EffortSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "VOW1L8jo1E": [
+    {
+      "type": 0,
+      "value": "Ant-only: All future chats will use the new experience (Sessions API). Use the overflow (⋮) toggle between experiences.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "VbVJvDFrU4": [
+    {
+      "type": 0,
+      "value": "Last used: "
+    },
+    {
+      "type": 1,
+      "value": "date"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "VhLncisxuH": [
+    {
+      "type": 0,
+      "value": "Unsupported formatSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "VlOMp+IyXR": [
+    {
+      "type": 0,
+      "value": "Claude's planSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Vuh/a7xjtE": [
+    {
+      "type": 0,
+      "value": "Thai (TIS-620)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "VvBp+eNhWP": [
+    {
+      "type": 0,
+      "value": "Screenshots from tool executionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "W/T0ya233Q": [
+    {
+      "type": 0,
+      "value": "Press keys: "
+    },
+    {
+      "type": 1,
+      "value": "keys"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "W2dIBW8oIg": [
+    {
+      "type": 0,
+      "value": "Due to capacity constraints, chatting with Claude is currently not available. Please try again in a little while.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "WDCnAlgy2l": [
+    {
+      "type": 0,
+      "value": "Claude cannot assist with the content on this page.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "WMNHPhDie+": [
+    {
+      "type": 0,
+      "value": "SaturdaySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "WSkLyhVgSu": [
+    {
+      "type": 0,
+      "value": "Ran an agentSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "WYzHAIKZxl": [
+    {
+      "type": 0,
+      "value": "Skip for nowSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "WqCMal/Jk2": [
+    {
+      "type": 0,
+      "value": "Provide feedback on your experience with the suggestionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "X0ha1a+WYV": [
+    {
+      "type": 0,
+      "value": "Save changesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "X5tUyXfqsl": [
+    {
+      "type": 0,
+      "value": "Arabic (Windows-1256)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "X6qJ+Mle0d": [
+    {
+      "type": 0,
+      "value": "ClickSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "X9Z2S33opa": [
+    {
+      "type": 0,
+      "value": "Ran "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " agentsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "XAcQi8udmY": [
+    {
+      "type": 0,
+      "value": "Approach to followSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "XGkVpOO9dA": [
+    {
+      "type": 0,
+      "value": "Running subagentSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "XIbwNE7SSU": [
+    {
+      "type": 0,
+      "value": "/SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "XLN5nvmwda": [
+    {
+      "type": 0,
+      "value": "Tab group illustrationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "XLcM6WHfQR": [
+    {
+      "type": 0,
+      "value": "How can I help you today?SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "XQKAxeLMBO": [
+    {
+      "type": 0,
+      "value": "JPEG (lossy, small)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "XhLYQfswyj": [
+    {
+      "type": 0,
+      "value": "Please wait before trying again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Xx0WZVz8QS": [
+    {
+      "type": 0,
+      "value": "Send messageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "XxhTmYWhHR": [
+    {
+      "type": 0,
+      "value": "Select area...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Y7tnLdrXcO": [
+    {
+      "type": 0,
+      "value": "Select: "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YAeW6K6mK9": [
+    {
+      "type": 0,
+      "value": "Listening...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YAgYL60fLm": [
+    {
+      "type": 0,
+      "value": "TuesdaySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YBctaBAMh/": [
+    {
+      "type": 0,
+      "value": "Loading skillSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YD+KHgvA3S": [
+    {
+      "type": 0,
+      "value": "Presented file(s)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YEk9i6AJuT": [
+    {
+      "type": 0,
+      "value": "Type / in the chat to use shortcuts or run them on scheduleSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YR6CGakwNu": [
+    {
+      "type": 0,
+      "value": "Fetch from "
+    },
+    {
+      "type": 1,
+      "value": "hostname"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YREuYaOzoG": [
+    {
+      "type": 0,
+      "value": "Follow this approachSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YXotZzdJDV": [
+    {
+      "type": 0,
+      "value": "Claude in Chrome is available toSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YfXudLEmrv": [
+    {
+      "type": 0,
+      "value": "No chats yetSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YgWtLTGqB+": [
+    {
+      "type": 0,
+      "value": "Metadata about tabs open in this tab groupSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Ymx8APRi1X": [
+    {
+      "type": 0,
+      "value": "Microphone access grantedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Yn41lcLvmg": [
+    {
+      "type": 0,
+      "value": "Tool ResultSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YoXOdinNC1": [
+    {
+      "type": 0,
+      "value": "FraudSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YtFTtANjPw": [
+    {
+      "type": 0,
+      "value": "Open linkSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "YxhKVgP/H4": [
+    {
+      "type": 0,
+      "value": "Get notified when tasks complete or need your inputSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Yxxj6rmlSW": [
+    {
+      "type": 0,
+      "value": "Toggle voice narrationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Z2VDyqOU0z": [
+    {
+      "type": 0,
+      "value": "Go beyond the browser with CoworkSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Z7sL1cCQpI": [
+    {
+      "type": 0,
+      "value": "Convert to taskSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ZByvH8UXog": [
+    {
+      "type": 0,
+      "value": "shortcutSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ZDJep2SVkS": [
+    {
+      "type": 0,
+      "value": "Test Scheduled Task (via Alarm in 1s)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ZGgOeVIR/y": [
+    {
+      "type": 0,
+      "value": "Reset to DefaultSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ZJn5qDfYOD": [
+    {
+      "type": 0,
+      "value": "Press keySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ZRHK60/fN5": [
+    {
+      "type": 0,
+      "value": "Test data clearedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ZSCbZACJ+n": [
+    {
+      "type": 0,
+      "value": "AnnuallySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ZXH44sMrF0": [
+    {
+      "type": 0,
+      "value": "No tasks yetSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ZpE0fwR7on": [
+    {
+      "type": 0,
+      "value": "Save as Teach ClaudeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ZpQ6usVWqj": [
+    {
+      "type": 0,
+      "value": "ResultSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "Zx2+7F8Kf5": [
+    {
+      "type": 0,
+      "value": "Invalid URL formatSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "a5aJshKbyM": [
+    {
+      "type": 0,
+      "value": "Loaded "
+    },
+    {
+      "type": 1,
+      "value": "scenarioName"
+    },
+    {
+      "type": 0,
+      "value": " - Reload the side panel to useSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "a6KVizNPLe": [
+    {
+      "type": 0,
+      "value": "Please select fewer files.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "a7x0CkSo6z": [
+    {
+      "type": 0,
+      "value": "Another extension you're using is preventing Claude in Chrome from operating.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "aCdAsIsVv0": [
+    {
+      "type": 0,
+      "value": "Copy to clipboardSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "aDf2NEL1I0": [
+    {
+      "type": 0,
+      "value": "Stopped a commandSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "aLzfIziOrP": [
+    {
+      "type": 0,
+      "value": "Wait "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " second"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " seconds"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "aMDcvNLxqz": [
+    {
+      "type": 0,
+      "value": "Supported placeholders: modelName, currentDate, platform, platformModifier (wrap in double curly braces).SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "aO2SGMNXZ8": [
+    {
+      "type": 0,
+      "value": "Connect your Google account for faster edits in Sheets, Docs, Slides, Gmail, and Calendar.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "aTaOpCB71M": [
+    {
+      "type": 0,
+      "value": "Take a screenshotSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "aWpBzjCXKS": [
+    {
+      "type": 0,
+      "value": "Show moreSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "aXfQ2L8ErF": [
+    {
+      "type": 0,
+      "value": "Created a planSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "acrOozm08x": [
+    {
+      "type": 0,
+      "value": "ContinueSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "afNc7fLowL": [
+    {
+      "type": 0,
+      "value": "Enable microphoneSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ahcT/xfBaf": [
+    {
+      "type": 0,
+      "value": "Sign in again to continue using Claude in Chrome.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ai0JAxDdlC": [
+    {
+      "type": 0,
+      "value": "Type textSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ajU+HTjQNK": [
+    {
+      "type": 0,
+      "value": "Please enter a valid URLSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "anYsv8zeLR": [
+    {
+      "type": 0,
+      "value": "One or more fetches have failed. Try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ayrUapxSvj": [
+    {
+      "type": 0,
+      "value": "Lower quality = smaller file size. Only applies to JPEG/WebP.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "azMsfMtNvt": [
+    {
+      "type": 0,
+      "value": "MondaySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "b5Uf1JSpcI": [
+    {
+      "type": 0,
+      "value": "Type: \""
+    },
+    {
+      "type": 1,
+      "value": "text"
+    },
+    {
+      "type": 0,
+      "value": "\"SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "bApErctxyt": [
+    {
+      "type": 0,
+      "value": "Read "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "bL7dVUkHa0": [
+    {
+      "type": 0,
+      "value": "Chat pausedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "bW7B87wFFp": [
+    {
+      "type": 0,
+      "value": "NewSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "bWSwU/3iyK": [
+    {
+      "type": 0,
+      "value": "Extension Update RequiredSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "bWjdfaXOzU": [
+    {
+      "type": 0,
+      "value": "URLSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "bk8tuJl/tJ": [
+    {
+      "type": 0,
+      "value": "Select report reasonSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "bmDayxG7DJ": [
+    {
+      "type": 0,
+      "value": "Malicious code buried in sites may override your instructions in order to steal your data, inject malware into your systems, or take over your system to attack other users. "
+    },
+    {
+      "type": 1,
+      "value": "learnMoreLink"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "c0/oTKLaf+": [
+    {
+      "type": 0,
+      "value": "Skip permissionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "c0ZeCgLvCL": [
+    {
+      "type": 0,
+      "value": "Conversation summarySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "c5+JRMBv/Y": [
+    {
+      "type": 0,
+      "value": "Upgrade planSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cELBBLzSZE": [
+    {
+      "type": 0,
+      "value": "Claude wants to "
+    },
+    {
+      "type": 1,
+      "value": "toolAction"
+    },
+    {
+      "type": 0,
+      "value": ":SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cF32KOfDNQ": [
+    {
+      "type": 0,
+      "value": "Screenshot with drag pathSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cIbPxRbF3Y": [
+    {
+      "type": 0,
+      "value": "I did nothing todaySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cP5M5utX/U": [
+    {
+      "type": 0,
+      "value": "Full screen modeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cPnivFkT6E": [
+    {
+      "type": 0,
+      "value": "Read "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " filesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cSp9Qor4f4": [
+    {
+      "type": 0,
+      "value": "Open external linkSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cW6887Dc/X": [
+    {
+      "type": 0,
+      "value": "MicrophoneSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cXAlMRerxW": [
+    {
+      "type": 0,
+      "value": "ScheduledSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cXTNE0Hbj4": [
+    {
+      "type": 0,
+      "value": "Teach ClaudeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "caw/dieQFJ": [
+    {
+      "type": 0,
+      "value": "Tools for testing and debugging the extension during development.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ceCuvzBxbw": [
+    {
+      "type": 0,
+      "value": "Set form valueSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cqx+RdJnHp": [
+    {
+      "type": 0,
+      "value": "Manage connectorsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cuaMuzr//N": [
+    {
+      "type": 0,
+      "value": "Creating "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cv8yc1KJ7n": [
+    {
+      "type": 0,
+      "value": "Visit these sitesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cv9VNYMHXY": [
+    {
+      "type": 0,
+      "value": "Ran a commandSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cxkY9nyTFY": [
+    {
+      "type": 0,
+      "value": "ScriptSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "cyR7KhiuaU": [
+    {
+      "type": 0,
+      "value": "BackSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "d1iFfHCXCd": [
+    {
+      "type": 0,
+      "value": "Set input to \""
+    },
+    {
+      "type": 1,
+      "value": "value"
+    },
+    {
+      "type": 0,
+      "value": "\"SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "dJqE3eAWkM": [
+    {
+      "type": 0,
+      "value": "Create scheduled taskSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "dNvIs5mEPO": [
+    {
+      "type": 0,
+      "value": "Claude aligns on its approach before taking actionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "dPfJcsF2EP": [
+    {
+      "type": 0,
+      "value": "Chats are now saved—refer back or restartSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "dS6ebV+vpY": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " step"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " steps"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "collapsedCount"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "dXUR4BjgcC": [
+    {
+      "type": 0,
+      "value": "Your task is completed. Ready to check in?SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ddXREI8PNV": [
+    {
+      "type": 0,
+      "value": "Child safety/sexual abuseSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "djtHiJ5aej": [
+    {
+      "type": 0,
+      "value": "Preview of "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "dqW6sjmil4": [
+    {
+      "type": 0,
+      "value": "Folder instructionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "e15QX1hh5v": [
+    {
+      "type": 0,
+      "value": "Select modelSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "e2DtORRpyx": [
+    {
+      "type": 0,
+      "value": "Microphone access was denied. You can either try again or "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "open Chrome settings"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " to enable microphone access.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "e6uhP1Ta9X": [
+    {
+      "type": 0,
+      "value": "Update planSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "e8VD9vcoJC": [
+    {
+      "type": 0,
+      "value": "Follow the planSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "eCBXvFgCTN": [
+    {
+      "type": 0,
+      "value": "Finished planSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "eDHTgRaIJG": [
+    {
+      "type": 0,
+      "value": "Claude in Chrome settingsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "eFsJ8k8yFm": [
+    {
+      "type": 0,
+      "value": "Show ImageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "eH5gdeveIM": [
+    {
+      "type": 0,
+      "value": "Try what's newSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "eJFbw2HgHp": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to delete this prompt?SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "eS0BrNV2g3": [
+    {
+      "type": 0,
+      "value": "No content availableSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ed76A9b9lB": [
+    {
+      "type": 0,
+      "value": "all paid plan subscribersSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "eePQiZiD6b": [
+    {
+      "type": 0,
+      "value": "Conversation not found.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ehDw1cvHNn": [
+    {
+      "type": 0,
+      "value": "Attached image "
+    },
+    {
+      "type": 1,
+      "value": "imageNumber"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ejLVhl2kIU": [
+    {
+      "type": 0,
+      "value": "No shortcuts availableSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "eoF+zSJr4t": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to delete this chat?SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "f00p/7iV78": [
+    {
+      "type": 0,
+      "value": "Upload failedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "f9Tg4Tfohh": [
+    {
+      "type": 0,
+      "value": "Create your first shortcut or "
+    },
+    {
+      "type": 1,
+      "value": "exploreLink"
+    },
+    {
+      "type": 0,
+      "value": " to get startedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "fHClqd2+bS": [
+    {
+      "type": 0,
+      "value": "Type / for commandsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "fJHdaZIRcd": [
+    {
+      "type": 0,
+      "value": "“"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "” is too large. Choose a smaller file.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "fOUfZ3Wftl": [
+    {
+      "type": 0,
+      "value": "Review "
+    },
+    {
+      "type": 1,
+      "value": "risksLink"
+    },
+    {
+      "type": 0,
+      "value": " before you begin.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "fTNSna6r/X": [
+    {
+      "type": 0,
+      "value": "File too largeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "fcypZmiXOj": [
+    {
+      "type": 0,
+      "value": "Switching browserSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "fhFmwPnm6J": [
+    {
+      "type": 0,
+      "value": "You'll receive notifications when tasks finishSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "fio5opLcOZ": [
+    {
+      "type": 0,
+      "value": "OutputSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "fuoi35GbI+": [
+    {
+      "type": 0,
+      "value": "Click: \""
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "\"SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "fxDu88cBut": [
+    {
+      "type": 0,
+      "value": "Permissions for navigating between different domains.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "g8ctzHRk8U": [
+    {
+      "type": 0,
+      "value": "Executing...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "gAR0atqpRn": [
+    {
+      "type": 0,
+      "value": "WorkingSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "gFAHXgACot": [
+    {
+      "type": 0,
+      "value": "e.g., 9:30 AM or 14:00SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "gHpDMF2yPM": [
+    {
+      "type": 0,
+      "value": "Access and work with your connected apps while chatting in the extensionSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "gRqsbs2s7I": [
+    {
+      "type": 0,
+      "value": "Syntax highlighting has been disabled due to code size.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "gcaJtRf4b0": [
+    {
+      "type": 0,
+      "value": "File not foundSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "gh/lBJ3ybG": [
+    {
+      "type": 0,
+      "value": "Additional informationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "gjBiyjshwX": [
+    {
+      "type": 0,
+      "value": "Loading...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "gltmHPfviz": [
+    {
+      "type": 0,
+      "value": "Your message will exceed the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "maximum image count"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " for this chat. Try uploading "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " document"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " documents"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " with fewer pages, removing images, "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "or starting a new conversation."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "gtvz8LDd6q": [
+    {
+      "type": 0,
+      "value": "Claude can analyze CSVs with the Analysis tool.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "gylVBxmE7Z": [
+    {
+      "type": 0,
+      "value": "Close image previewSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "h/6cMHSn1V": [
+    {
+      "type": 0,
+      "value": "Too many file upload attempts. Please wait and try again later.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "h7CrEtBxuD": [
+    {
+      "type": 0,
+      "value": "Unable to show file in folder.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "h7xti1PjS7": [
+    {
+      "type": 0,
+      "value": "AprilSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "h9Y5N1xs5X": [
+    {
+      "type": 0,
+      "value": "DefamationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hEM04r/mwh": [
+    {
+      "type": 0,
+      "value": "1568px (default)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hGQqkWwmJD": [
+    {
+      "type": 0,
+      "value": "ScheduleSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hGdb967wOL": [
+    {
+      "type": 0,
+      "value": "Claude landed on a blocked site and can't complete your request.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hItngLUKCl": [
+    {
+      "type": 0,
+      "value": "Claude can view the URL of tabs where the panel is open and take screenshots when responding. For privacy, avoid using Claude on sensitive sites like health and dating platforms.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hW8KjZhriV": [
+    {
+      "type": 0,
+      "value": "PlanSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hWG9HINm7Y": [
+    {
+      "type": 1,
+      "value": "quality"
+    },
+    {
+      "type": 0,
+      "value": "%SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hZDjbuZQlF": [
+    {
+      "type": 0,
+      "value": "The side panel reads this data on initializationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hbWicV9xaa": [
+    {
+      "type": 0,
+      "value": "Read pageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hd3haPU1gQ": [
+    {
+      "type": 0,
+      "value": "Start fromSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "heKLO07Qz/": [
+    {
+      "type": 0,
+      "value": "Tasks illustrationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hg/DxQvpUn": [
+    {
+      "type": 0,
+      "value": "Claude in Chrome requires a paid planSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hidF6esI2b": [
+    {
+      "type": 0,
+      "value": "Enable with "
+    },
+    {
+      "type": 1,
+      "value": "modelName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hjoV9zJZVT": [
+    {
+      "type": 0,
+      "value": "Create new tabSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "hjqZygykww": [
+    {
+      "type": 0,
+      "value": "Error accessing shared dataSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ht0kL7D9jA": [
+    {
+      "type": 0,
+      "value": "All messages in the conversationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "htmyA3WAQx": [
+    {
+      "type": 0,
+      "value": "Plan approvedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "htvX+Z11l+": [
+    {
+      "type": 0,
+      "value": "DenySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "huCHmkVjex": [
+    {
+      "type": 0,
+      "value": "StepsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "i+imRH5ndN": [
+    {
+      "type": 0,
+      "value": "New note...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "i5E6OW65QG": [
+    {
+      "type": 0,
+      "value": "Voice narration pausedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "iDpNOkVmEn": [
+    {
+      "type": 0,
+      "value": "Showing built-in default. Edit and save to use a custom prompt.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "iMMX+ZCJ/I": [
+    {
+      "type": 0,
+      "value": "Version "
+    },
+    {
+      "type": 1,
+      "value": "versionNum"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "iTAs3tpllt": [
+    {
+      "type": 0,
+      "value": "Conversation compactedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "iTW/IIP3mS": [
+    {
+      "type": 0,
+      "value": "Tab "
+    },
+    {
+      "type": 1,
+      "value": "tabId"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "iWKE8shLIt": [
+    {
+      "type": 0,
+      "value": "PromptSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "iWwS2NQh2N": [
+    {
+      "type": 0,
+      "value": "Load near context limitSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "iXNbPfQDIZ": [
+    {
+      "type": 0,
+      "value": "RenameSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "iZNLJyNrgT": [
+    {
+      "type": 0,
+      "value": "Used a skillSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ifBuzEbIz2": [
+    {
+      "type": 0,
+      "value": "Screenshot too largeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ihRWxb7Azt": [
+    {
+      "type": 0,
+      "value": "Remember my choice for this sessionSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ipGe+BIJx7": [
+    {
+      "type": 0,
+      "value": "Notify meSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "iqT0iuZphp": [
+    {
+      "type": 0,
+      "value": "Please provide any additional information to help us understand your request.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "iqnTWdnwhH": [
+    {
+      "type": 0,
+      "value": "platform.claude.comSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ivOuJVNgF2": [
+    {
+      "type": 0,
+      "value": "ShieldSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "j111DEvZ03": [
+    {
+      "type": 0,
+      "value": "Clicking the button will reload the extension to apply any pending updates.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "j1niUi0cRv": [
+    {
+      "type": 0,
+      "value": "Workflow stoppedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "j7dxuPbB4O": [
+    {
+      "type": 0,
+      "value": "Content is user-generated and unverified.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jCAxc4X6gm": [
+    {
+      "type": 0,
+      "value": "Claude connecting to browser and file systemSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jM15m5vYxQ": [
+    {
+      "type": 0,
+      "value": "Leave empty to use selected modelSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jN7b0qJSmv": [
+    {
+      "type": 0,
+      "value": "If Claude is open in a tab group, it can access the URL, context and information of all the tabs in that group.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jOuyTp+O9P": [
+    {
+      "type": 0,
+      "value": "Change languageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jbEJHKa0PR": [
+    {
+      "type": 0,
+      "value": "Click to capture screen or drag to select an areaSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jebWZltnsn": [
+    {
+      "type": 0,
+      "value": "Chrome settingsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jogSA3tQ8x": [
+    {
+      "type": 0,
+      "value": "All (keep every screenshot)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jvo0vs3nF0": [
+    {
+      "type": 0,
+      "value": "SaveSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jz5L9A3Vjy": [
+    {
+      "type": 0,
+      "value": "Claude can now"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "control your browserSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jzFcrtq+o4": [
+    {
+      "type": 0,
+      "value": "Scroll leftSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "jzcrjmVTFk": [
+    {
+      "type": 0,
+      "value": "You need a Claude account to use this artifactSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "k4+9F0xUH9": [
+    {
+      "type": 0,
+      "value": "Japanese (Shift_JIS)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "k9qHCCLPA5": [
+    {
+      "type": 0,
+      "value": "Download fileSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "kDYzre2KOj": [
+    {
+      "type": 0,
+      "value": "Requesting access...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "kDcz4TuVQh": [
+    {
+      "type": 0,
+      "value": "Test the newest"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Claude experienceSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "kQAf2d9u+x": [
+    {
+      "type": 0,
+      "value": "SelectSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "kQkEmBIQ/m": [
+    {
+      "type": 0,
+      "value": "1 (default, latest only)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "kWxPgoo7qQ": [
+    {
+      "type": 0,
+      "value": "Your extension version ("
+    },
+    {
+      "type": 1,
+      "value": "currentVersion"
+    },
+    {
+      "type": 0,
+      "value": ") is no longer supported. Please update to version "
+    },
+    {
+      "type": 1,
+      "value": "minSupportedVersion"
+    },
+    {
+      "type": 0,
+      "value": " or later to continue using Claude.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "kcb2pY5IsN": [
+    {
+      "type": 0,
+      "value": "Artifact reportedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "kdrUaXpTqd": [
+    {
+      "type": 0,
+      "value": "Claude model version not found.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "kgUPo+XHrd": [
+    {
+      "type": 0,
+      "value": "Used "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " skillsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "kmh/1AmVcl": [
+    {
+      "type": 0,
+      "value": "Many requests made. Acknowledge that you’re still here to continue.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "krKI1Qy1a5": [
+    {
+      "type": 0,
+      "value": "API Base URLSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "krgcu80Qe5": [
+    {
+      "type": 0,
+      "value": "Thank you for reporting the Artifact. We take these matters seriously and will investigate the issue. Your report helps us maintain the integrity of our platform.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "kwxxreL+i3": [
+    {
+      "type": 0,
+      "value": "Extract page textSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "l+dE/S7JbF": [
+    {
+      "type": 0,
+      "value": "Reply to ClaudeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "lG4VIx4FDG": [
+    {
+      "type": 0,
+      "value": "Failed to upload attachment. You can try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "lINtN6vYsg": [
+    {
+      "type": 0,
+      "value": "AugustSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "lMdXZI/U+s": [
+    {
+      "type": 0,
+      "value": "Display trace IDs at the beginning of each response streamSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "lQnSmhAWv8": [
+    {
+      "type": 0,
+      "value": "Type / to use shortcuts or run them on a scheduleSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "lU28LDdk7g": [
+    {
+      "type": 0,
+      "value": "For higher limits, "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "explore our Pro plan"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": ".SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "lbjPYg5eW9": [
+    {
+      "type": 0,
+      "value": "Go through the steps as if you're teaching a new teammate. Claude will learn the process and repeat it for you.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ls2O3RKjqV": [
+    {
+      "type": 0,
+      "value": "Missing encodingSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "lxblglMBAV": [
+    {
+      "type": 0,
+      "value": "WednesdaySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "lzq8R0x4iG": [
+    {
+      "type": 0,
+      "value": "Load long conversationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "m0+xd2UWTk": [
+    {
+      "type": 0,
+      "value": "Invalid loginSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "mH4wEOlsQs": [
+    {
+      "type": 0,
+      "value": "Resize windowSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "mHmhCARyh8": [
+    {
+      "type": 0,
+      "value": "Create Scheduled TaskSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "mJR06Pgp0X": [
+    {
+      "type": 0,
+      "value": "SundaySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "mNqQMp8tgC": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Note:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " The export will include:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "mREcB0MAuE": [
+    {
+      "type": 0,
+      "value": "Opt out of training on this reportSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "mu83ADAkT4": [
+    {
+      "type": 0,
+      "value": "Google Workspace APISSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "n2uO4zTmwR": [
+    {
+      "type": 0,
+      "value": "This link contains an internationalized domain name that may be deceptive. The domain appears as:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "nF7/NB+ws3": [
+    {
+      "type": 0,
+      "value": "Name this browser so you can identify it later.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "nONnTwYJzw": [
+    {
+      "type": 0,
+      "value": "Your emailSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "nW3gZD88Va": [
+    {
+      "type": 0,
+      "value": "You may not upload files larger than "
+    },
+    {
+      "type": 1,
+      "value": "sizeLimit"
+    },
+    {
+      "type": 0,
+      "value": "mb.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "nbBDYo5GDn": [
+    {
+      "type": 0,
+      "value": "Image FormatSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ngIzbjIFxF": [
+    {
+      "type": 0,
+      "value": "Delete chatSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ngzzQUJCXB": [
+    {
+      "type": 0,
+      "value": "Give negative feedbackSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "nl5phX6L/e": [
+    {
+      "type": 0,
+      "value": "Toggle edit modeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "nmpevlUATU": [
+    {
+      "type": 0,
+      "value": "DiscardSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "npmO1c1YO3": [
+    {
+      "type": 0,
+      "value": "Click and drag to select an area, or click once for full pageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "nqpr0hOeKE": [
+    {
+      "type": 0,
+      "value": "Customizing an Artifact requires a Claude.ai account.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "o/G2cAuU9n": [
+    {
+      "type": 0,
+      "value": "This PDF was converted to text due to its large sizeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "o/NOFEuWmE": [
+    {
+      "type": 0,
+      "value": "Files of the following "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "format"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "formats"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " require 'Code execution and file creation'. Go to Settings > Capabilities to enable: "
+    },
+    {
+      "type": 1,
+      "value": "formats"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "o8XuRD97nP": [
+    {
+      "type": 0,
+      "value": "Enable expandable tool result blocks to view parameters and outputsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "oCBOPo+ZDe": [
+    {
+      "type": 0,
+      "value": "Shortcuts make it easy to send instructions to Claude. Great for tasks you repeat often! Type / in the chat to find and create shortcuts.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "oG042zasXb": [
+    {
+      "type": 0,
+      "value": "Error loading test data: "
+    },
+    {
+      "type": 1,
+      "value": "error"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "oN0R8lZNm6": [
+    {
+      "type": 0,
+      "value": "Please consider starting a new chat.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "oNp1waFarV": [
+    {
+      "type": 0,
+      "value": "Latin-1 (ISO-8859-1)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "oOkdOmGhII": [
+    {
+      "type": 0,
+      "value": "https://example.comSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "oTdWIw/nMo": [
+    {
+      "type": 0,
+      "value": "Move beyond chat by creating downloadable docs, spreadsheets, and codeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "oU4ZCzJVI6": [
+    {
+      "type": 0,
+      "value": "Viewed "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " filesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "odXlk858Gb": [
+    {
+      "type": 0,
+      "value": "Log inSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "og1W/bIZdx": [
+    {
+      "type": 0,
+      "value": "Please provide details: (optional)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "okKwHjIO0b": [
+    {
+      "type": 0,
+      "value": "Pasted contentSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "omhQimAye8": [
+    {
+      "type": 0,
+      "value": "Show system remindersSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "opnhVjl2Ux": [
+    {
+      "type": 0,
+      "value": "Claude is unable to respond to this request, which appears to violate our "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Usage Policy"
+        }
+      ],
+      "type": 8,
+      "value": "usagePolicyLink"
+    },
+    {
+      "type": 0,
+      "value": ". Please start a new chat.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "oqZjDDkxak": [
+    {
+      "type": 0,
+      "value": "Take screenshotSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "orvpWhO3rI": [
+    {
+      "type": 0,
+      "value": "Go backSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ovJ26CKo4Q": [
+    {
+      "type": 0,
+      "value": "MediumSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "p1P+hQq6tY": [
+    {
+      "type": 0,
+      "value": "RequestSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "p556q3uvbn": [
+    {
+      "type": 0,
+      "value": "CopiedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "p5wxjR3WJg": [
+    {
+      "type": 0,
+      "value": "I understandSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "pQKS8jGiWa": [
+    {
+      "type": 0,
+      "value": "Failed to upload “"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "”. You can try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "paBpxNk4t8": [
+    {
+      "type": 0,
+      "value": "IgnoreSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "pbB2xqdbta": [
+    {
+      "type": 0,
+      "value": "Loaded toolsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "pn+jQDsOvh": [
+    {
+      "type": 0,
+      "value": "NovemberSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "pnrK9Ss/bt": [
+    {
+      "type": 0,
+      "value": "Claude is doneSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "pvtgR26QWY": [
+    {
+      "type": 0,
+      "value": "DeclineSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "q+0F07GZA/": [
+    {
+      "type": 0,
+      "value": "explore examplesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "q/uwLTb3Zf": [
+    {
+      "type": 0,
+      "value": "StopSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "q1BWaIlpbN": [
+    {
+      "type": 0,
+      "value": "Cyrillic (Windows-1251)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "qAhUUOIWbF": [
+    {
+      "type": 0,
+      "value": "ThursdaySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "qEqMmrx/MW": [
+    {
+      "type": 0,
+      "value": "Your permission is needed to continueSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "qTWwGwIHH6": [
+    {
+      "type": 0,
+      "value": "Parameters:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "qgGoWr0XYl": [
+    {
+      "type": 0,
+      "value": "You must approve any Claude action on this siteSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "qndjDTg0gE": [
+    {
+      "type": 0,
+      "value": "Private/confidential informationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "qphPEQ/z5U": [
+    {
+      "type": 0,
+      "value": "Korean (EUC-KR)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "qxV00r12ob": [
+    {
+      "type": 0,
+      "value": "You can add at most "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " attachment"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " attachments"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " to a message. Please select fewer attachments.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "qyJtWyZ0yt": [
+    {
+      "type": 0,
+      "value": "Show lessSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "r2Qwbqbb9d": [
+    {
+      "type": 0,
+      "value": "Take this Artifact with you in a new chat with Claude and evolve it with your own unique spin.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "r5pj/5J6ic": [
+    {
+      "type": 0,
+      "value": "DragSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rHyMT1rizz": [
+    {
+      "type": 0,
+      "value": "Keyboard shortcutSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rKQPgfPvWS": [
+    {
+      "type": 0,
+      "value": "More options for "
+    },
+    {
+      "type": 1,
+      "value": "label"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rQ2DY5IToI": [
+    {
+      "type": 1,
+      "value": "modelName"
+    },
+    {
+      "type": 0,
+      "value": " is billed as extra usage at a premium rate. Separate rate limits apply.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rQqW2V2Nvh": [
+    {
+      "type": 0,
+      "value": "File could not be saved.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rW/kw78ou7": [
+    {
+      "type": 0,
+      "value": "Add content ("
+    },
+    {
+      "type": 1,
+      "value": "maxUploads"
+    },
+    {
+      "type": 0,
+      "value": " max, "
+    },
+    {
+      "type": 1,
+      "value": "maxSize"
+    },
+    {
+      "type": 0,
+      "value": "mb each)\\nAccepts pdf, txt, csv, etc.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rWFePRi0Xm": [
+    {
+      "type": 0,
+      "value": "Searched memorySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rbG4gZ94o6": [
+    {
+      "type": 0,
+      "value": "Failed to rename conversationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rbrahOGMC3": [
+    {
+      "type": 0,
+      "value": "CloseSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rdQw3nhjJl": [
+    {
+      "type": 0,
+      "value": "Load tool use conversationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rhSI1/3g21": [
+    {
+      "type": 0,
+      "value": "ModelSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "riw/yc06Nq": [
+    {
+      "type": 0,
+      "value": "BetaSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "rwoZ8xAmCX": [
+    {
+      "type": 0,
+      "value": "Press "
+    },
+    {
+      "type": 1,
+      "value": "key"
+    },
+    {
+      "type": 0,
+      "value": " keySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "s3IOQQ+nJU": [
+    {
+      "type": 0,
+      "value": "Edit "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "s5uJOAoEr4": [
+    {
+      "type": 0,
+      "value": "Click below to get the latest internal build from the Chrome Web Store.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "s88ium+h8p": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " result"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " results"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "sB0/cnPXfX": [
+    {
+      "type": 0,
+      "value": "Quick mode is experimentalSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "sDX6Oo6Pj4": [
+    {
+      "type": 0,
+      "value": "Use shortcuts to save timeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "sHRMIfTKu4": [
+    {
+      "type": 0,
+      "value": "Claude’s response was interrupted. This can be caused by network problems or exceeding the maximum conversation length. Please "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "contact support"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " if the issue persists.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "sbllSdx3rS": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "HIGH RISK:"
+        }
+      ],
+      "type": 8,
+      "value": "bold"
+    },
+    {
+      "type": 0,
+      "value": " Claude can take most actions on the internet now. This setting could put your data at risk. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "See safe use tips"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "sl7GM0q/D+": [
+    {
+      "type": 0,
+      "value": "None (omit parameter)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "smio7jldoW": [
+    {
+      "type": 0,
+      "value": "Describe what you would like to update...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "syL/4bL0LR": [
+    {
+      "type": 0,
+      "value": "You're leaving Claude to visit an external link:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "t8LDMCebfq": [
+    {
+      "type": 0,
+      "value": "Customize this ArtifactSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "t8QlFE5KKF": [
+    {
+      "type": 0,
+      "value": "JanuarySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tAAqTd9GOn": [
+    {
+      "type": 0,
+      "value": "Screenshot is not available on this pageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tEIdSD1dER": [
+    {
+      "type": 0,
+      "value": "Edited a notebookSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tFFMkFDBMO": [
+    {
+      "type": 0,
+      "value": "PauseSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tI3ocabFQo": [
+    {
+      "type": 0,
+      "value": "This connector has known issuesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tKMlOcHz9T": [
+    {
+      "type": 0,
+      "value": "MenuSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tL4WC1FPW1": [
+    {
+      "type": 0,
+      "value": "Loading more...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tLmAeX6EIO": [
+    {
+      "type": 0,
+      "value": "System prompts and metadataSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tTVI3GQeyu": [
+    {
+      "type": 0,
+      "value": "Created a fileSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tX+S0cc3I4": [
+    {
+      "type": 0,
+      "value": "Claude wants to use:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tnRDuUFRQw": [
+    {
+      "type": 0,
+      "value": "RevokeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ttaSfve/3w": [
+    {
+      "type": 0,
+      "value": "Claude will only use the sites listed. You'll be asked before accessing anything else.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "tuJiA0ZNUD": [
+    {
+      "type": 0,
+      "value": "Bad responseSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "txkW56MpkQ": [
+    {
+      "type": 0,
+      "value": "Submitting...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "u18BzaOjgu": [
+    {
+      "type": 0,
+      "value": "Task completion notificationsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "uAw7cJ5rnr": [
+    {
+      "type": 0,
+      "value": "Fetching pageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "uMZxG9zGvp": [
+    {
+      "type": 0,
+      "value": "Western European (Windows-1252)SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "uPTRxsratl": [
+    {
+      "type": 0,
+      "value": "Message Claude...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "uQDRsYlg+S": [
+    {
+      "type": 0,
+      "value": "LaterSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "uXoBCKm0ys": [
+    {
+      "type": 0,
+      "value": "File access was denied.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "uYztQwXf/+": [
+    {
+      "type": 0,
+      "value": "Domain TransitionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "un14bsOIsH": [
+    {
+      "type": 0,
+      "value": "Open chatSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "uu/l1k2f+L": [
+    {
+      "type": 0,
+      "value": "You’ve reached your weekly limit for thinking messages. Please try again next week.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "uyEHx0NjuN": [
+    {
+      "type": 0,
+      "value": "Animated GIF with action indicatorsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vAKAnIbJ4M": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " step"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " steps"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vBiQpyXw2X": [
+    {
+      "type": 0,
+      "value": "Result:SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vELHSm4csV": [
+    {
+      "type": 0,
+      "value": "Sent completion notificationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vJH/bBoB1X": [
+    {
+      "type": 0,
+      "value": "Share ConversationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vJNMTf4kWc": [
+    {
+      "type": 0,
+      "value": "API configurationSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vKFHWS4Ycl": [
+    {
+      "type": 1,
+      "value": "size"
+    },
+    {
+      "type": 0,
+      "value": " KBSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vKYgXlWdOu": [
+    {
+      "type": 0,
+      "value": "Toggle permission modeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vM9lvLriK9": [
+    {
+      "type": 0,
+      "value": "Enable structured API tools for Google Docs, Sheets, Slides, Gmail, and CalendarSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vMUomPyEk+": [
+    {
+      "type": 0,
+      "value": "Upload imageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vWBKqpDTBm": [
+    {
+      "type": 0,
+      "value": "Loading conversations...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vYjeaNdXif": [
+    {
+      "type": 0,
+      "value": "Trademark infringementSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vjsFq8zg2Y": [
+    {
+      "type": 0,
+      "value": "Click through your task to record each stepSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vlKhIlKczK": [
+    {
+      "type": 0,
+      "value": "Your nameSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vwxMsyPVYx": [
+    {
+      "type": 0,
+      "value": "fileSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "vyV1zGTEEH": [
+    {
+      "type": 0,
+      "value": "Violence and/or hate speechSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "w5LAgMj8xn": [
+    {
+      "type": 0,
+      "value": "Create new shortcutSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wEQDC6Wv3/": [
+    {
+      "type": 0,
+      "value": "EditSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wJ41IHBkzE": [
+    {
+      "type": 0,
+      "value": "Get notified when tasks complete or need inputSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wL7VAE/fRX": [
+    {
+      "type": 0,
+      "value": "ActionsSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wLZuGWqTtQ": [
+    {
+      "type": 0,
+      "value": "Please help us Antfood the latest version of Claude. Your testing accelerates our development.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wQ9MRHcGCI": [
+    {
+      "type": 0,
+      "value": "Reload the side panel after loading test dataSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wSZR47Y5kj": [
+    {
+      "type": 0,
+      "value": "SubmitSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wT63jkA9qK": [
+    {
+      "type": 0,
+      "value": "Edited a fileSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wVu1FLTwAn": [
+    {
+      "type": 0,
+      "value": "Let's goSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wWT0iz9SkP": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "View your usage details"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": ".SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wYsv4ZHu+B": [
+    {
+      "type": 0,
+      "value": "MonthlySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wn15NDyLWm": [
+    {
+      "type": 0,
+      "value": "Shortcut addedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wrcoZ2Zo0b": [
+    {
+      "type": 0,
+      "value": "Try fixing with ClaudeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "wvGBF/FvBd": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " column"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " columns"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "columnCount"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " row"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " rows"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "rowCount"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "x0W7xxxEcv": [
+    {
+      "type": 0,
+      "value": "Web searchSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "x0gJoMad7a": [
+    {
+      "type": 0,
+      "value": "Double-clickSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "x5Tz6MZH82": [
+    {
+      "type": 0,
+      "value": "ReportSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "x8JhFG5A3f": [
+    {
+      "type": 0,
+      "value": "Claude had to pauseSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "xBaHKeE0uO": [
+    {
+      "type": 0,
+      "value": "JuneSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "xFdRKGza1P": [
+    {
+      "type": 0,
+      "value": "Step 2: Remove this extensionSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "xLpBTyWHMH": [
+    {
+      "type": 0,
+      "value": "Computer action: "
+    },
+    {
+      "type": 1,
+      "value": "action"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "xUedNbOuGK": [
+    {
+      "type": 0,
+      "value": "Share "
+    },
+    {
+      "type": 1,
+      "value": "feedbackType"
+    },
+    {
+      "type": 0,
+      "value": " feedbackSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "xeH1mSU1MS": [
+    {
+      "type": 0,
+      "value": "This mode puts your data and the data of others at risk from malicious code.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "xgz5co4oqe": [
+    {
+      "type": 0,
+      "value": "Claude paused due to a navigation from "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "fromDomain"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " to "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "toDomain"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "xsy6u5jY4z": [
+    {
+      "type": 0,
+      "value": "Site-level permissions are disabled for this site.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "xvBEtpDq86": [
+    {
+      "type": 0,
+      "value": "Enter your prompt text...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "y/bmsG8rnv": [
+    {
+      "type": 0,
+      "value": "AllowSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "y1Z3orIe9Z": [
+    {
+      "type": 0,
+      "value": "LanguageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "y5DX5NCmrm": [
+    {
+      "type": 0,
+      "value": "Edited "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " filesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "yJAKR0Ngpn": [
+    {
+      "type": 0,
+      "value": "Send MessageSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "yJFWG3mK1I": [
+    {
+      "type": 0,
+      "value": "What was satisfying about this response?SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "yLeYIHrySb": [
+    {
+      "type": 0,
+      "value": "Claude can take on your multi-step work like QA testing, researching sales leads, and data entry across multiple sites. You can focus elsewhere knowing Claude is working in background.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "yMbKjuDH/n": [
+    {
+      "type": 0,
+      "value": "ZoomSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "yPUC8ZWYmE": [
+    {
+      "type": 0,
+      "value": "Changing the language will start a new chat.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ya5HK9oB9T": [
+    {
+      "type": 0,
+      "value": "Error in Claude completionSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ycIOwbY8b/": [
+    {
+      "type": 0,
+      "value": "Ask before actingSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "yeVBln6MC+": [
+    {
+      "type": 0,
+      "value": "Retry with "
+    },
+    {
+      "type": 1,
+      "value": "fallbackDisplayName"
+    },
+    {
+      "type": 0,
+      "value": "SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ymWsV10Pz1": [
+    {
+      "type": 0,
+      "value": "Your "
+    },
+    {
+      "type": 1,
+      "value": "resourceType"
+    },
+    {
+      "type": 0,
+      "value": " upload failed. Please try again.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "yq8mEk+Hev": [
+    {
+      "type": 0,
+      "value": "Voice narration activeSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ysZbg4a2QH": [
+    {
+      "type": 0,
+      "value": "The text encoding for "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "fileName"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " could not be determined. Choose an encoding and verify with the preview.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "yx1UefClU6": [
+    {
+      "type": 0,
+      "value": "Display system reminder tags for debugging tab context changesSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "z/9/pgDLbi": [
+    {
+      "type": 0,
+      "value": "768pxSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "z7AnVbQ0rh": [
+    {
+      "type": 0,
+      "value": "This file type cannot be opened.SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "z9VjDwhyoe": [
+    {
+      "type": 0,
+      "value": "Save as shortcutSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zPbO6HcY5Z": [
+    {
+      "type": 0,
+      "value": "Claude will not purchase items, create accounts, or bypass captchas without input. Revoke site permissions in "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "settings"
+        }
+      ],
+      "type": 8,
+      "value": "settingsButton"
+    },
+    {
+      "type": 0,
+      "value": ".SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zQipeg7kSl": [
+    {
+      "type": 0,
+      "value": "Scroll downSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zU/q1NoIdN": [
+    {
+      "type": 0,
+      "value": "Link copiedSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zUpHdfwzIp": [
+    {
+      "type": 0,
+      "value": "MaySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zUqcG2+Ygl": [
+    {
+      "type": 0,
+      "value": "Updated todo listSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zVfLRVWxUM": [
+    {
+      "type": 0,
+      "value": "Image QualitySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zYPk/n3qmG": [
+    {
+      "type": 0,
+      "value": "Chat sessions will appear hereSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zZuYUk2GGf": [
+    {
+      "type": 0,
+      "value": "untitledSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ze8mOEi4wo": [
+    {
+      "type": 0,
+      "value": "Edited "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " notebooksSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zfW5u5DbnY": [
+    {
+      "type": 0,
+      "value": "task-nameSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zi3F37/OAt": [
+    {
+      "type": 0,
+      "value": "Customize System PromptSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zqQotfDw3h": [
+    {
+      "type": 0,
+      "value": "Compacting...SSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "ztswgLtQRV": [
+    {
+      "type": 0,
+      "value": "Select ElementSSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ],
+  "zxvhnETmn2": [
+    {
+      "type": 0,
+      "value": "DailySSSSSSSSSSSSSSSSSSSSSSSSS"
+    }
+  ]
+}

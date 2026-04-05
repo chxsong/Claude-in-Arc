@@ -1,0 +1,6630 @@
+{
+  "++Pasr1YW3": [
+    {
+      "type": 0,
+      "value": "[javascript]PNG (lossless, large)"
+    }
+  ],
+  "+0zv6gS/c6": [
+    {
+      "type": 0,
+      "value": "[javascript]Image"
+    }
+  ],
+  "+3JNZUiU+F": [
+    {
+      "type": 0,
+      "value": "[javascript]This is an experimental mode that is still being evaluated. Monitor Claude closely while using it. Avoid sensitive workflows."
+    }
+  ],
+  "+DB/t6WTki": [
+    {
+      "type": 0,
+      "value": "[javascript]What was unsatisfying about this response?"
+    }
+  ],
+  "+G68MpAlMw": [
+    {
+      "type": 0,
+      "value": "[javascript]Used Preview"
+    }
+  ],
+  "+K+Ivzv8BD": [
+    {
+      "type": 0,
+      "value": "[javascript]Wait for Claude to finish"
+    }
+  ],
+  "+N2w6QNwn2": [
+    {
+      "type": 0,
+      "value": "[javascript]See something Claude should know about? Send a screenshot with a message."
+    }
+  ],
+  "+hhq5pP98n": [
+    {
+      "type": 0,
+      "value": "[javascript]Describe what worked well and what could be improved about the suggestions..."
+    }
+  ],
+  "+lsh8v//5g": [
+    {
+      "type": 0,
+      "value": "[javascript]Scroll right"
+    }
+  ],
+  "+vVZ/G11Zg": [
+    {
+      "type": 0,
+      "value": "[javascript]Connect"
+    }
+  ],
+  "+yoqHvrSyZ": [
+    {
+      "type": 0,
+      "value": "[javascript]Debug Settings"
+    }
+  ],
+  "/06n65wN4J": [
+    {
+      "type": 0,
+      "value": "[javascript]This is a beta feature"
+    }
+  ],
+  "/5FoUj4Va+": [
+    {
+      "type": 0,
+      "value": "[javascript]When navigating between these sites"
+    }
+  ],
+  "/6iExgDC34": [
+    {
+      "type": 0,
+      "value": "[javascript]Invalid time format"
+    }
+  ],
+  "/AyXW9R0Le": [
+    {
+      "type": 0,
+      "value": "[javascript]Too many upload attempts. Wait a moment and try again."
+    }
+  ],
+  "/CBk9UV8iS": [
+    {
+      "type": 0,
+      "value": "[javascript]New permissions required"
+    }
+  ],
+  "/GXAvJ98t+": [
+    {
+      "type": 0,
+      "value": "[javascript]Running command"
+    }
+  ],
+  "/Ma3teJf9/": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude content"
+    }
+  ],
+  "/VnDMl81rh": [
+    {
+      "type": 0,
+      "value": "[javascript]Other"
+    }
+  ],
+  "/cUj2zoCtz": [
+    {
+      "type": 0,
+      "value": "[javascript]Read console messages"
+    }
+  ],
+  "/clOBUs/wZ": [
+    {
+      "type": 0,
+      "value": "[javascript]Weekly"
+    }
+  ],
+  "/fdYJU5SMC": [
+    {
+      "type": 0,
+      "value": "[javascript]Please check the file name and try again."
+    }
+  ],
+  "/hgypvsrtJ": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "size"
+    },
+    {
+      "type": 0,
+      "value": " KB"
+    }
+  ],
+  "/iWSNCU/BH": [
+    {
+      "type": 0,
+      "value": "[javascript]My shortcuts"
+    }
+  ],
+  "/jNwaAHdg9": [
+    {
+      "type": 0,
+      "value": "[javascript]Your message will exceed the maximum number of files allowed per message. Consider removing some of your files or adding files over several messages."
+    }
+  ],
+  "/ly4NRQA83": [
+    {
+      "type": 0,
+      "value": "[javascript]Loaded skill"
+    }
+  ],
+  "/mCoauj3Ws": [
+    {
+      "type": 0,
+      "value": "[javascript]Uploaded file is too large. Try uploading a smaller part of the document, or copy/pasting an excerpt from the file."
+    }
+  ],
+  "/oSRHC9/hb": [
+    {
+      "type": 0,
+      "value": "[javascript]Screenshot thumbnail"
+    }
+  ],
+  "/vpJ4PBekj": [
+    {
+      "type": 0,
+      "value": "[javascript]Dev Testing"
+    }
+  ],
+  "04w/1piSXb": [
+    {
+      "type": 0,
+      "value": "[javascript]Submitting this report will send the entire current conversation to Anthropic for future improvements to our models. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Learn more"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "06tSNl9YfF": [
+    {
+      "type": 0,
+      "value": "[javascript]Scroll up"
+    }
+  ],
+  "07CU16lPVb": [
+    {
+      "type": 0,
+      "value": "[javascript]Press "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " keys: "
+    },
+    {
+      "type": 1,
+      "value": "summary"
+    }
+  ],
+  "0A0qMvsWV4": [
+    {
+      "type": 0,
+      "value": "[javascript]Drafting plan..."
+    }
+  ],
+  "0BMfJOry+3": [
+    {
+      "type": 0,
+      "value": "[javascript]Save API Key"
+    }
+  ],
+  "0HUNCOubmp": [
+    {
+      "type": 0,
+      "value": "[javascript]Making edits..."
+    }
+  ],
+  "0TR0PDvKax": [
+    {
+      "type": 0,
+      "value": "[javascript]February"
+    }
+  ],
+  "0YIsn/UOa0": [
+    {
+      "type": 0,
+      "value": "[javascript]Stop message"
+    }
+  ],
+  "0ZuuhwjU4n": [
+    {
+      "type": 0,
+      "value": "[javascript]Searched"
+    }
+  ],
+  "0kOCGtB3eN": [
+    {
+      "type": 0,
+      "value": "[javascript]The file “"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "” could not be found."
+    }
+  ],
+  "0nCKXihfO0": [
+    {
+      "type": 0,
+      "value": "[javascript]Why are you reporting this?"
+    }
+  ],
+  "13OdRQYanm": [
+    {
+      "type": 0,
+      "value": "[javascript]Illegal goods"
+    }
+  ],
+  "13YOiAKDfM": [
+    {
+      "type": 0,
+      "value": "[javascript]Microphone access blocked"
+    }
+  ],
+  "14+jcDS33B": [
+    {
+      "type": 0,
+      "value": "[javascript]Created "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " files"
+    }
+  ],
+  "1IMB/Q+/I9": [
+    {
+      "type": 0,
+      "value": "[javascript]Try on desktop"
+    }
+  ],
+  "1M/MackCDO": [
+    {
+      "type": 0,
+      "value": "[javascript]Searched "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " patterns"
+    }
+  ],
+  "1bEhiGnHtL": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": " thumbnail"
+    }
+  ],
+  "1bxKaj0pKU": [
+    {
+      "type": 0,
+      "value": "[javascript]Upload failed due to a network issue. Check your internet connection and try again."
+    }
+  ],
+  "1cBbdp1n7Q": [
+    {
+      "type": 0,
+      "value": "[javascript]You should oversee Claude when it is in this mode. You are fully responsible for all risks associated with permission-less Claude."
+    }
+  ],
+  "1e/v371QIT": [
+    {
+      "type": 0,
+      "value": "[javascript]Open artifact"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    }
+  ],
+  "1if5aMN6aR": [
+    {
+      "type": 0,
+      "value": "[javascript]Desktop screenshots"
+    }
+  ],
+  "1mTUAYpy10": [
+    {
+      "type": 0,
+      "value": "[javascript]image.png"
+    }
+  ],
+  "1nV3NuMwiG": [
+    {
+      "type": 0,
+      "value": "[javascript]Failed to fetch"
+    }
+  ],
+  "2/2yg+qAwp": [
+    {
+      "type": 0,
+      "value": "[javascript]Add"
+    }
+  ],
+  "242T21lCRb": [
+    {
+      "type": 0,
+      "value": "[javascript]Deleted "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " files"
+    }
+  ],
+  "26Cn0oifmR": [
+    {
+      "type": 0,
+      "value": "[javascript]URL is required"
+    }
+  ],
+  "29gmtdw6e5": [
+    {
+      "type": 0,
+      "value": "[javascript]Error: "
+    },
+    {
+      "type": 1,
+      "value": "error"
+    }
+  ],
+  "2Gct3kUo/o": [
+    {
+      "type": 0,
+      "value": "[javascript]Browser automation"
+    }
+  ],
+  "2H4p4zLO4P": [
+    {
+      "type": 0,
+      "value": "[javascript]Anthropic API Key"
+    }
+  ],
+  "2IdpXcmaL/": [
+    {
+      "type": 0,
+      "value": "[javascript]Unable to open file."
+    }
+  ],
+  "2IiG1AGCna": [
+    {
+      "type": 0,
+      "value": "[javascript]We value user reports to uphold our platform’s integrity and improve our ability to enforce our Usage Policy. Unless you opt out, reports may be used to train models for use by our Trust & Safety team, consistent with Anthropic’s safety mission. Opt out of this use by changing the toggle above."
+    }
+  ],
+  "2KtWqT5Nl+": [
+    {
+      "type": 0,
+      "value": "[javascript]Internal"
+    }
+  ],
+  "2Of7XEfvDu": [
+    {
+      "type": 0,
+      "value": "[javascript]Try quick mode - our experimental fast browsing experience."
+    }
+  ],
+  "2QDdAh+Gbf": [
+    {
+      "type": 0,
+      "value": "[javascript]This conversation is too long to continue. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Start a new chat"
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 0,
+      "value": ", or remove some tools to free up space."
+    }
+  ],
+  "2ZM4JNJI7K": [
+    {
+      "type": 0,
+      "value": "[javascript]Your session has expired"
+    }
+  ],
+  "2epHWDjRXo": [
+    {
+      "type": 0,
+      "value": "[javascript]Turkish (Windows-1254)"
+    }
+  ],
+  "2iPAwj1yCC": [
+    {
+      "type": 0,
+      "value": "[javascript]Log in to Claude to use or customize this artifact. No account? You can create one for free."
+    }
+  ],
+  "2jjdVzJX0c": [
+    {
+      "type": 0,
+      "value": "[javascript]Upload files"
+    }
+  ],
+  "2kBzPQ9Wsi": [
+    {
+      "type": 0,
+      "value": "[javascript]This site requires permission for each action."
+    }
+  ],
+  "2kIOIQ+IMe": [
+    {
+      "type": 0,
+      "value": "[javascript]Limits will reset "
+    },
+    {
+      "type": 1,
+      "value": "day"
+    },
+    {
+      "type": 0,
+      "value": " at "
+    },
+    {
+      "type": 1,
+      "value": "resetsAt"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "2mMJRvsAg1": [
+    {
+      "type": 0,
+      "value": "[javascript]Connectors"
+    }
+  ],
+  "2mmEfFQIze": [
+    {
+      "type": 0,
+      "value": "[javascript]Court order"
+    }
+  ],
+  "2n9PvXg1wT": [
+    {
+      "type": 0,
+      "value": "[javascript]Enable microphone access to use your browser's speech-to-text functionality for voice narration during workflow recording"
+    }
+  ],
+  "2uu7KJJCOH": [
+    {
+      "type": 0,
+      "value": "[javascript]Step "
+    },
+    {
+      "type": 1,
+      "value": "currentStep"
+    },
+    {
+      "type": 0,
+      "value": " of "
+    },
+    {
+      "type": 1,
+      "value": "totalCount"
+    }
+  ],
+  "2x8xsy/VJk": [
+    {
+      "type": 0,
+      "value": "[javascript]Current shortcut: "
+    },
+    {
+      "type": 1,
+      "value": "shortcut"
+    }
+  ],
+  "2yTW8KQyIr": [
+    {
+      "type": 0,
+      "value": "[javascript]This allows Claude to take any action on the internet."
+    }
+  ],
+  "3HqwPnSzes": [
+    {
+      "type": 0,
+      "value": "[javascript]Ran terminal"
+    }
+  ],
+  "3KYfO78h3Q": [
+    {
+      "type": 0,
+      "value": "[javascript]Put Claude to work in your browser..."
+    }
+  ],
+  "3KbdFvbeRu": [
+    {
+      "type": 0,
+      "value": "[javascript]Test notifications"
+    }
+  ],
+  "3RpkNRAyPc": [
+    {
+      "type": 0,
+      "value": "[javascript]An error occurred while trying to run the generated artifact."
+    }
+  ],
+  "3VG8rbxa4v": [
+    {
+      "type": 0,
+      "value": "[javascript]An unknown error occurred"
+    }
+  ],
+  "3h3ag+S9Qb": [
+    {
+      "type": 0,
+      "value": "[javascript]Click Location:"
+    }
+  ],
+  "3hk4yMCf5v": [
+    {
+      "type": 0,
+      "value": "[javascript]Or "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "contact sales"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " if you would be interested in upgrading to a paid version of Claude."
+    }
+  ],
+  "3jVWWj+aj4": [
+    {
+      "type": 0,
+      "value": "[javascript]e.g., summarize"
+    }
+  ],
+  "3kbIhS7KZS": [
+    {
+      "type": 0,
+      "value": "[javascript]Untitled"
+    }
+  ],
+  "3y9DGgura7": [
+    {
+      "type": 0,
+      "value": "[javascript]Resume"
+    }
+  ],
+  "4+310Bnuvz": [
+    {
+      "type": 0,
+      "value": "[javascript]Searched the web"
+    }
+  ],
+  "438y6E4IUP": [
+    {
+      "type": 0,
+      "value": "[javascript]Show trace IDs"
+    }
+  ],
+  "477I0ggSYe": [
+    {
+      "type": 0,
+      "value": "[javascript]Low"
+    }
+  ],
+  "47FYwba+bI": [
+    {
+      "type": 0,
+      "value": "[javascript]Cancel"
+    }
+  ],
+  "481hO7jC9z": [
+    {
+      "type": 0,
+      "value": "[javascript]Loading permissions..."
+    }
+  ],
+  "4AhXwwJN7S": [
+    {
+      "type": 0,
+      "value": "[javascript]Customize the instructions given to Claude for browser automation tasks."
+    }
+  ],
+  "4Bom+nABM6": [
+    {
+      "type": 0,
+      "value": "[javascript]Web fetch"
+    }
+  ],
+  "4VcUGIGtNu": [
+    {
+      "type": 0,
+      "value": "[javascript]Greek (Windows-1253)"
+    }
+  ],
+  "4XdZthEtcv": [
+    {
+      "type": 0,
+      "value": "[javascript]If you are reporting the content as violating our policies (including our terms or Usage Policy), please describe in detail why you believe the identified content is in violation of our policies, with specific citations to our policies wherever possible."
+    }
+  ],
+  "4aIpD3RYB/": [
+    {
+      "type": 0,
+      "value": "[javascript]Chrome extension with connected apps"
+    }
+  ],
+  "4c3LCpKv39": [
+    {
+      "type": 0,
+      "value": "[javascript]This conversation can't be compacted any further. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Start a new chat"
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 0,
+      "value": " to continue."
+    }
+  ],
+  "4jbxHKfdQJ": [
+    {
+      "type": 0,
+      "value": "[javascript]Load simple conversation"
+    }
+  ],
+  "4l6vz1/eZ5": [
+    {
+      "type": 0,
+      "value": "[javascript]Copy"
+    }
+  ],
+  "4opisC4xNg": [
+    {
+      "type": 0,
+      "value": "[javascript]Model selector, "
+    },
+    {
+      "type": 1,
+      "value": "model"
+    },
+    {
+      "type": 0,
+      "value": " selected"
+    }
+  ],
+  "53DiPrdI5r": [
+    {
+      "type": 0,
+      "value": "[javascript]Global instructions"
+    }
+  ],
+  "5CvLCHBlfQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Created "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "5KajyzHSXj": [
+    {
+      "type": 0,
+      "value": "[javascript]Searching the web"
+    }
+  ],
+  "5Ocu9uCFLz": [
+    {
+      "type": 0,
+      "value": "[javascript]Limit reached. This artifact uses Claude for responses. Try again when the message limit resets."
+    }
+  ],
+  "5SGbHZD5HC": [
+    {
+      "type": 0,
+      "value": "[javascript]Microphone access has been denied. To enable, change Microphone to 'Allow' in "
+    },
+    {
+      "type": 1,
+      "value": "chromeSettingsLink"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "5U/pkz4osv": [
+    {
+      "type": 0,
+      "value": "[javascript]Automate your repetitive tasks"
+    }
+  ],
+  "5YeZ4eSCdp": [
+    {
+      "type": 0,
+      "value": "[javascript]\""
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "\" is too large. Images must be under "
+    },
+    {
+      "type": 1,
+      "value": "limit"
+    },
+    {
+      "type": 0,
+      "value": "MB. You can resize or compress it and try again."
+    }
+  ],
+  "5cTjpUYBW8": [
+    {
+      "type": 0,
+      "value": "[javascript]Test conversations"
+    }
+  ],
+  "5mDrlUu7+N": [
+    {
+      "type": 0,
+      "value": "[javascript]Can't access this page"
+    }
+  ],
+  "5n05oJw5CD": [
+    {
+      "type": 0,
+      "value": "[javascript]Screenshot with click location"
+    }
+  ],
+  "5oZeuus9Dz": [
+    {
+      "type": 0,
+      "value": "[javascript]API Key Mode"
+    }
+  ],
+  "5q3qC0sC3r": [
+    {
+      "type": 0,
+      "value": "[javascript]Download"
+    }
+  ],
+  "5qKeNV67+8": [
+    {
+      "type": 0,
+      "value": "[javascript]Fetching from "
+    },
+    {
+      "type": 1,
+      "value": "hostname"
+    }
+  ],
+  "5qaD7sDVxu": [
+    {
+      "type": 0,
+      "value": "[javascript]Rejected"
+    }
+  ],
+  "62nsdyMyIO": [
+    {
+      "type": 0,
+      "value": "[javascript]Retry"
+    }
+  ],
+  "64Zy5GdKR8": [
+    {
+      "type": 0,
+      "value": "[javascript]Customize is not available for teams"
+    }
+  ],
+  "6GZsc+GLF3": [
+    {
+      "type": 0,
+      "value": "[javascript]Structured API tools are enabled for Google Docs, Sheets, Slides, Gmail, and Calendar"
+    }
+  ],
+  "6Ovg0gmxY3": [
+    {
+      "type": 0,
+      "value": "[javascript]Please use this "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "form"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " to report copyright infringement."
+    }
+  ],
+  "6RGlahDX2/": [
+    {
+      "type": 0,
+      "value": "[javascript]Model Override"
+    }
+  ],
+  "6Ss5IpaxlL": [
+    {
+      "type": 0,
+      "value": "[javascript]Allow this action"
+    }
+  ],
+  "6UuyKKMuCv": [
+    {
+      "type": 0,
+      "value": "[javascript]Read network requests"
+    }
+  ],
+  "6VB5leIcQ2": [
+    {
+      "type": 0,
+      "value": "[javascript]Enable quick mode"
+    }
+  ],
+  "6XFO/Cw7Ld": [
+    {
+      "type": 0,
+      "value": "[javascript]Approved"
+    }
+  ],
+  "6baLmoYEwS": [
+    {
+      "type": 0,
+      "value": "[javascript]Browse, click, and type"
+    }
+  ],
+  "6jDabxQKDj": [
+    {
+      "type": 0,
+      "value": "[javascript]Give Feedback"
+    }
+  ],
+  "6kGP03sC6R": [
+    {
+      "type": 0,
+      "value": "[javascript]Read page (interactive)"
+    }
+  ],
+  "6pwz+Cv63v": [
+    {
+      "type": 0,
+      "value": "[javascript]Record workflow"
+    }
+  ],
+  "6x5YwESShd": [
+    {
+      "type": 0,
+      "value": "[javascript]Waiting for permission request..."
+    }
+  ],
+  "6zfn3n4+te": [
+    {
+      "type": 0,
+      "value": "[javascript]Another extension you're using is preventing Claude in Chrome from operating. Turn off extensions such as "
+    },
+    {
+      "type": 1,
+      "value": "extensionName"
+    },
+    {
+      "type": 0,
+      "value": " to use Claude in your browser."
+    }
+  ],
+  "7/3PxH3ltB": [
+    {
+      "type": 0,
+      "value": "[javascript]No shortcut configured"
+    }
+  ],
+  "76+sVeXWuh": [
+    {
+      "type": 0,
+      "value": "[javascript]If provided, we may contact you for additional information or updates on this report"
+    }
+  ],
+  "7DuHI9a2sT": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "serverName"
+    },
+    {
+      "type": 0,
+      "value": ": "
+    },
+    {
+      "type": 1,
+      "value": "toolDisplayName"
+    }
+  ],
+  "7FAwwkYilD": [
+    {
+      "type": 0,
+      "value": "[javascript]Shortcuts"
+    }
+  ],
+  "7NXXhvNk8g": [
+    {
+      "type": 0,
+      "value": "[javascript]Continue and Download"
+    }
+  ],
+  "7W74V502ms": [
+    {
+      "type": 0,
+      "value": "[javascript]You have allowed Claude to take all actions (browse, click, type) on these sites."
+    }
+  ],
+  "7Zr5grAGuN": [
+    {
+      "type": 0,
+      "value": "[javascript]No shortcuts found for \"/"
+    },
+    {
+      "type": 1,
+      "value": "searchTerm"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "7qYF66c9/s": [
+    {
+      "type": 0,
+      "value": "[javascript]Google Doc"
+    }
+  ],
+  "7wJz7kSrLT": [
+    {
+      "type": 0,
+      "value": "[javascript]Plan rejected"
+    }
+  ],
+  "7wuY3W3ryd": [
+    {
+      "type": 0,
+      "value": "[javascript]Allow for all chats"
+    }
+  ],
+  "83Jawm3PD0": [
+    {
+      "type": 0,
+      "value": "[javascript]Teach Claude your workflow"
+    }
+  ],
+  "83itGujdwB": [
+    {
+      "type": 0,
+      "value": "[javascript]Allow microphone access"
+    }
+  ],
+  "83rtGTKgfN": [
+    {
+      "type": 0,
+      "value": "[javascript]Sent permission notification"
+    }
+  ],
+  "8Aa/HbeJSY": [
+    {
+      "type": 0,
+      "value": "[javascript]Violation of terms or usage policy"
+    }
+  ],
+  "8NQAeTqGOl": [
+    {
+      "type": 0,
+      "value": "[javascript]Drafting artifact..."
+    }
+  ],
+  "8QvDObQuPZ": [
+    {
+      "type": 0,
+      "value": "[javascript]Follow a plan"
+    }
+  ],
+  "8Rj4WgXPcB": [
+    {
+      "type": 0,
+      "value": "[javascript]Copy message"
+    }
+  ],
+  "8SygarDkaz": [
+    {
+      "type": 0,
+      "value": "[javascript]Cannot send"
+    }
+  ],
+  "8Y2q4SsIpY": [
+    {
+      "type": 0,
+      "value": "[javascript]Create your first shortcut to get started"
+    }
+  ],
+  "8YQCrT7GkS": [
+    {
+      "type": 0,
+      "value": "[javascript]Target Tab ID:"
+    }
+  ],
+  "8ZaktIWXig": [
+    {
+      "type": 0,
+      "value": "[javascript]\""
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "\" exceeds the "
+    },
+    {
+      "type": 1,
+      "value": "limit"
+    },
+    {
+      "type": 0,
+      "value": "-pixel dimension limit. You can resize it and try again."
+    }
+  ],
+  "8amcCGO7ya": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "size"
+    },
+    {
+      "type": 0,
+      "value": " MB"
+    }
+  ],
+  "8jAKYtgD1r": [
+    {
+      "type": 0,
+      "value": "[javascript]Close preview"
+    }
+  ],
+  "8laklrhkfX": [
+    {
+      "type": 0,
+      "value": "[javascript]Text to be typed:"
+    }
+  ],
+  "8yJb2QLQAo": [
+    {
+      "type": 0,
+      "value": "[javascript]Another Claude is using this tab"
+    }
+  ],
+  "9+DdtuCqLw": [
+    {
+      "type": 0,
+      "value": "[javascript]Next"
+    }
+  ],
+  "99OdS35+yZ": [
+    {
+      "type": 0,
+      "value": "[javascript]Planning"
+    }
+  ],
+  "99ghrgx5j8": [
+    {
+      "type": 0,
+      "value": "[javascript]File previews are not supported for this file type"
+    }
+  ],
+  "9JcWWPAZoB": [
+    {
+      "type": 0,
+      "value": "[javascript]Files of the following "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "format is"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "formats are"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " not supported: "
+    },
+    {
+      "type": 1,
+      "value": "formats"
+    }
+  ],
+  "9NeTb00/cM": [
+    {
+      "type": 0,
+      "value": "[javascript]Formatting may be inconsistent from source"
+    }
+  ],
+  "9W9AYgC9Qk": [
+    {
+      "type": 0,
+      "value": "[javascript]Report Artifact"
+    }
+  ],
+  "9a+SKtXKhe": [
+    {
+      "type": 0,
+      "value": "[javascript]Screenshot"
+    }
+  ],
+  "9anUl9Q74Z": [
+    {
+      "type": 0,
+      "value": "[javascript]This is a beta feature with unique risks distinct from other Claude products. You are fully responsible for all risks associated with use of this product."
+    }
+  ],
+  "9fXfauBZpW": [
+    {
+      "type": 0,
+      "value": "[javascript]Reading "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "9hU0zUNoF+": [
+    {
+      "type": 0,
+      "value": "[javascript]All widgets are currently visible"
+    }
+  ],
+  "9qJKQKXInl": [
+    {
+      "type": 0,
+      "value": "[javascript]Pin Claude for quick access"
+    }
+  ],
+  "9qWxtxsjAd": [
+    {
+      "type": 0,
+      "value": "[javascript]Generating shortcut..."
+    }
+  ],
+  "9t1iivhk67": [
+    {
+      "type": 0,
+      "value": "[javascript]Configure"
+    }
+  ],
+  "A+vguREwVx": [
+    {
+      "type": 0,
+      "value": "[javascript]Click to open in new tab"
+    }
+  ],
+  "A/lLjOnjl0": [
+    {
+      "type": 0,
+      "value": "[javascript]Generating..."
+    }
+  ],
+  "A1D4wkEiQy": [
+    {
+      "type": 0,
+      "value": "[javascript]Image too large"
+    }
+  ],
+  "AC8r0aGOfS": [
+    {
+      "type": 0,
+      "value": "[javascript]Remove "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "AFTxeGB4qO": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " line"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " lines"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "AG0gBvRduy": [
+    {
+      "type": 0,
+      "value": "[javascript]Triple-click"
+    }
+  ],
+  "ARbpHolQpg": [
+    {
+      "type": 0,
+      "value": "[javascript]Get a quote instead"
+    }
+  ],
+  "ATy/CxAxS4": [
+    {
+      "type": 0,
+      "value": "[javascript]Could not load file preview"
+    }
+  ],
+  "AU53gP2rAv": [
+    {
+      "type": 0,
+      "value": "[javascript]Drag Path:"
+    }
+  ],
+  "AVGRJcgMbU": [
+    {
+      "type": 0,
+      "value": "[javascript]Unable to access file in virtual environment."
+    }
+  ],
+  "AetNADx5Bh": [
+    {
+      "type": 0,
+      "value": "[javascript]Browse"
+    }
+  ],
+  "ArrUF7Kfqw": [
+    {
+      "type": 0,
+      "value": "[javascript]Find: \""
+    },
+    {
+      "type": 1,
+      "value": "query"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "AtUwwM+FWM": [
+    {
+      "type": 0,
+      "value": "[javascript]Clear history and keep summary"
+    }
+  ],
+  "AvzR+WuOGF": [
+    {
+      "type": 0,
+      "value": "[javascript]File could not be opened."
+    }
+  ],
+  "AyGauyc55S": [
+    {
+      "type": 0,
+      "value": "[javascript]Login"
+    }
+  ],
+  "AzO4h7b149": [
+    {
+      "type": 0,
+      "value": "[javascript]Create shortcut"
+    }
+  ],
+  "B2ROp8L071": [
+    {
+      "type": 0,
+      "value": "[javascript]No sites have been approved yet"
+    }
+  ],
+  "B5amdqFEtT": [
+    {
+      "type": 0,
+      "value": "[javascript]Navigate to "
+    },
+    {
+      "type": 1,
+      "value": "url"
+    }
+  ],
+  "B5h0vjkrIg": [
+    {
+      "type": 0,
+      "value": "[javascript]Searched Drive"
+    }
+  ],
+  "B8MRsI/UjW": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " item"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " items"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "B9+OriKQKb": [
+    {
+      "type": 0,
+      "value": "[javascript]Test completion notification"
+    }
+  ],
+  "BATKcMm/a2": [
+    {
+      "type": 0,
+      "value": "[javascript]Improve"
+    }
+  ],
+  "BAeUW3tSiP": [
+    {
+      "type": 0,
+      "value": "[javascript]No direct manipulation of message state"
+    }
+  ],
+  "BHppLJelWo": [
+    {
+      "type": 0,
+      "value": "[javascript]Share the conversation"
+    }
+  ],
+  "BHzoQdwFnu": [
+    {
+      "type": 0,
+      "value": "[javascript]Returning to your workflow..."
+    }
+  ],
+  "BWpuKlRSA1": [
+    {
+      "type": 0,
+      "value": "[javascript]Update"
+    }
+  ],
+  "BfcxKxig7S": [
+    {
+      "type": 0,
+      "value": "[javascript]risks"
+    }
+  ],
+  "BgSBBhOmOQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Access shared data"
+    }
+  ],
+  "Bjp5vOloME": [
+    {
+      "type": 0,
+      "value": "[javascript]Other illegal or unlawful content"
+    }
+  ],
+  "BpjonN0qoV": [
+    {
+      "type": 0,
+      "value": "[javascript]Press key: "
+    },
+    {
+      "type": 1,
+      "value": "keys"
+    }
+  ],
+  "Bt8FNxmBoj": [
+    {
+      "type": 0,
+      "value": "[javascript]5"
+    }
+  ],
+  "BwIZY+bHrv": [
+    {
+      "type": 0,
+      "value": "[javascript]System Prompt"
+    }
+  ],
+  "C8CF1Igl7Q": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude needs microphone access to hear your voice narration while you demonstrate workflows. When prompted, select "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Allow while visiting the site"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " to enable voice narration."
+    }
+  ],
+  "C9scsm6HrW": [
+    {
+      "type": 0,
+      "value": "[javascript]Find element"
+    }
+  ],
+  "CTEIoG7qEy": [
+    {
+      "type": 0,
+      "value": "[javascript]1024px"
+    }
+  ],
+  "CZn1nvWlQF": [
+    {
+      "type": 0,
+      "value": "[javascript]Expand message"
+    }
+  ],
+  "CcjsWsUTac": [
+    {
+      "type": 0,
+      "value": "[javascript]Configure the keyboard shortcut used to open Claude in Chrome."
+    }
+  ],
+  "Cd4uvaQFKD": [
+    {
+      "type": 0,
+      "value": "[javascript]Recent chats"
+    }
+  ],
+  "CeT7NBzUtl": [
+    {
+      "type": 0,
+      "value": "[javascript]Converting..."
+    }
+  ],
+  "Cf7tH0HDeT": [
+    {
+      "type": 0,
+      "value": "[javascript]Failed to upload “"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "”. The file format may not be supported or the file may be corrupted."
+    }
+  ],
+  "CnmTFdmsRf": [
+    {
+      "type": 0,
+      "value": "[javascript]Enter your Anthropic API key"
+    }
+  ],
+  "CvPTXPZIw8": [
+    {
+      "type": 0,
+      "value": "[javascript]The file format may not be supported or the file may be corrupted."
+    }
+  ],
+  "CyQ6so5Xsy": [
+    {
+      "type": 0,
+      "value": "[javascript]Scroll to element"
+    }
+  ],
+  "D0NxeIKdoR": [
+    {
+      "type": 0,
+      "value": "[javascript]Sexually Explicit content"
+    }
+  ],
+  "D3idYvSLF9": [
+    {
+      "type": 0,
+      "value": "[javascript]Settings"
+    }
+  ],
+  "D5uO7q2GqB": [
+    {
+      "type": 0,
+      "value": "[javascript]Max Image Dimension"
+    }
+  ],
+  "D7jDzqECHA": [
+    {
+      "type": 0,
+      "value": "[javascript]Screenshot History"
+    }
+  ],
+  "DHwwKwuaCR": [
+    {
+      "type": 0,
+      "value": "[javascript]The document you uploaded is password protected. Please remove the password and try again."
+    }
+  ],
+  "DLwrrxRpu/": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "currentModelName"
+    },
+    {
+      "type": 0,
+      "value": "'s safety filters flagged this chat. Due to its advanced capabilities, "
+    },
+    {
+      "type": 1,
+      "value": "currentModelName"
+    },
+    {
+      "type": 0,
+      "value": " has additional safety measures that occasionally pause normal, safe chats. We're working to improve this. Continue your chat with "
+    },
+    {
+      "type": 1,
+      "value": "fallbackDisplayName"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "type": 1,
+      "value": "sendFeedbackLink"
+    },
+    {
+      "type": 0,
+      "value": ", or "
+    },
+    {
+      "type": 1,
+      "value": "learnMoreLink"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "DNlRq2D8lw": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " step"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " steps"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "stepCount"
+    }
+  ],
+  "DR5hG1vSxp": [
+    {
+      "type": 0,
+      "value": "[javascript]Allow actions on these sites"
+    }
+  ],
+  "DcOPulvEDu": [
+    {
+      "type": 0,
+      "value": "[javascript]Skip all permissions across the internet?"
+    }
+  ],
+  "Ddc1eapnSI": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude can take screenshots when responding. For privacy, avoid using Claude on sensitive sites like health and dating platforms."
+    }
+  ],
+  "DflDZ51Hia": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude is active in this tab group"
+    }
+  ],
+  "Dh7mYgVZea": [
+    {
+      "type": 0,
+      "value": "[javascript]You haven't set your notification preference yet"
+    }
+  ],
+  "DqTQOpG2Me": [
+    {
+      "type": 0,
+      "value": "[javascript]Once"
+    }
+  ],
+  "Ds0W5o1uCY": [
+    {
+      "type": 0,
+      "value": "[javascript]Add an image"
+    }
+  ],
+  "Duoty8G6d7": [
+    {
+      "type": 0,
+      "value": "[javascript]Select file encoding"
+    }
+  ],
+  "DvXQDnOGPc": [
+    {
+      "type": 0,
+      "value": "[javascript]Malicious actors can hide instructions in websites, emails, and documents that trick AI into taking harmful actions without your knowledge. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Learn more"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "E8uSl+czLg": [
+    {
+      "type": 0,
+      "value": "[javascript]Prompt is required"
+    }
+  ],
+  "ECOs1wUY9P": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Enable microphone"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " for voice narration. Recording workflow without speech."
+    }
+  ],
+  "EIRohXEK72": [
+    {
+      "type": 0,
+      "value": "[javascript]This model isn’t available right now. You can switch to another model to continue using Claude."
+    }
+  ],
+  "EWtBrIlAAR": [
+    {
+      "type": 0,
+      "value": "[javascript]Your message will exceed the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "length limit"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " for this chat. Try shortening your message "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "or starting a new conversation."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    }
+  ],
+  "ErBqL1OKdE": [
+    {
+      "type": 0,
+      "value": "[javascript]Permission denied. You can change this in your browser settings."
+    }
+  ],
+  "EsGNUZDLMi": [
+    {
+      "type": 0,
+      "value": "[javascript]You can manage permissions on the Claude "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "settings"
+        }
+      ],
+      "type": 8,
+      "value": "settingsLink"
+    },
+    {
+      "type": 0,
+      "value": " page."
+    }
+  ],
+  "Estqhf8MFY": [
+    {
+      "type": 0,
+      "value": "[javascript]Enable to use structured API tools for Google Workspace"
+    }
+  ],
+  "Et/uvuRBba": [
+    {
+      "type": 0,
+      "value": "[javascript]The code itself may still work. To use it, you’ll need a development setup with these libraries installed."
+    }
+  ],
+  "EuK7yRq90M": [
+    {
+      "type": 0,
+      "value": "[javascript]October"
+    }
+  ],
+  "Evnb9+Woth": [
+    {
+      "type": 0,
+      "value": "[javascript]Fetching failed for one of the URLs. Please try again."
+    }
+  ],
+  "F1XW1ZAxYF": [
+    {
+      "type": 0,
+      "value": "[javascript]Expand to text"
+    }
+  ],
+  "F3l7yioCLQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude can research across sites, compare information, or handle multi-tab tasks."
+    }
+  ],
+  "FGCv00cdfW": [
+    {
+      "type": 0,
+      "value": "[javascript]Give positive feedback"
+    }
+  ],
+  "FHNYsg5qSG": [
+    {
+      "type": 0,
+      "value": "[javascript]API configuration (internal)"
+    }
+  ],
+  "FIwcYDeyIC": [
+    {
+      "type": 0,
+      "value": "[javascript]One or more file uploads have failed. Please try again."
+    }
+  ],
+  "FKVVjBA/2e": [
+    {
+      "type": 0,
+      "value": "[javascript]Turn on voice narration"
+    }
+  ],
+  "FMvJL9TokP": [
+    {
+      "type": 0,
+      "value": "[javascript]Unknown domain"
+    }
+  ],
+  "FPK1O1X8S1": [
+    {
+      "type": 0,
+      "value": "[javascript]Microphone permission needed"
+    }
+  ],
+  "FWGJ6cHLeQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Enable your microphone to narrate as you demonstrate the workflow. Claude will learn the process and repeat it for you."
+    }
+  ],
+  "FtDimnJZ6A": [
+    {
+      "type": 0,
+      "value": "[javascript]If you are reporting the content as illegal/unlawful, please describe in detail why you believe the identified content is illegal/unlawful, citing specific provisions of law wherever possible."
+    }
+  ],
+  "G/yZLul6P1": [
+    {
+      "type": 0,
+      "value": "[javascript]Remove"
+    }
+  ],
+  "G1lejdsk5p": [
+    {
+      "type": 0,
+      "value": "[javascript]Your message will exceed the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "length limit"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " for this chat. Try attaching fewer or smaller files "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "or starting a new conversation."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    }
+  ],
+  "GKyNESE2Te": [
+    {
+      "type": 0,
+      "value": "[javascript]Local (localhost:8080)"
+    }
+  ],
+  "GhHvcgGjy9": [
+    {
+      "type": 0,
+      "value": "[javascript]Fetch "
+    },
+    {
+      "type": 1,
+      "value": "url"
+    }
+  ],
+  "Gi2DHUQgB8": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude is working..."
+    }
+  ],
+  "Gma+ACm5J+": [
+    {
+      "type": 0,
+      "value": "[javascript]Requesting..."
+    }
+  ],
+  "GsEWS8NyxJ": [
+    {
+      "type": 0,
+      "value": "[javascript]Starting up..."
+    }
+  ],
+  "Gvxoji2HqE": [
+    {
+      "type": 0,
+      "value": "[javascript]Name is required"
+    }
+  ],
+  "GzejKCwLFI": [
+    {
+      "type": 0,
+      "value": "[javascript]Notifications are turned off"
+    }
+  ],
+  "HAlOn1ZsuY": [
+    {
+      "type": 0,
+      "value": "[javascript]Name"
+    }
+  ],
+  "HEgmPRO+5B": [
+    {
+      "type": 0,
+      "value": "[javascript]I did nothing today yet"
+    }
+  ],
+  "HG0Hu8xIQA": [
+    {
+      "type": 0,
+      "value": "[javascript]The generated artifact uses libraries we don’t support:"
+    }
+  ],
+  "HGdgPPM2Ry": [
+    {
+      "type": 0,
+      "value": "[javascript]Explain"
+    }
+  ],
+  "HLzAq2Ombw": [
+    {
+      "type": 0,
+      "value": "[javascript]Steps ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "HO5Vl6oXRx": [
+    {
+      "type": 0,
+      "value": "[javascript]Effort is not available for the selected model."
+    }
+  ],
+  "HnoThnsyPP": [
+    {
+      "type": 0,
+      "value": "[javascript]e.g., \"Work laptop\", \"Personal Chrome\""
+    }
+  ],
+  "HrYfy0gEA+": [
+    {
+      "type": 0,
+      "value": "[javascript]Show Content"
+    }
+  ],
+  "Hz3uf5n9Ga": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude is AI and can make mistakes. Please double-check responses."
+    }
+  ],
+  "I4AiMx3dsz": [
+    {
+      "type": 0,
+      "value": "[javascript]Clear chat"
+    }
+  ],
+  "I61gA1Whgv": [
+    {
+      "type": 0,
+      "value": "[javascript]Hold key: "
+    },
+    {
+      "type": 1,
+      "value": "keys"
+    }
+  ],
+  "IB3vNKlUdQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Get your API key from "
+    },
+    {
+      "type": 1,
+      "value": "link"
+    }
+  ],
+  "ICmjyWFB52": [
+    {
+      "type": 0,
+      "value": "[javascript]\""
+    },
+    {
+      "type": 1,
+      "value": "transcript"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "IFWIi9rs1t": [
+    {
+      "type": 0,
+      "value": "[javascript]What type of issue do you wish to report? (optional)"
+    }
+  ],
+  "IKoTMcBJ0H": [
+    {
+      "type": 0,
+      "value": "[javascript]Settings saved."
+    }
+  ],
+  "ILxlzNXiro": [
+    {
+      "type": 0,
+      "value": "[javascript]Chinese (GB18030)"
+    }
+  ],
+  "IV5WU06zbs": [
+    {
+      "type": 0,
+      "value": "[javascript]Shortcut updated"
+    }
+  ],
+  "IYBR/J+nuA": [
+    {
+      "type": 0,
+      "value": "[javascript]Drop files here to add to chat"
+    }
+  ],
+  "IbrSk1x1M4": [
+    {
+      "type": 0,
+      "value": "[javascript]Learn"
+    }
+  ],
+  "IfE0if3ytt": [
+    {
+      "type": 0,
+      "value": "[javascript]Searching"
+    }
+  ],
+  "IjBl43b/I/": [
+    {
+      "type": 0,
+      "value": "[javascript]Always allow actions on this site"
+    }
+  ],
+  "InWqysQtIQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Optional"
+    }
+  ],
+  "Iu0/PCYXfB": [
+    {
+      "type": 0,
+      "value": "[javascript]Uninstall this version after installing the new one to avoid conflicts."
+    }
+  ],
+  "Iufn28MeR1": [
+    {
+      "type": 0,
+      "value": "[javascript]Hide steps"
+    }
+  ],
+  "IvNiHZimcV": [
+    {
+      "type": 0,
+      "value": "[javascript]Onboarding illustration"
+    }
+  ],
+  "IzCVhGdYVc": [
+    {
+      "type": 0,
+      "value": "[javascript]More options"
+    }
+  ],
+  "J1RykLtxKE": [
+    {
+      "type": 0,
+      "value": "[javascript]Desktop screenshot"
+    }
+  ],
+  "J90k8xwxXE": [
+    {
+      "type": 0,
+      "value": "[javascript]Customize Artifact"
+    }
+  ],
+  "JQOIE896U3": [
+    {
+      "type": 0,
+      "value": "[javascript]Remove "
+    },
+    {
+      "type": 1,
+      "value": "widgetName"
+    },
+    {
+      "type": 0,
+      "value": " widget"
+    }
+  ],
+  "JR7SJGPDTb": [
+    {
+      "type": 0,
+      "value": "[javascript]You’ve hit your limit for Claude messages."
+    }
+  ],
+  "JU2kK1J3jY": [
+    {
+      "type": 0,
+      "value": "[javascript]Error running artifact"
+    }
+  ],
+  "JXdbo8Vnlw": [
+    {
+      "type": 0,
+      "value": "[javascript]Done"
+    }
+  ],
+  "JdFy/2Te9C": [
+    {
+      "type": 0,
+      "value": "[javascript]Test data is saved to chrome.storage.local"
+    }
+  ],
+  "JfUPjhqwuq": [
+    {
+      "type": 0,
+      "value": "[javascript]Allow Microphone Access"
+    }
+  ],
+  "Jiou5flQWh": [
+    {
+      "type": 0,
+      "value": "[javascript]Turn off voice narration"
+    }
+  ],
+  "JnxkKMhrqm": [
+    {
+      "type": 0,
+      "value": "[javascript]Add link"
+    }
+  ],
+  "JpNRENzqW2": [
+    {
+      "type": 0,
+      "value": "[javascript]learn more"
+    }
+  ],
+  "K3r6DQW7h+": [
+    {
+      "type": 0,
+      "value": "[javascript]Delete"
+    }
+  ],
+  "K8niogJNQY": [
+    {
+      "type": 0,
+      "value": "[javascript]Approve plan"
+    }
+  ],
+  "KAhM8UkR3A": [
+    {
+      "type": 0,
+      "value": "[javascript]No microphone found. Please connect a microphone and try again."
+    }
+  ],
+  "KBxpgB8JHb": [
+    {
+      "type": 0,
+      "value": "[javascript]Copyright infringement"
+    }
+  ],
+  "KCmGxpLNuq": [
+    {
+      "type": 0,
+      "value": "[javascript]Invalid screenshot format"
+    }
+  ],
+  "KD5FDGzyMz": [
+    {
+      "type": 0,
+      "value": "[javascript]Looks like you have too many chats going. Please close a tab to continue."
+    }
+  ],
+  "KGu4aumO2M": [
+    {
+      "type": 0,
+      "value": "[javascript]Found files"
+    }
+  ],
+  "KL/gQqGUU1": [
+    {
+      "type": 0,
+      "value": "[javascript]Schedule task"
+    }
+  ],
+  "KLmcsO5yco": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " scheduled"
+    }
+  ],
+  "KN7zKn8z4F": [
+    {
+      "type": 0,
+      "value": "[javascript]Error"
+    }
+  ],
+  "KSgHlAYtgG": [
+    {
+      "type": 0,
+      "value": "[javascript]The same attachment was already added earlier. Claude sees the full conversation when replying, so there's no need to re-upload."
+    }
+  ],
+  "KduIvQDYMp": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude takes actions without asking for permission"
+    }
+  ],
+  "KtjIeAooNb": [
+    {
+      "type": 0,
+      "value": "[javascript]Create GIF"
+    }
+  ],
+  "KzO0j4cGtg": [
+    {
+      "type": 0,
+      "value": "[javascript]We couldn’t connect to Claude. Please check your network connection and try again."
+    }
+  ],
+  "LI4B/nslxi": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "progress"
+    },
+    {
+      "type": 0,
+      "value": "%"
+    }
+  ],
+  "LMDbiRxyDQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Can you explain this section to me in more detail?"
+    }
+  ],
+  "LStwu4n1yT": [
+    {
+      "type": 0,
+      "value": "[javascript]Act without asking"
+    }
+  ],
+  "LVG1dX6B8u": [
+    {
+      "type": 0,
+      "value": "[javascript]Ran "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " commands"
+    }
+  ],
+  "LWiiXht89U": [
+    {
+      "type": 0,
+      "value": "[javascript]Click to view full screenshot"
+    }
+  ],
+  "LWt6+WHYht": [
+    {
+      "type": 0,
+      "value": "[javascript]Describe what you would like to update"
+    }
+  ],
+  "LcKcJVZQc7": [
+    {
+      "type": 0,
+      "value": "[javascript](click to expand)"
+    }
+  ],
+  "Li1hTENvGa": [
+    {
+      "type": 0,
+      "value": "[javascript]Stopped "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " commands"
+    }
+  ],
+  "Lkp0F6AHBT": [
+    {
+      "type": 0,
+      "value": "[javascript]Presenting file(s)..."
+    }
+  ],
+  "LkvG7lWavW": [
+    {
+      "type": 0,
+      "value": "[javascript]Add shortcut"
+    }
+  ],
+  "Luu9/7cA+i": [
+    {
+      "type": 0,
+      "value": "[javascript]Development testing tools"
+    }
+  ],
+  "M88GeEDB7r": [
+    {
+      "type": 0,
+      "value": "[javascript]You’ve reached your limit for "
+    },
+    {
+      "type": 1,
+      "value": "resourceType"
+    },
+    {
+      "type": 0,
+      "value": " uploads. Please try again later."
+    }
+  ],
+  "MBYn4HHrFu": [
+    {
+      "type": 0,
+      "value": "[javascript]We had an unexpected billing error, please "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "contact support."
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "MDebIUeu03": [
+    {
+      "type": 0,
+      "value": "[javascript]Artifacts are created by other users and aren’t verified by Anthropic. Only download files you trust."
+    }
+  ],
+  "MM/ULko3j1": [
+    {
+      "type": 0,
+      "value": "[javascript]Extend what you can do in Chrome"
+    }
+  ],
+  "MM7OHMBA9j": [
+    {
+      "type": 0,
+      "value": "[javascript]Deleted a file"
+    }
+  ],
+  "MMLgwunXx4": [
+    {
+      "type": 0,
+      "value": "[javascript]Step 1: Download the Ant-only version"
+    }
+  ],
+  "MVQTRBWYud": [
+    {
+      "type": 0,
+      "value": "[javascript]Read a file"
+    }
+  ],
+  "MY4mOkEIwY": [
+    {
+      "type": 0,
+      "value": "[javascript]This will export your conversation as a JSON file and an animated GIF. Please ensure the conversation does not contain sensitive data like personally identifiable information (PII) before sharing with others."
+    }
+  ],
+  "MZEyK3VcKi": [
+    {
+      "type": 0,
+      "value": "[javascript]No result available"
+    }
+  ],
+  "MbvF6K3PJd": [
+    {
+      "type": 0,
+      "value": "[javascript]Failed to upload file "
+    },
+    {
+      "type": 1,
+      "value": "filename"
+    },
+    {
+      "type": 0,
+      "value": ". Project knowledge exceeds maximum. Remove files to continue."
+    }
+  ],
+  "MihpzFiE1j": [
+    {
+      "type": 0,
+      "value": "[javascript]Open side panel"
+    }
+  ],
+  "Mmft+LxUWy": [
+    {
+      "type": 0,
+      "value": "[javascript]Wait"
+    }
+  ],
+  "MtIcfsBa83": [
+    {
+      "type": 0,
+      "value": "[javascript]Execute JavaScript"
+    }
+  ],
+  "N2IrpMDHDB": [
+    {
+      "type": 0,
+      "value": "[javascript]Confirm"
+    }
+  ],
+  "N6hq8IFfkj": [
+    {
+      "type": 0,
+      "value": "[javascript]Read page (all)"
+    }
+  ],
+  "NAidKbB0vi": [
+    {
+      "type": 0,
+      "value": "[javascript]Notifications"
+    }
+  ],
+  "NDV5MqT9ww": [
+    {
+      "type": 0,
+      "value": "[javascript]Options"
+    }
+  ],
+  "NFf/0A3zf+": [
+    {
+      "type": 0,
+      "value": "[javascript]Your approved sites"
+    }
+  ],
+  "NGWumBAsap": [
+    {
+      "type": 0,
+      "value": "[javascript]July"
+    }
+  ],
+  "NMMfOTMPPN": [
+    {
+      "type": 0,
+      "value": "[javascript]File type is not supported"
+    }
+  ],
+  "NSJdoMrS0C": [
+    {
+      "type": 0,
+      "value": "[javascript]You can now use voice narration when recording workflows. To disable, go to "
+    },
+    {
+      "type": 1,
+      "value": "chromeSettingsLink"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "NcDXiSfIPe": [
+    {
+      "type": 0,
+      "value": "[javascript]Artifact failed to load"
+    }
+  ],
+  "NdLqN5Z3bE": [
+    {
+      "type": 0,
+      "value": "[javascript]The title of the document you uploaded is too long, or includes forbidden characters (<, >, :, \", |, ?, *, \\, /, or unicode characters 0-31)"
+    }
+  ],
+  "NeNSPm4fj3": [
+    {
+      "type": 0,
+      "value": "[javascript]Max time to wait for the page to finish loading after commands execute. Set to 0 to disable the settle wait entirely."
+    }
+  ],
+  "NhwAlG8X9c": [
+    {
+      "type": 0,
+      "value": "[javascript]Tool ID:"
+    }
+  ],
+  "NiWg8afl9N": [
+    {
+      "type": 0,
+      "value": "[javascript]Select element..."
+    }
+  ],
+  "NkHG2fB0cW": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "clientLabel"
+    },
+    {
+      "type": 0,
+      "value": " wants to connect"
+    }
+  ],
+  "NltzMwsCKS": [
+    {
+      "type": 0,
+      "value": "[javascript]Saved tasks"
+    }
+  ],
+  "NrQ1CUE4v0": [
+    {
+      "type": 0,
+      "value": "[javascript]Limits will reset at "
+    },
+    {
+      "type": 1,
+      "value": "resetsAt"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "NtMBSeGOHp": [
+    {
+      "type": 0,
+      "value": "[javascript]Show tool result details"
+    }
+  ],
+  "NwhjMfjigc": [
+    {
+      "type": 0,
+      "value": "[javascript]I’m still here"
+    }
+  ],
+  "Nz/hHlPMGy": [
+    {
+      "type": 0,
+      "value": "[javascript]1280px"
+    }
+  ],
+  "O+2FnUTQ6S": [
+    {
+      "type": 0,
+      "value": "[javascript]Get the Ant-only extension"
+    }
+  ],
+  "O2hMrU1FI9": [
+    {
+      "type": 0,
+      "value": "[javascript]Editing "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "O2tb5KUxpc": [
+    {
+      "type": 0,
+      "value": "[javascript]Allow once"
+    }
+  ],
+  "O52AcmzoE8": [
+    {
+      "type": 0,
+      "value": "[javascript]Viewed a file"
+    }
+  ],
+  "O6+/CIgqLR": [
+    {
+      "type": 0,
+      "value": "[javascript]3"
+    }
+  ],
+  "OKhRC6eWRw": [
+    {
+      "type": 0,
+      "value": "[javascript]Share"
+    }
+  ],
+  "ON3IdRBcc4": [
+    {
+      "type": 0,
+      "value": "[javascript]How it works:"
+    }
+  ],
+  "OQeBGoBcLP": [
+    {
+      "type": 0,
+      "value": "[javascript]Add widget"
+    }
+  ],
+  "OSbNg+1qqF": [
+    {
+      "type": 0,
+      "value": "[javascript]Good response"
+    }
+  ],
+  "OW9bZgoog6": [
+    {
+      "type": 0,
+      "value": "[javascript]Hold key"
+    }
+  ],
+  "OarD7TkDBO": [
+    {
+      "type": 0,
+      "value": "[javascript]Close blocked site"
+    }
+  ],
+  "Oi9LAY6C5H": [
+    {
+      "type": 0,
+      "value": "[javascript]Rename chat"
+    }
+  ],
+  "OxHjV2p0tw": [
+    {
+      "type": 0,
+      "value": "[javascript]Quality not applicable for PNG (lossless)"
+    }
+  ],
+  "P0iWYFMJG2": [
+    {
+      "type": 0,
+      "value": "[javascript]Creating plan..."
+    }
+  ],
+  "PJRWsHQ+YN": [
+    {
+      "type": 0,
+      "value": "[javascript]URL must use http or https"
+    }
+  ],
+  "PMPIVxGCgO": [
+    {
+      "type": 0,
+      "value": "[javascript]URL must start with http:// or https://"
+    }
+  ],
+  "PSsQUhf180": [
+    {
+      "type": 0,
+      "value": "[javascript]Make changes"
+    }
+  ],
+  "PecM9GAXxD": [
+    {
+      "type": 0,
+      "value": "[javascript]Clear test data"
+    }
+  ],
+  "PhoFlacbDZ": [
+    {
+      "type": 0,
+      "value": "[javascript]Scroll to: \""
+    },
+    {
+      "type": 1,
+      "value": "text"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "Pl7Qm8W+aN": [
+    {
+      "type": 0,
+      "value": "[javascript]Text extraction failed for one of the URLs."
+    }
+  ],
+  "PlBReUqqzW": [
+    {
+      "type": 0,
+      "value": "[javascript]Log out"
+    }
+  ],
+  "PqHH2BNESm": [
+    {
+      "type": 0,
+      "value": "[javascript]Click the pin icon in the top right corner of the extension window"
+    }
+  ],
+  "PwZL2cdrCr": [
+    {
+      "type": 0,
+      "value": "[javascript]Collapse message"
+    }
+  ],
+  "PytICQxIDI": [
+    {
+      "type": 0,
+      "value": "[javascript]Get tabs"
+    }
+  ],
+  "Q+J7H4sPgD": [
+    {
+      "type": 0,
+      "value": "[javascript]Error: "
+    },
+    {
+      "type": 1,
+      "value": "errorMessage"
+    }
+  ],
+  "Q4V+DsnBh+": [
+    {
+      "type": 0,
+      "value": "[javascript]Central European (Windows-1250)"
+    }
+  ],
+  "QJ0ownoZRd": [
+    {
+      "type": 0,
+      "value": "[javascript]Default (UTF-8)"
+    }
+  ],
+  "QLJEESZB3X": [
+    {
+      "type": 0,
+      "value": "[javascript]2"
+    }
+  ],
+  "QNEFpq3fE/": [
+    {
+      "type": 0,
+      "value": "[javascript]Hover"
+    }
+  ],
+  "QQU4cRvqWT": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude can now work in your folders, not just your browser tabs. Turn research into reports, pull together files, or prep your next deck—whatever's on your to-do list."
+    }
+  ],
+  "QSjqvNNsUq": [
+    {
+      "type": 0,
+      "value": "[javascript]Please use this "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "form"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " to report violative content."
+    }
+  ],
+  "QXrOGus6PR": [
+    {
+      "type": 0,
+      "value": "[javascript]Choose your preferred language for the extension interface."
+    }
+  ],
+  "QddFP/j7re": [
+    {
+      "type": 0,
+      "value": "[javascript]Beta"
+    }
+  ],
+  "Ql0ICcy5UG": [
+    {
+      "type": 0,
+      "value": "[javascript]Number of screenshots kept in conversation context. More screenshots use more tokens."
+    }
+  ],
+  "QmLhKBubcc": [
+    {
+      "type": 0,
+      "value": "[javascript]Your message will exceed the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "maximum image count"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " for this chat. Try removing images "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "or starting a new conversation."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    }
+  ],
+  "QpxPqx4skB": [
+    {
+      "type": 0,
+      "value": "[javascript]Start recording"
+    }
+  ],
+  "QrihTZnk0x": [
+    {
+      "type": 0,
+      "value": "[javascript]Friday"
+    }
+  ],
+  "Qroasht1fR": [
+    {
+      "type": 0,
+      "value": "[javascript]Searched code"
+    }
+  ],
+  "QugqYeS6zz": [
+    {
+      "type": 0,
+      "value": "[javascript]Open Artifact details"
+    }
+  ],
+  "QyrCxYs5Jy": [
+    {
+      "type": 0,
+      "value": "[javascript]You can add at most "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " file"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " files"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " to a chat. "
+    },
+    {
+      "type": 1,
+      "value": "suggestion"
+    }
+  ],
+  "R592aOW18A": [
+    {
+      "type": 0,
+      "value": "[javascript]Edit shortcut"
+    }
+  ],
+  "RIrR6dJyeb": [
+    {
+      "type": 0,
+      "value": "[javascript]WARNING"
+    }
+  ],
+  "RJ0ojHUGPj": [
+    {
+      "type": 0,
+      "value": "[javascript]High (default)"
+    }
+  ],
+  "RRFjL3H23m": [
+    {
+      "type": 0,
+      "value": "[javascript]Shortcut deleted"
+    }
+  ],
+  "RWrtnxjH8o": [
+    {
+      "type": 0,
+      "value": "[javascript]This beta feature has unique risks distinct from other Claude products. You are fully responsible for all risks associated with use of this product."
+    }
+  ],
+  "Rc2RmGjQRw": [
+    {
+      "type": 0,
+      "value": "[javascript]This site is blocked by your organization's policy."
+    }
+  ],
+  "RhGz0PXZQn": [
+    {
+      "type": 0,
+      "value": "[javascript]Test permission notification"
+    }
+  ],
+  "Ri63Z85D7E": [
+    {
+      "type": 0,
+      "value": "[javascript]Right-click"
+    }
+  ],
+  "Rtb80IDfRS": [
+    {
+      "type": 0,
+      "value": "[javascript]send feedback"
+    }
+  ],
+  "RuX+iObJu9": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude has tab group access"
+    }
+  ],
+  "RyCW0gT/7M": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " page"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " pages"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "RzL2CtHKXp": [
+    {
+      "type": 0,
+      "value": "[javascript]File is outside allowed folders."
+    }
+  ],
+  "S8/4ZI1Fhf": [
+    {
+      "type": 0,
+      "value": "[javascript]More actions"
+    }
+  ],
+  "SFbt+MAvby": [
+    {
+      "type": 0,
+      "value": "[javascript]Image is too large. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Learn more"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "SFuk1vRI4X": [
+    {
+      "type": 0,
+      "value": "[javascript]Permissions"
+    }
+  ],
+  "SQJto27U8S": [
+    {
+      "type": 0,
+      "value": "[javascript]Sign in"
+    }
+  ],
+  "SUa8mpheAG": [
+    {
+      "type": 0,
+      "value": "[javascript]Columns"
+    }
+  ],
+  "SjBgp+EBYt": [
+    {
+      "type": 0,
+      "value": "[javascript](Ant-only) Debug Settings"
+    }
+  ],
+  "SsiZK7n81x": [
+    {
+      "type": 0,
+      "value": "[javascript]December"
+    }
+  ],
+  "StB9n+uYO4": [
+    {
+      "type": 0,
+      "value": "[javascript]Enable microphone access"
+    }
+  ],
+  "SxCvYAQUfY": [
+    {
+      "type": 0,
+      "value": "[javascript]Scroll"
+    }
+  ],
+  "T0e6Lh8loG": [
+    {
+      "type": 0,
+      "value": "[javascript]Remove "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "T40fliCDxK": [
+    {
+      "type": 0,
+      "value": "[javascript]Always continue"
+    }
+  ],
+  "T5W0CVKXi6": [
+    {
+      "type": 0,
+      "value": "[javascript]March"
+    }
+  ],
+  "T6BjuHu60u": [
+    {
+      "type": 0,
+      "value": "[javascript]Save System Prompt"
+    }
+  ],
+  "TDaF6JVgG6": [
+    {
+      "type": 0,
+      "value": "[javascript]Dismiss"
+    }
+  ],
+  "TDyP36qHxV": [
+    {
+      "type": 0,
+      "value": "[javascript]Update Extension"
+    }
+  ],
+  "TFf5u+qBgM": [
+    {
+      "type": 0,
+      "value": "[javascript]September"
+    }
+  ],
+  "TGYeob9u0b": [
+    {
+      "type": 0,
+      "value": "[javascript]Upload docs or images to Claude\\n(Max "
+    },
+    {
+      "type": 1,
+      "value": "maxUploads"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "type": 1,
+      "value": "maxSize"
+    },
+    {
+      "type": 0,
+      "value": "mb each)"
+    }
+  ],
+  "TJo5E6JuIN": [
+    {
+      "type": 0,
+      "value": "[javascript]Preview"
+    }
+  ],
+  "TRpxX8Mu1L": [
+    {
+      "type": 0,
+      "value": "[javascript]Due to unexpected capacity constraints, Claude is unable to respond to your message. Please try again soon."
+    }
+  ],
+  "TXMFQQmX1y": [
+    {
+      "type": 0,
+      "value": "[javascript]Enter custom system prompt..."
+    }
+  ],
+  "TXpOBiuxud": [
+    {
+      "type": 0,
+      "value": "[javascript]Customize"
+    }
+  ],
+  "TdTXXf940t": [
+    {
+      "type": 0,
+      "value": "[javascript]Learn more"
+    }
+  ],
+  "TtfNhgtojm": [
+    {
+      "type": 0,
+      "value": "[javascript]Compacting our conversation so we can keep chatting..."
+    }
+  ],
+  "U/yflCckmc": [
+    {
+      "type": 0,
+      "value": "[javascript]Send Screenshot to Claude"
+    }
+  ],
+  "U2k+N3mGYx": [
+    {
+      "type": 0,
+      "value": "[javascript]Maximum dimension (width or height) for screenshots. Smaller = fewer tokens but less detail."
+    }
+  ],
+  "U8e24+q4Zx": [
+    {
+      "type": 0,
+      "value": "[javascript]Illustration placeholder"
+    }
+  ],
+  "UDzVMLRS83": [
+    {
+      "type": 0,
+      "value": "[javascript]Unable to read file."
+    }
+  ],
+  "UfbV7FMys+": [
+    {
+      "type": 0,
+      "value": "[javascript]WebP (lossy, smaller)"
+    }
+  ],
+  "UltGDMwKAE": [
+    {
+      "type": 0,
+      "value": "[javascript]Error clearing test data: "
+    },
+    {
+      "type": 1,
+      "value": "error"
+    }
+  ],
+  "UyWyQn/88m": [
+    {
+      "type": 0,
+      "value": "[javascript]File could not be read."
+    }
+  ],
+  "V+jPyROpXb": [
+    {
+      "type": 0,
+      "value": "[javascript]Edited "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "V3zw7m9pi/": [
+    {
+      "type": 0,
+      "value": "[javascript]Select file"
+    }
+  ],
+  "V8l8DZPvUY": [
+    {
+      "type": 0,
+      "value": "[javascript]Production (api.anthropic.com)"
+    }
+  ],
+  "VJGixxlxF+": [
+    {
+      "type": 0,
+      "value": "[javascript]Page Settle Timeout (ms)"
+    }
+  ],
+  "VKZ/U8vAsk": [
+    {
+      "type": 0,
+      "value": "[javascript]Effort"
+    }
+  ],
+  "VOW1L8jo1E": [
+    {
+      "type": 0,
+      "value": "[javascript]Ant-only: All future chats will use the new experience (Sessions API). Use the overflow (⋮) toggle between experiences."
+    }
+  ],
+  "VbVJvDFrU4": [
+    {
+      "type": 0,
+      "value": "[javascript]Last used: "
+    },
+    {
+      "type": 1,
+      "value": "date"
+    }
+  ],
+  "VhLncisxuH": [
+    {
+      "type": 0,
+      "value": "[javascript]Unsupported format"
+    }
+  ],
+  "VlOMp+IyXR": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude's plan"
+    }
+  ],
+  "Vuh/a7xjtE": [
+    {
+      "type": 0,
+      "value": "[javascript]Thai (TIS-620)"
+    }
+  ],
+  "VvBp+eNhWP": [
+    {
+      "type": 0,
+      "value": "[javascript]Screenshots from tool executions"
+    }
+  ],
+  "W/T0ya233Q": [
+    {
+      "type": 0,
+      "value": "[javascript]Press keys: "
+    },
+    {
+      "type": 1,
+      "value": "keys"
+    }
+  ],
+  "W2dIBW8oIg": [
+    {
+      "type": 0,
+      "value": "[javascript]Due to capacity constraints, chatting with Claude is currently not available. Please try again in a little while."
+    }
+  ],
+  "WDCnAlgy2l": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude cannot assist with the content on this page."
+    }
+  ],
+  "WMNHPhDie+": [
+    {
+      "type": 0,
+      "value": "[javascript]Saturday"
+    }
+  ],
+  "WSkLyhVgSu": [
+    {
+      "type": 0,
+      "value": "[javascript]Ran an agent"
+    }
+  ],
+  "WYzHAIKZxl": [
+    {
+      "type": 0,
+      "value": "[javascript]Skip for now"
+    }
+  ],
+  "WqCMal/Jk2": [
+    {
+      "type": 0,
+      "value": "[javascript]Provide feedback on your experience with the suggestions"
+    }
+  ],
+  "X0ha1a+WYV": [
+    {
+      "type": 0,
+      "value": "[javascript]Save changes"
+    }
+  ],
+  "X5tUyXfqsl": [
+    {
+      "type": 0,
+      "value": "[javascript]Arabic (Windows-1256)"
+    }
+  ],
+  "X6qJ+Mle0d": [
+    {
+      "type": 0,
+      "value": "[javascript]Click"
+    }
+  ],
+  "X9Z2S33opa": [
+    {
+      "type": 0,
+      "value": "[javascript]Ran "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " agents"
+    }
+  ],
+  "XAcQi8udmY": [
+    {
+      "type": 0,
+      "value": "[javascript]Approach to follow"
+    }
+  ],
+  "XGkVpOO9dA": [
+    {
+      "type": 0,
+      "value": "[javascript]Running subagent"
+    }
+  ],
+  "XIbwNE7SSU": [
+    {
+      "type": 0,
+      "value": "[javascript]/"
+    }
+  ],
+  "XLN5nvmwda": [
+    {
+      "type": 0,
+      "value": "[javascript]Tab group illustration"
+    }
+  ],
+  "XLcM6WHfQR": [
+    {
+      "type": 0,
+      "value": "[javascript]How can I help you today?"
+    }
+  ],
+  "XQKAxeLMBO": [
+    {
+      "type": 0,
+      "value": "[javascript]JPEG (lossy, small)"
+    }
+  ],
+  "XhLYQfswyj": [
+    {
+      "type": 0,
+      "value": "[javascript]Please wait before trying again."
+    }
+  ],
+  "Xx0WZVz8QS": [
+    {
+      "type": 0,
+      "value": "[javascript]Send message"
+    }
+  ],
+  "XxhTmYWhHR": [
+    {
+      "type": 0,
+      "value": "[javascript]Select area..."
+    }
+  ],
+  "Y7tnLdrXcO": [
+    {
+      "type": 0,
+      "value": "[javascript]Select: "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "YAeW6K6mK9": [
+    {
+      "type": 0,
+      "value": "[javascript]Listening..."
+    }
+  ],
+  "YAgYL60fLm": [
+    {
+      "type": 0,
+      "value": "[javascript]Tuesday"
+    }
+  ],
+  "YBctaBAMh/": [
+    {
+      "type": 0,
+      "value": "[javascript]Loading skill"
+    }
+  ],
+  "YD+KHgvA3S": [
+    {
+      "type": 0,
+      "value": "[javascript]Presented file(s)"
+    }
+  ],
+  "YEk9i6AJuT": [
+    {
+      "type": 0,
+      "value": "[javascript]Type / in the chat to use shortcuts or run them on schedule"
+    }
+  ],
+  "YR6CGakwNu": [
+    {
+      "type": 0,
+      "value": "[javascript]Fetch from "
+    },
+    {
+      "type": 1,
+      "value": "hostname"
+    }
+  ],
+  "YREuYaOzoG": [
+    {
+      "type": 0,
+      "value": "[javascript]Follow this approach"
+    }
+  ],
+  "YXotZzdJDV": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude in Chrome is available to"
+    }
+  ],
+  "YfXudLEmrv": [
+    {
+      "type": 0,
+      "value": "[javascript]No chats yet"
+    }
+  ],
+  "YgWtLTGqB+": [
+    {
+      "type": 0,
+      "value": "[javascript]Metadata about tabs open in this tab group"
+    }
+  ],
+  "Ymx8APRi1X": [
+    {
+      "type": 0,
+      "value": "[javascript]Microphone access granted"
+    }
+  ],
+  "Yn41lcLvmg": [
+    {
+      "type": 0,
+      "value": "[javascript]Tool Result"
+    }
+  ],
+  "YoXOdinNC1": [
+    {
+      "type": 0,
+      "value": "[javascript]Fraud"
+    }
+  ],
+  "YtFTtANjPw": [
+    {
+      "type": 0,
+      "value": "[javascript]Open link"
+    }
+  ],
+  "YxhKVgP/H4": [
+    {
+      "type": 0,
+      "value": "[javascript]Get notified when tasks complete or need your input"
+    }
+  ],
+  "Yxxj6rmlSW": [
+    {
+      "type": 0,
+      "value": "[javascript]Toggle voice narration"
+    }
+  ],
+  "Z2VDyqOU0z": [
+    {
+      "type": 0,
+      "value": "[javascript]Go beyond the browser with Cowork"
+    }
+  ],
+  "Z7sL1cCQpI": [
+    {
+      "type": 0,
+      "value": "[javascript]Convert to task"
+    }
+  ],
+  "ZByvH8UXog": [
+    {
+      "type": 0,
+      "value": "[javascript]shortcut"
+    }
+  ],
+  "ZDJep2SVkS": [
+    {
+      "type": 0,
+      "value": "[javascript]Test Scheduled Task (via Alarm in 1s)"
+    }
+  ],
+  "ZGgOeVIR/y": [
+    {
+      "type": 0,
+      "value": "[javascript]Reset to Default"
+    }
+  ],
+  "ZJn5qDfYOD": [
+    {
+      "type": 0,
+      "value": "[javascript]Press key"
+    }
+  ],
+  "ZRHK60/fN5": [
+    {
+      "type": 0,
+      "value": "[javascript]Test data cleared"
+    }
+  ],
+  "ZSCbZACJ+n": [
+    {
+      "type": 0,
+      "value": "[javascript]Annually"
+    }
+  ],
+  "ZXH44sMrF0": [
+    {
+      "type": 0,
+      "value": "[javascript]No tasks yet"
+    }
+  ],
+  "ZpE0fwR7on": [
+    {
+      "type": 0,
+      "value": "[javascript]Save as Teach Claude"
+    }
+  ],
+  "ZpQ6usVWqj": [
+    {
+      "type": 0,
+      "value": "[javascript]Result"
+    }
+  ],
+  "Zx2+7F8Kf5": [
+    {
+      "type": 0,
+      "value": "[javascript]Invalid URL format"
+    }
+  ],
+  "a5aJshKbyM": [
+    {
+      "type": 0,
+      "value": "[javascript]Loaded "
+    },
+    {
+      "type": 1,
+      "value": "scenarioName"
+    },
+    {
+      "type": 0,
+      "value": " - Reload the side panel to use"
+    }
+  ],
+  "a6KVizNPLe": [
+    {
+      "type": 0,
+      "value": "[javascript]Please select fewer files."
+    }
+  ],
+  "a7x0CkSo6z": [
+    {
+      "type": 0,
+      "value": "[javascript]Another extension you're using is preventing Claude in Chrome from operating."
+    }
+  ],
+  "aCdAsIsVv0": [
+    {
+      "type": 0,
+      "value": "[javascript]Copy to clipboard"
+    }
+  ],
+  "aDf2NEL1I0": [
+    {
+      "type": 0,
+      "value": "[javascript]Stopped a command"
+    }
+  ],
+  "aLzfIziOrP": [
+    {
+      "type": 0,
+      "value": "[javascript]Wait "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " second"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " seconds"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "aMDcvNLxqz": [
+    {
+      "type": 0,
+      "value": "[javascript]Supported placeholders: modelName, currentDate, platform, platformModifier (wrap in double curly braces)."
+    }
+  ],
+  "aO2SGMNXZ8": [
+    {
+      "type": 0,
+      "value": "[javascript]Connect your Google account for faster edits in Sheets, Docs, Slides, Gmail, and Calendar."
+    }
+  ],
+  "aTaOpCB71M": [
+    {
+      "type": 0,
+      "value": "[javascript]Take a screenshot"
+    }
+  ],
+  "aWpBzjCXKS": [
+    {
+      "type": 0,
+      "value": "[javascript]Show more"
+    }
+  ],
+  "aXfQ2L8ErF": [
+    {
+      "type": 0,
+      "value": "[javascript]Created a plan"
+    }
+  ],
+  "acrOozm08x": [
+    {
+      "type": 0,
+      "value": "[javascript]Continue"
+    }
+  ],
+  "afNc7fLowL": [
+    {
+      "type": 0,
+      "value": "[javascript]Enable microphone"
+    }
+  ],
+  "ahcT/xfBaf": [
+    {
+      "type": 0,
+      "value": "[javascript]Sign in again to continue using Claude in Chrome."
+    }
+  ],
+  "ai0JAxDdlC": [
+    {
+      "type": 0,
+      "value": "[javascript]Type text"
+    }
+  ],
+  "ajU+HTjQNK": [
+    {
+      "type": 0,
+      "value": "[javascript]Please enter a valid URL"
+    }
+  ],
+  "anYsv8zeLR": [
+    {
+      "type": 0,
+      "value": "[javascript]One or more fetches have failed. Try again."
+    }
+  ],
+  "ayrUapxSvj": [
+    {
+      "type": 0,
+      "value": "[javascript]Lower quality = smaller file size. Only applies to JPEG/WebP."
+    }
+  ],
+  "azMsfMtNvt": [
+    {
+      "type": 0,
+      "value": "[javascript]Monday"
+    }
+  ],
+  "b5Uf1JSpcI": [
+    {
+      "type": 0,
+      "value": "[javascript]Type: \""
+    },
+    {
+      "type": 1,
+      "value": "text"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "bApErctxyt": [
+    {
+      "type": 0,
+      "value": "[javascript]Read "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "bL7dVUkHa0": [
+    {
+      "type": 0,
+      "value": "[javascript]Chat paused"
+    }
+  ],
+  "bW7B87wFFp": [
+    {
+      "type": 0,
+      "value": "[javascript]New"
+    }
+  ],
+  "bWSwU/3iyK": [
+    {
+      "type": 0,
+      "value": "[javascript]Extension Update Required"
+    }
+  ],
+  "bWjdfaXOzU": [
+    {
+      "type": 0,
+      "value": "[javascript]URL"
+    }
+  ],
+  "bk8tuJl/tJ": [
+    {
+      "type": 0,
+      "value": "[javascript]Select report reason"
+    }
+  ],
+  "bmDayxG7DJ": [
+    {
+      "type": 0,
+      "value": "[javascript]Malicious code buried in sites may override your instructions in order to steal your data, inject malware into your systems, or take over your system to attack other users. "
+    },
+    {
+      "type": 1,
+      "value": "learnMoreLink"
+    }
+  ],
+  "c0/oTKLaf+": [
+    {
+      "type": 0,
+      "value": "[javascript]Skip permissions"
+    }
+  ],
+  "c0ZeCgLvCL": [
+    {
+      "type": 0,
+      "value": "[javascript]Conversation summary"
+    }
+  ],
+  "c5+JRMBv/Y": [
+    {
+      "type": 0,
+      "value": "[javascript]Upgrade plan"
+    }
+  ],
+  "cELBBLzSZE": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude wants to "
+    },
+    {
+      "type": 1,
+      "value": "toolAction"
+    },
+    {
+      "type": 0,
+      "value": ":"
+    }
+  ],
+  "cF32KOfDNQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Screenshot with drag path"
+    }
+  ],
+  "cIbPxRbF3Y": [
+    {
+      "type": 0,
+      "value": "[javascript]I did nothing today"
+    }
+  ],
+  "cP5M5utX/U": [
+    {
+      "type": 0,
+      "value": "[javascript]Full screen mode"
+    }
+  ],
+  "cPnivFkT6E": [
+    {
+      "type": 0,
+      "value": "[javascript]Read "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " files"
+    }
+  ],
+  "cSp9Qor4f4": [
+    {
+      "type": 0,
+      "value": "[javascript]Open external link"
+    }
+  ],
+  "cW6887Dc/X": [
+    {
+      "type": 0,
+      "value": "[javascript]Microphone"
+    }
+  ],
+  "cXAlMRerxW": [
+    {
+      "type": 0,
+      "value": "[javascript]Scheduled"
+    }
+  ],
+  "cXTNE0Hbj4": [
+    {
+      "type": 0,
+      "value": "[javascript]Teach Claude"
+    }
+  ],
+  "caw/dieQFJ": [
+    {
+      "type": 0,
+      "value": "[javascript]Tools for testing and debugging the extension during development."
+    }
+  ],
+  "ceCuvzBxbw": [
+    {
+      "type": 0,
+      "value": "[javascript]Set form value"
+    }
+  ],
+  "cqx+RdJnHp": [
+    {
+      "type": 0,
+      "value": "[javascript]Manage connectors"
+    }
+  ],
+  "cuaMuzr//N": [
+    {
+      "type": 0,
+      "value": "[javascript]Creating "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "cv8yc1KJ7n": [
+    {
+      "type": 0,
+      "value": "[javascript]Visit these sites"
+    }
+  ],
+  "cv9VNYMHXY": [
+    {
+      "type": 0,
+      "value": "[javascript]Ran a command"
+    }
+  ],
+  "cxkY9nyTFY": [
+    {
+      "type": 0,
+      "value": "[javascript]Script"
+    }
+  ],
+  "cyR7KhiuaU": [
+    {
+      "type": 0,
+      "value": "[javascript]Back"
+    }
+  ],
+  "d1iFfHCXCd": [
+    {
+      "type": 0,
+      "value": "[javascript]Set input to \""
+    },
+    {
+      "type": 1,
+      "value": "value"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "dJqE3eAWkM": [
+    {
+      "type": 0,
+      "value": "[javascript]Create scheduled task"
+    }
+  ],
+  "dNvIs5mEPO": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude aligns on its approach before taking actions"
+    }
+  ],
+  "dPfJcsF2EP": [
+    {
+      "type": 0,
+      "value": "[javascript]Chats are now saved—refer back or restart"
+    }
+  ],
+  "dS6ebV+vpY": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " step"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " steps"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "collapsedCount"
+    }
+  ],
+  "dXUR4BjgcC": [
+    {
+      "type": 0,
+      "value": "[javascript]Your task is completed. Ready to check in?"
+    }
+  ],
+  "ddXREI8PNV": [
+    {
+      "type": 0,
+      "value": "[javascript]Child safety/sexual abuse"
+    }
+  ],
+  "djtHiJ5aej": [
+    {
+      "type": 0,
+      "value": "[javascript]Preview of "
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    }
+  ],
+  "dqW6sjmil4": [
+    {
+      "type": 0,
+      "value": "[javascript]Folder instructions"
+    }
+  ],
+  "e15QX1hh5v": [
+    {
+      "type": 0,
+      "value": "[javascript]Select model"
+    }
+  ],
+  "e2DtORRpyx": [
+    {
+      "type": 0,
+      "value": "[javascript]Microphone access was denied. You can either try again or "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "open Chrome settings"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " to enable microphone access."
+    }
+  ],
+  "e6uhP1Ta9X": [
+    {
+      "type": 0,
+      "value": "[javascript]Update plan"
+    }
+  ],
+  "e8VD9vcoJC": [
+    {
+      "type": 0,
+      "value": "[javascript]Follow the plan"
+    }
+  ],
+  "eCBXvFgCTN": [
+    {
+      "type": 0,
+      "value": "[javascript]Finished plan"
+    }
+  ],
+  "eDHTgRaIJG": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude in Chrome settings"
+    }
+  ],
+  "eFsJ8k8yFm": [
+    {
+      "type": 0,
+      "value": "[javascript]Show Image"
+    }
+  ],
+  "eH5gdeveIM": [
+    {
+      "type": 0,
+      "value": "[javascript]Try what's new"
+    }
+  ],
+  "eJFbw2HgHp": [
+    {
+      "type": 0,
+      "value": "[javascript]Are you sure you want to delete this prompt?"
+    }
+  ],
+  "eS0BrNV2g3": [
+    {
+      "type": 0,
+      "value": "[javascript]No content available"
+    }
+  ],
+  "ed76A9b9lB": [
+    {
+      "type": 0,
+      "value": "[javascript]all paid plan subscribers"
+    }
+  ],
+  "eePQiZiD6b": [
+    {
+      "type": 0,
+      "value": "[javascript]Conversation not found."
+    }
+  ],
+  "ehDw1cvHNn": [
+    {
+      "type": 0,
+      "value": "[javascript]Attached image "
+    },
+    {
+      "type": 1,
+      "value": "imageNumber"
+    }
+  ],
+  "ejLVhl2kIU": [
+    {
+      "type": 0,
+      "value": "[javascript]No shortcuts available"
+    }
+  ],
+  "eoF+zSJr4t": [
+    {
+      "type": 0,
+      "value": "[javascript]Are you sure you want to delete this chat?"
+    }
+  ],
+  "f00p/7iV78": [
+    {
+      "type": 0,
+      "value": "[javascript]Upload failed"
+    }
+  ],
+  "f9Tg4Tfohh": [
+    {
+      "type": 0,
+      "value": "[javascript]Create your first shortcut or "
+    },
+    {
+      "type": 1,
+      "value": "exploreLink"
+    },
+    {
+      "type": 0,
+      "value": " to get started"
+    }
+  ],
+  "fHClqd2+bS": [
+    {
+      "type": 0,
+      "value": "[javascript]Type / for commands"
+    }
+  ],
+  "fJHdaZIRcd": [
+    {
+      "type": 0,
+      "value": "[javascript]“"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "” is too large. Choose a smaller file."
+    }
+  ],
+  "fOUfZ3Wftl": [
+    {
+      "type": 0,
+      "value": "[javascript]Review "
+    },
+    {
+      "type": 1,
+      "value": "risksLink"
+    },
+    {
+      "type": 0,
+      "value": " before you begin."
+    }
+  ],
+  "fTNSna6r/X": [
+    {
+      "type": 0,
+      "value": "[javascript]File too large"
+    }
+  ],
+  "fcypZmiXOj": [
+    {
+      "type": 0,
+      "value": "[javascript]Switching browser"
+    }
+  ],
+  "fhFmwPnm6J": [
+    {
+      "type": 0,
+      "value": "[javascript]You'll receive notifications when tasks finish"
+    }
+  ],
+  "fio5opLcOZ": [
+    {
+      "type": 0,
+      "value": "[javascript]Output"
+    }
+  ],
+  "fuoi35GbI+": [
+    {
+      "type": 0,
+      "value": "[javascript]Click: \""
+    },
+    {
+      "type": 1,
+      "value": "target"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "fxDu88cBut": [
+    {
+      "type": 0,
+      "value": "[javascript]Permissions for navigating between different domains."
+    }
+  ],
+  "g8ctzHRk8U": [
+    {
+      "type": 0,
+      "value": "[javascript]Executing..."
+    }
+  ],
+  "gAR0atqpRn": [
+    {
+      "type": 0,
+      "value": "[javascript]Working"
+    }
+  ],
+  "gFAHXgACot": [
+    {
+      "type": 0,
+      "value": "[javascript]e.g., 9:30 AM or 14:00"
+    }
+  ],
+  "gHpDMF2yPM": [
+    {
+      "type": 0,
+      "value": "[javascript]Access and work with your connected apps while chatting in the extension"
+    }
+  ],
+  "gRqsbs2s7I": [
+    {
+      "type": 0,
+      "value": "[javascript]Syntax highlighting has been disabled due to code size."
+    }
+  ],
+  "gcaJtRf4b0": [
+    {
+      "type": 0,
+      "value": "[javascript]File not found"
+    }
+  ],
+  "gh/lBJ3ybG": [
+    {
+      "type": 0,
+      "value": "[javascript]Additional information"
+    }
+  ],
+  "gjBiyjshwX": [
+    {
+      "type": 0,
+      "value": "[javascript]Loading..."
+    }
+  ],
+  "gltmHPfviz": [
+    {
+      "type": 0,
+      "value": "[javascript]Your message will exceed the "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "maximum image count"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " for this chat. Try uploading "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " document"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " documents"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " with fewer pages, removing images, "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "or starting a new conversation."
+        }
+      ],
+      "type": 8,
+      "value": "newChatLink"
+    },
+    {
+      "type": 1,
+      "value": "upgradeInstructions"
+    }
+  ],
+  "gtvz8LDd6q": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude can analyze CSVs with the Analysis tool."
+    }
+  ],
+  "gylVBxmE7Z": [
+    {
+      "type": 0,
+      "value": "[javascript]Close image preview"
+    }
+  ],
+  "h/6cMHSn1V": [
+    {
+      "type": 0,
+      "value": "[javascript]Too many file upload attempts. Please wait and try again later."
+    }
+  ],
+  "h7CrEtBxuD": [
+    {
+      "type": 0,
+      "value": "[javascript]Unable to show file in folder."
+    }
+  ],
+  "h7xti1PjS7": [
+    {
+      "type": 0,
+      "value": "[javascript]April"
+    }
+  ],
+  "h9Y5N1xs5X": [
+    {
+      "type": 0,
+      "value": "[javascript]Defamation"
+    }
+  ],
+  "hEM04r/mwh": [
+    {
+      "type": 0,
+      "value": "[javascript]1568px (default)"
+    }
+  ],
+  "hGQqkWwmJD": [
+    {
+      "type": 0,
+      "value": "[javascript]Schedule"
+    }
+  ],
+  "hGdb967wOL": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude landed on a blocked site and can't complete your request."
+    }
+  ],
+  "hItngLUKCl": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude can view the URL of tabs where the panel is open and take screenshots when responding. For privacy, avoid using Claude on sensitive sites like health and dating platforms."
+    }
+  ],
+  "hW8KjZhriV": [
+    {
+      "type": 0,
+      "value": "[javascript]Plan"
+    }
+  ],
+  "hWG9HINm7Y": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "quality"
+    },
+    {
+      "type": 0,
+      "value": "%"
+    }
+  ],
+  "hZDjbuZQlF": [
+    {
+      "type": 0,
+      "value": "[javascript]The side panel reads this data on initialization"
+    }
+  ],
+  "hbWicV9xaa": [
+    {
+      "type": 0,
+      "value": "[javascript]Read page"
+    }
+  ],
+  "hd3haPU1gQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Start from"
+    }
+  ],
+  "heKLO07Qz/": [
+    {
+      "type": 0,
+      "value": "[javascript]Tasks illustration"
+    }
+  ],
+  "hg/DxQvpUn": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude in Chrome requires a paid plan"
+    }
+  ],
+  "hidF6esI2b": [
+    {
+      "type": 0,
+      "value": "[javascript]Enable with "
+    },
+    {
+      "type": 1,
+      "value": "modelName"
+    }
+  ],
+  "hjoV9zJZVT": [
+    {
+      "type": 0,
+      "value": "[javascript]Create new tab"
+    }
+  ],
+  "hjqZygykww": [
+    {
+      "type": 0,
+      "value": "[javascript]Error accessing shared data"
+    }
+  ],
+  "ht0kL7D9jA": [
+    {
+      "type": 0,
+      "value": "[javascript]All messages in the conversation"
+    }
+  ],
+  "htmyA3WAQx": [
+    {
+      "type": 0,
+      "value": "[javascript]Plan approved"
+    }
+  ],
+  "htvX+Z11l+": [
+    {
+      "type": 0,
+      "value": "[javascript]Deny"
+    }
+  ],
+  "huCHmkVjex": [
+    {
+      "type": 0,
+      "value": "[javascript]Steps"
+    }
+  ],
+  "i+imRH5ndN": [
+    {
+      "type": 0,
+      "value": "[javascript]New note..."
+    }
+  ],
+  "i5E6OW65QG": [
+    {
+      "type": 0,
+      "value": "[javascript]Voice narration paused"
+    }
+  ],
+  "iDpNOkVmEn": [
+    {
+      "type": 0,
+      "value": "[javascript]Showing built-in default. Edit and save to use a custom prompt."
+    }
+  ],
+  "iMMX+ZCJ/I": [
+    {
+      "type": 0,
+      "value": "[javascript]Version "
+    },
+    {
+      "type": 1,
+      "value": "versionNum"
+    }
+  ],
+  "iTAs3tpllt": [
+    {
+      "type": 0,
+      "value": "[javascript]Conversation compacted"
+    }
+  ],
+  "iTW/IIP3mS": [
+    {
+      "type": 0,
+      "value": "[javascript]Tab "
+    },
+    {
+      "type": 1,
+      "value": "tabId"
+    }
+  ],
+  "iWKE8shLIt": [
+    {
+      "type": 0,
+      "value": "[javascript]Prompt"
+    }
+  ],
+  "iWwS2NQh2N": [
+    {
+      "type": 0,
+      "value": "[javascript]Load near context limit"
+    }
+  ],
+  "iXNbPfQDIZ": [
+    {
+      "type": 0,
+      "value": "[javascript]Rename"
+    }
+  ],
+  "iZNLJyNrgT": [
+    {
+      "type": 0,
+      "value": "[javascript]Used a skill"
+    }
+  ],
+  "ifBuzEbIz2": [
+    {
+      "type": 0,
+      "value": "[javascript]Screenshot too large"
+    }
+  ],
+  "ihRWxb7Azt": [
+    {
+      "type": 0,
+      "value": "[javascript]Remember my choice for this session"
+    }
+  ],
+  "ipGe+BIJx7": [
+    {
+      "type": 0,
+      "value": "[javascript]Notify me"
+    }
+  ],
+  "iqT0iuZphp": [
+    {
+      "type": 0,
+      "value": "[javascript]Please provide any additional information to help us understand your request."
+    }
+  ],
+  "iqnTWdnwhH": [
+    {
+      "type": 0,
+      "value": "[javascript]platform.claude.com"
+    }
+  ],
+  "ivOuJVNgF2": [
+    {
+      "type": 0,
+      "value": "[javascript]Shield"
+    }
+  ],
+  "j111DEvZ03": [
+    {
+      "type": 0,
+      "value": "[javascript]Clicking the button will reload the extension to apply any pending updates."
+    }
+  ],
+  "j1niUi0cRv": [
+    {
+      "type": 0,
+      "value": "[javascript]Workflow stopped"
+    }
+  ],
+  "j7dxuPbB4O": [
+    {
+      "type": 0,
+      "value": "[javascript]Content is user-generated and unverified."
+    }
+  ],
+  "jCAxc4X6gm": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude connecting to browser and file system"
+    }
+  ],
+  "jM15m5vYxQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Leave empty to use selected model"
+    }
+  ],
+  "jN7b0qJSmv": [
+    {
+      "type": 0,
+      "value": "[javascript]If Claude is open in a tab group, it can access the URL, context and information of all the tabs in that group."
+    }
+  ],
+  "jOuyTp+O9P": [
+    {
+      "type": 0,
+      "value": "[javascript]Change language"
+    }
+  ],
+  "jbEJHKa0PR": [
+    {
+      "type": 0,
+      "value": "[javascript]Click to capture screen or drag to select an area"
+    }
+  ],
+  "jebWZltnsn": [
+    {
+      "type": 0,
+      "value": "[javascript]Chrome settings"
+    }
+  ],
+  "jogSA3tQ8x": [
+    {
+      "type": 0,
+      "value": "[javascript]All (keep every screenshot)"
+    }
+  ],
+  "jvo0vs3nF0": [
+    {
+      "type": 0,
+      "value": "[javascript]Save"
+    }
+  ],
+  "jz5L9A3Vjy": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude can now"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "control your browser"
+    }
+  ],
+  "jzFcrtq+o4": [
+    {
+      "type": 0,
+      "value": "[javascript]Scroll left"
+    }
+  ],
+  "jzcrjmVTFk": [
+    {
+      "type": 0,
+      "value": "[javascript]You need a Claude account to use this artifact"
+    }
+  ],
+  "k4+9F0xUH9": [
+    {
+      "type": 0,
+      "value": "[javascript]Japanese (Shift_JIS)"
+    }
+  ],
+  "k9qHCCLPA5": [
+    {
+      "type": 0,
+      "value": "[javascript]Download file"
+    }
+  ],
+  "kDYzre2KOj": [
+    {
+      "type": 0,
+      "value": "[javascript]Requesting access..."
+    }
+  ],
+  "kDcz4TuVQh": [
+    {
+      "type": 0,
+      "value": "[javascript]Test the newest"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "Claude experience"
+    }
+  ],
+  "kQAf2d9u+x": [
+    {
+      "type": 0,
+      "value": "[javascript]Select"
+    }
+  ],
+  "kQkEmBIQ/m": [
+    {
+      "type": 0,
+      "value": "[javascript]1 (default, latest only)"
+    }
+  ],
+  "kWxPgoo7qQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Your extension version ("
+    },
+    {
+      "type": 1,
+      "value": "currentVersion"
+    },
+    {
+      "type": 0,
+      "value": ") is no longer supported. Please update to version "
+    },
+    {
+      "type": 1,
+      "value": "minSupportedVersion"
+    },
+    {
+      "type": 0,
+      "value": " or later to continue using Claude."
+    }
+  ],
+  "kcb2pY5IsN": [
+    {
+      "type": 0,
+      "value": "[javascript]Artifact reported"
+    }
+  ],
+  "kdrUaXpTqd": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude model version not found."
+    }
+  ],
+  "kgUPo+XHrd": [
+    {
+      "type": 0,
+      "value": "[javascript]Used "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " skills"
+    }
+  ],
+  "kmh/1AmVcl": [
+    {
+      "type": 0,
+      "value": "[javascript]Many requests made. Acknowledge that you’re still here to continue."
+    }
+  ],
+  "krKI1Qy1a5": [
+    {
+      "type": 0,
+      "value": "[javascript]API Base URL"
+    }
+  ],
+  "krgcu80Qe5": [
+    {
+      "type": 0,
+      "value": "[javascript]Thank you for reporting the Artifact. We take these matters seriously and will investigate the issue. Your report helps us maintain the integrity of our platform."
+    }
+  ],
+  "kwxxreL+i3": [
+    {
+      "type": 0,
+      "value": "[javascript]Extract page text"
+    }
+  ],
+  "l+dE/S7JbF": [
+    {
+      "type": 0,
+      "value": "[javascript]Reply to Claude"
+    }
+  ],
+  "lG4VIx4FDG": [
+    {
+      "type": 0,
+      "value": "[javascript]Failed to upload attachment. You can try again."
+    }
+  ],
+  "lINtN6vYsg": [
+    {
+      "type": 0,
+      "value": "[javascript]August"
+    }
+  ],
+  "lMdXZI/U+s": [
+    {
+      "type": 0,
+      "value": "[javascript]Display trace IDs at the beginning of each response stream"
+    }
+  ],
+  "lQnSmhAWv8": [
+    {
+      "type": 0,
+      "value": "[javascript]Type / to use shortcuts or run them on a schedule"
+    }
+  ],
+  "lU28LDdk7g": [
+    {
+      "type": 0,
+      "value": "[javascript]For higher limits, "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "explore our Pro plan"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "lbjPYg5eW9": [
+    {
+      "type": 0,
+      "value": "[javascript]Go through the steps as if you're teaching a new teammate. Claude will learn the process and repeat it for you."
+    }
+  ],
+  "ls2O3RKjqV": [
+    {
+      "type": 0,
+      "value": "[javascript]Missing encoding"
+    }
+  ],
+  "lxblglMBAV": [
+    {
+      "type": 0,
+      "value": "[javascript]Wednesday"
+    }
+  ],
+  "lzq8R0x4iG": [
+    {
+      "type": 0,
+      "value": "[javascript]Load long conversation"
+    }
+  ],
+  "m0+xd2UWTk": [
+    {
+      "type": 0,
+      "value": "[javascript]Invalid login"
+    }
+  ],
+  "mH4wEOlsQs": [
+    {
+      "type": 0,
+      "value": "[javascript]Resize window"
+    }
+  ],
+  "mHmhCARyh8": [
+    {
+      "type": 0,
+      "value": "[javascript]Create Scheduled Task"
+    }
+  ],
+  "mJR06Pgp0X": [
+    {
+      "type": 0,
+      "value": "[javascript]Sunday"
+    }
+  ],
+  "mNqQMp8tgC": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Note:"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " The export will include:"
+    }
+  ],
+  "mREcB0MAuE": [
+    {
+      "type": 0,
+      "value": "[javascript]Opt out of training on this report"
+    }
+  ],
+  "mu83ADAkT4": [
+    {
+      "type": 0,
+      "value": "[javascript]Google Workspace API"
+    }
+  ],
+  "n2uO4zTmwR": [
+    {
+      "type": 0,
+      "value": "[javascript]This link contains an internationalized domain name that may be deceptive. The domain appears as:"
+    }
+  ],
+  "nF7/NB+ws3": [
+    {
+      "type": 0,
+      "value": "[javascript]Name this browser so you can identify it later."
+    }
+  ],
+  "nONnTwYJzw": [
+    {
+      "type": 0,
+      "value": "[javascript]Your email"
+    }
+  ],
+  "nW3gZD88Va": [
+    {
+      "type": 0,
+      "value": "[javascript]You may not upload files larger than "
+    },
+    {
+      "type": 1,
+      "value": "sizeLimit"
+    },
+    {
+      "type": 0,
+      "value": "mb."
+    }
+  ],
+  "nbBDYo5GDn": [
+    {
+      "type": 0,
+      "value": "[javascript]Image Format"
+    }
+  ],
+  "ngIzbjIFxF": [
+    {
+      "type": 0,
+      "value": "[javascript]Delete chat"
+    }
+  ],
+  "ngzzQUJCXB": [
+    {
+      "type": 0,
+      "value": "[javascript]Give negative feedback"
+    }
+  ],
+  "nl5phX6L/e": [
+    {
+      "type": 0,
+      "value": "[javascript]Toggle edit mode"
+    }
+  ],
+  "nmpevlUATU": [
+    {
+      "type": 0,
+      "value": "[javascript]Discard"
+    }
+  ],
+  "npmO1c1YO3": [
+    {
+      "type": 0,
+      "value": "[javascript]Click and drag to select an area, or click once for full page"
+    }
+  ],
+  "nqpr0hOeKE": [
+    {
+      "type": 0,
+      "value": "[javascript]Customizing an Artifact requires a Claude.ai account."
+    }
+  ],
+  "o/G2cAuU9n": [
+    {
+      "type": 0,
+      "value": "[javascript]This PDF was converted to text due to its large size"
+    }
+  ],
+  "o/NOFEuWmE": [
+    {
+      "type": 0,
+      "value": "[javascript]Files of the following "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "format"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "formats"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " require 'Code execution and file creation'. Go to Settings > Capabilities to enable: "
+    },
+    {
+      "type": 1,
+      "value": "formats"
+    }
+  ],
+  "o8XuRD97nP": [
+    {
+      "type": 0,
+      "value": "[javascript]Enable expandable tool result blocks to view parameters and outputs"
+    }
+  ],
+  "oCBOPo+ZDe": [
+    {
+      "type": 0,
+      "value": "[javascript]Shortcuts make it easy to send instructions to Claude. Great for tasks you repeat often! Type / in the chat to find and create shortcuts."
+    }
+  ],
+  "oG042zasXb": [
+    {
+      "type": 0,
+      "value": "[javascript]Error loading test data: "
+    },
+    {
+      "type": 1,
+      "value": "error"
+    }
+  ],
+  "oN0R8lZNm6": [
+    {
+      "type": 0,
+      "value": "[javascript]Please consider starting a new chat."
+    }
+  ],
+  "oNp1waFarV": [
+    {
+      "type": 0,
+      "value": "[javascript]Latin-1 (ISO-8859-1)"
+    }
+  ],
+  "oOkdOmGhII": [
+    {
+      "type": 0,
+      "value": "[javascript]https://example.com"
+    }
+  ],
+  "oTdWIw/nMo": [
+    {
+      "type": 0,
+      "value": "[javascript]Move beyond chat by creating downloadable docs, spreadsheets, and code"
+    }
+  ],
+  "oU4ZCzJVI6": [
+    {
+      "type": 0,
+      "value": "[javascript]Viewed "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " files"
+    }
+  ],
+  "odXlk858Gb": [
+    {
+      "type": 0,
+      "value": "[javascript]Log in"
+    }
+  ],
+  "og1W/bIZdx": [
+    {
+      "type": 0,
+      "value": "[javascript]Please provide details: (optional)"
+    }
+  ],
+  "okKwHjIO0b": [
+    {
+      "type": 0,
+      "value": "[javascript]Pasted content"
+    }
+  ],
+  "omhQimAye8": [
+    {
+      "type": 0,
+      "value": "[javascript]Show system reminders"
+    }
+  ],
+  "opnhVjl2Ux": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude is unable to respond to this request, which appears to violate our "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Usage Policy"
+        }
+      ],
+      "type": 8,
+      "value": "usagePolicyLink"
+    },
+    {
+      "type": 0,
+      "value": ". Please start a new chat."
+    }
+  ],
+  "oqZjDDkxak": [
+    {
+      "type": 0,
+      "value": "[javascript]Take screenshot"
+    }
+  ],
+  "orvpWhO3rI": [
+    {
+      "type": 0,
+      "value": "[javascript]Go back"
+    }
+  ],
+  "ovJ26CKo4Q": [
+    {
+      "type": 0,
+      "value": "[javascript]Medium"
+    }
+  ],
+  "p1P+hQq6tY": [
+    {
+      "type": 0,
+      "value": "[javascript]Request"
+    }
+  ],
+  "p556q3uvbn": [
+    {
+      "type": 0,
+      "value": "[javascript]Copied"
+    }
+  ],
+  "p5wxjR3WJg": [
+    {
+      "type": 0,
+      "value": "[javascript]I understand"
+    }
+  ],
+  "pQKS8jGiWa": [
+    {
+      "type": 0,
+      "value": "[javascript]Failed to upload “"
+    },
+    {
+      "type": 1,
+      "value": "fileName"
+    },
+    {
+      "type": 0,
+      "value": "”. You can try again."
+    }
+  ],
+  "paBpxNk4t8": [
+    {
+      "type": 0,
+      "value": "[javascript]Ignore"
+    }
+  ],
+  "pbB2xqdbta": [
+    {
+      "type": 0,
+      "value": "[javascript]Loaded tools"
+    }
+  ],
+  "pn+jQDsOvh": [
+    {
+      "type": 0,
+      "value": "[javascript]November"
+    }
+  ],
+  "pnrK9Ss/bt": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude is done"
+    }
+  ],
+  "pvtgR26QWY": [
+    {
+      "type": 0,
+      "value": "[javascript]Decline"
+    }
+  ],
+  "q+0F07GZA/": [
+    {
+      "type": 0,
+      "value": "[javascript]explore examples"
+    }
+  ],
+  "q/uwLTb3Zf": [
+    {
+      "type": 0,
+      "value": "[javascript]Stop"
+    }
+  ],
+  "q1BWaIlpbN": [
+    {
+      "type": 0,
+      "value": "[javascript]Cyrillic (Windows-1251)"
+    }
+  ],
+  "qAhUUOIWbF": [
+    {
+      "type": 0,
+      "value": "[javascript]Thursday"
+    }
+  ],
+  "qEqMmrx/MW": [
+    {
+      "type": 0,
+      "value": "[javascript]Your permission is needed to continue"
+    }
+  ],
+  "qTWwGwIHH6": [
+    {
+      "type": 0,
+      "value": "[javascript]Parameters:"
+    }
+  ],
+  "qgGoWr0XYl": [
+    {
+      "type": 0,
+      "value": "[javascript]You must approve any Claude action on this site"
+    }
+  ],
+  "qndjDTg0gE": [
+    {
+      "type": 0,
+      "value": "[javascript]Private/confidential information"
+    }
+  ],
+  "qphPEQ/z5U": [
+    {
+      "type": 0,
+      "value": "[javascript]Korean (EUC-KR)"
+    }
+  ],
+  "qxV00r12ob": [
+    {
+      "type": 0,
+      "value": "[javascript]You can add at most "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " attachment"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " attachments"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " to a message. Please select fewer attachments."
+    }
+  ],
+  "qyJtWyZ0yt": [
+    {
+      "type": 0,
+      "value": "[javascript]Show less"
+    }
+  ],
+  "r2Qwbqbb9d": [
+    {
+      "type": 0,
+      "value": "[javascript]Take this Artifact with you in a new chat with Claude and evolve it with your own unique spin."
+    }
+  ],
+  "r5pj/5J6ic": [
+    {
+      "type": 0,
+      "value": "[javascript]Drag"
+    }
+  ],
+  "rHyMT1rizz": [
+    {
+      "type": 0,
+      "value": "[javascript]Keyboard shortcut"
+    }
+  ],
+  "rKQPgfPvWS": [
+    {
+      "type": 0,
+      "value": "[javascript]More options for "
+    },
+    {
+      "type": 1,
+      "value": "label"
+    }
+  ],
+  "rQ2DY5IToI": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "modelName"
+    },
+    {
+      "type": 0,
+      "value": " is billed as extra usage at a premium rate. Separate rate limits apply."
+    }
+  ],
+  "rQqW2V2Nvh": [
+    {
+      "type": 0,
+      "value": "[javascript]File could not be saved."
+    }
+  ],
+  "rW/kw78ou7": [
+    {
+      "type": 0,
+      "value": "[javascript]Add content ("
+    },
+    {
+      "type": 1,
+      "value": "maxUploads"
+    },
+    {
+      "type": 0,
+      "value": " max, "
+    },
+    {
+      "type": 1,
+      "value": "maxSize"
+    },
+    {
+      "type": 0,
+      "value": "mb each)\\nAccepts pdf, txt, csv, etc."
+    }
+  ],
+  "rWFePRi0Xm": [
+    {
+      "type": 0,
+      "value": "[javascript]Searched memory"
+    }
+  ],
+  "rbG4gZ94o6": [
+    {
+      "type": 0,
+      "value": "[javascript]Failed to rename conversation"
+    }
+  ],
+  "rbrahOGMC3": [
+    {
+      "type": 0,
+      "value": "[javascript]Close"
+    }
+  ],
+  "rdQw3nhjJl": [
+    {
+      "type": 0,
+      "value": "[javascript]Load tool use conversation"
+    }
+  ],
+  "rhSI1/3g21": [
+    {
+      "type": 0,
+      "value": "[javascript]Model"
+    }
+  ],
+  "riw/yc06Nq": [
+    {
+      "type": 0,
+      "value": "[javascript]Beta"
+    }
+  ],
+  "rwoZ8xAmCX": [
+    {
+      "type": 0,
+      "value": "[javascript]Press "
+    },
+    {
+      "type": 1,
+      "value": "key"
+    },
+    {
+      "type": 0,
+      "value": " key"
+    }
+  ],
+  "s3IOQQ+nJU": [
+    {
+      "type": 0,
+      "value": "[javascript]Edit "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "s5uJOAoEr4": [
+    {
+      "type": 0,
+      "value": "[javascript]Click below to get the latest internal build from the Chrome Web Store."
+    }
+  ],
+  "s88ium+h8p": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " result"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " results"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "sB0/cnPXfX": [
+    {
+      "type": 0,
+      "value": "[javascript]Quick mode is experimental"
+    }
+  ],
+  "sDX6Oo6Pj4": [
+    {
+      "type": 0,
+      "value": "[javascript]Use shortcuts to save time"
+    }
+  ],
+  "sHRMIfTKu4": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude’s response was interrupted. This can be caused by network problems or exceeding the maximum conversation length. Please "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "contact support"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " if the issue persists."
+    }
+  ],
+  "sbllSdx3rS": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "HIGH RISK:"
+        }
+      ],
+      "type": 8,
+      "value": "bold"
+    },
+    {
+      "type": 0,
+      "value": " Claude can take most actions on the internet now. This setting could put your data at risk. "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "See safe use tips"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "sl7GM0q/D+": [
+    {
+      "type": 0,
+      "value": "[javascript]None (omit parameter)"
+    }
+  ],
+  "smio7jldoW": [
+    {
+      "type": 0,
+      "value": "[javascript]Describe what you would like to update..."
+    }
+  ],
+  "syL/4bL0LR": [
+    {
+      "type": 0,
+      "value": "[javascript]You're leaving Claude to visit an external link:"
+    }
+  ],
+  "t8LDMCebfq": [
+    {
+      "type": 0,
+      "value": "[javascript]Customize this Artifact"
+    }
+  ],
+  "t8QlFE5KKF": [
+    {
+      "type": 0,
+      "value": "[javascript]January"
+    }
+  ],
+  "tAAqTd9GOn": [
+    {
+      "type": 0,
+      "value": "[javascript]Screenshot is not available on this page"
+    }
+  ],
+  "tEIdSD1dER": [
+    {
+      "type": 0,
+      "value": "[javascript]Edited a notebook"
+    }
+  ],
+  "tFFMkFDBMO": [
+    {
+      "type": 0,
+      "value": "[javascript]Pause"
+    }
+  ],
+  "tI3ocabFQo": [
+    {
+      "type": 0,
+      "value": "[javascript]This connector has known issues"
+    }
+  ],
+  "tKMlOcHz9T": [
+    {
+      "type": 0,
+      "value": "[javascript]Menu"
+    }
+  ],
+  "tL4WC1FPW1": [
+    {
+      "type": 0,
+      "value": "[javascript]Loading more..."
+    }
+  ],
+  "tLmAeX6EIO": [
+    {
+      "type": 0,
+      "value": "[javascript]System prompts and metadata"
+    }
+  ],
+  "tTVI3GQeyu": [
+    {
+      "type": 0,
+      "value": "[javascript]Created a file"
+    }
+  ],
+  "tX+S0cc3I4": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude wants to use:"
+    }
+  ],
+  "tnRDuUFRQw": [
+    {
+      "type": 0,
+      "value": "[javascript]Revoke"
+    }
+  ],
+  "ttaSfve/3w": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude will only use the sites listed. You'll be asked before accessing anything else."
+    }
+  ],
+  "tuJiA0ZNUD": [
+    {
+      "type": 0,
+      "value": "[javascript]Bad response"
+    }
+  ],
+  "txkW56MpkQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Submitting..."
+    }
+  ],
+  "u18BzaOjgu": [
+    {
+      "type": 0,
+      "value": "[javascript]Task completion notifications"
+    }
+  ],
+  "uAw7cJ5rnr": [
+    {
+      "type": 0,
+      "value": "[javascript]Fetching page"
+    }
+  ],
+  "uMZxG9zGvp": [
+    {
+      "type": 0,
+      "value": "[javascript]Western European (Windows-1252)"
+    }
+  ],
+  "uPTRxsratl": [
+    {
+      "type": 0,
+      "value": "[javascript]Message Claude..."
+    }
+  ],
+  "uQDRsYlg+S": [
+    {
+      "type": 0,
+      "value": "[javascript]Later"
+    }
+  ],
+  "uXoBCKm0ys": [
+    {
+      "type": 0,
+      "value": "[javascript]File access was denied."
+    }
+  ],
+  "uYztQwXf/+": [
+    {
+      "type": 0,
+      "value": "[javascript]Domain Transitions"
+    }
+  ],
+  "un14bsOIsH": [
+    {
+      "type": 0,
+      "value": "[javascript]Open chat"
+    }
+  ],
+  "uu/l1k2f+L": [
+    {
+      "type": 0,
+      "value": "[javascript]You’ve reached your weekly limit for thinking messages. Please try again next week."
+    }
+  ],
+  "uyEHx0NjuN": [
+    {
+      "type": 0,
+      "value": "[javascript]Animated GIF with action indicators"
+    }
+  ],
+  "vAKAnIbJ4M": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " step"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " steps"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "vBiQpyXw2X": [
+    {
+      "type": 0,
+      "value": "[javascript]Result:"
+    }
+  ],
+  "vELHSm4csV": [
+    {
+      "type": 0,
+      "value": "[javascript]Sent completion notification"
+    }
+  ],
+  "vJH/bBoB1X": [
+    {
+      "type": 0,
+      "value": "[javascript]Share Conversation"
+    }
+  ],
+  "vJNMTf4kWc": [
+    {
+      "type": 0,
+      "value": "[javascript]API configuration"
+    }
+  ],
+  "vKFHWS4Ycl": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "type": 1,
+      "value": "size"
+    },
+    {
+      "type": 0,
+      "value": " KB"
+    }
+  ],
+  "vKYgXlWdOu": [
+    {
+      "type": 0,
+      "value": "[javascript]Toggle permission mode"
+    }
+  ],
+  "vM9lvLriK9": [
+    {
+      "type": 0,
+      "value": "[javascript]Enable structured API tools for Google Docs, Sheets, Slides, Gmail, and Calendar"
+    }
+  ],
+  "vMUomPyEk+": [
+    {
+      "type": 0,
+      "value": "[javascript]Upload image"
+    }
+  ],
+  "vWBKqpDTBm": [
+    {
+      "type": 0,
+      "value": "[javascript]Loading conversations..."
+    }
+  ],
+  "vYjeaNdXif": [
+    {
+      "type": 0,
+      "value": "[javascript]Trademark infringement"
+    }
+  ],
+  "vjsFq8zg2Y": [
+    {
+      "type": 0,
+      "value": "[javascript]Click through your task to record each step"
+    }
+  ],
+  "vlKhIlKczK": [
+    {
+      "type": 0,
+      "value": "[javascript]Your name"
+    }
+  ],
+  "vwxMsyPVYx": [
+    {
+      "type": 0,
+      "value": "[javascript]file"
+    }
+  ],
+  "vyV1zGTEEH": [
+    {
+      "type": 0,
+      "value": "[javascript]Violence and/or hate speech"
+    }
+  ],
+  "w5LAgMj8xn": [
+    {
+      "type": 0,
+      "value": "[javascript]Create new shortcut"
+    }
+  ],
+  "wEQDC6Wv3/": [
+    {
+      "type": 0,
+      "value": "[javascript]Edit"
+    }
+  ],
+  "wJ41IHBkzE": [
+    {
+      "type": 0,
+      "value": "[javascript]Get notified when tasks complete or need input"
+    }
+  ],
+  "wL7VAE/fRX": [
+    {
+      "type": 0,
+      "value": "[javascript]Actions"
+    }
+  ],
+  "wLZuGWqTtQ": [
+    {
+      "type": 0,
+      "value": "[javascript]Please help us Antfood the latest version of Claude. Your testing accelerates our development."
+    }
+  ],
+  "wQ9MRHcGCI": [
+    {
+      "type": 0,
+      "value": "[javascript]Reload the side panel after loading test data"
+    }
+  ],
+  "wSZR47Y5kj": [
+    {
+      "type": 0,
+      "value": "[javascript]Submit"
+    }
+  ],
+  "wT63jkA9qK": [
+    {
+      "type": 0,
+      "value": "[javascript]Edited a file"
+    }
+  ],
+  "wVu1FLTwAn": [
+    {
+      "type": 0,
+      "value": "[javascript]Let's go"
+    }
+  ],
+  "wWT0iz9SkP": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "View your usage details"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "wYsv4ZHu+B": [
+    {
+      "type": 0,
+      "value": "[javascript]Monthly"
+    }
+  ],
+  "wn15NDyLWm": [
+    {
+      "type": 0,
+      "value": "[javascript]Shortcut added"
+    }
+  ],
+  "wrcoZ2Zo0b": [
+    {
+      "type": 0,
+      "value": "[javascript]Try fixing with Claude"
+    }
+  ],
+  "wvGBF/FvBd": [
+    {
+      "type": 0,
+      "value": "[javascript]"
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " column"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " columns"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "columnCount"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " row"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " rows"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "rowCount"
+    }
+  ],
+  "x0W7xxxEcv": [
+    {
+      "type": 0,
+      "value": "[javascript]Web search"
+    }
+  ],
+  "x0gJoMad7a": [
+    {
+      "type": 0,
+      "value": "[javascript]Double-click"
+    }
+  ],
+  "x5Tz6MZH82": [
+    {
+      "type": 0,
+      "value": "[javascript]Report"
+    }
+  ],
+  "x8JhFG5A3f": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude had to pause"
+    }
+  ],
+  "xBaHKeE0uO": [
+    {
+      "type": 0,
+      "value": "[javascript]June"
+    }
+  ],
+  "xFdRKGza1P": [
+    {
+      "type": 0,
+      "value": "[javascript]Step 2: Remove this extension"
+    }
+  ],
+  "xLpBTyWHMH": [
+    {
+      "type": 0,
+      "value": "[javascript]Computer action: "
+    },
+    {
+      "type": 1,
+      "value": "action"
+    }
+  ],
+  "xUedNbOuGK": [
+    {
+      "type": 0,
+      "value": "[javascript]Share "
+    },
+    {
+      "type": 1,
+      "value": "feedbackType"
+    },
+    {
+      "type": 0,
+      "value": " feedback"
+    }
+  ],
+  "xeH1mSU1MS": [
+    {
+      "type": 0,
+      "value": "[javascript]This mode puts your data and the data of others at risk from malicious code."
+    }
+  ],
+  "xgz5co4oqe": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude paused due to a navigation from "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "fromDomain"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " to "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "toDomain"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    }
+  ],
+  "xsy6u5jY4z": [
+    {
+      "type": 0,
+      "value": "[javascript]Site-level permissions are disabled for this site."
+    }
+  ],
+  "xvBEtpDq86": [
+    {
+      "type": 0,
+      "value": "[javascript]Enter your prompt text..."
+    }
+  ],
+  "y/bmsG8rnv": [
+    {
+      "type": 0,
+      "value": "[javascript]Allow"
+    }
+  ],
+  "y1Z3orIe9Z": [
+    {
+      "type": 0,
+      "value": "[javascript]Language"
+    }
+  ],
+  "y5DX5NCmrm": [
+    {
+      "type": 0,
+      "value": "[javascript]Edited "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " files"
+    }
+  ],
+  "yJAKR0Ngpn": [
+    {
+      "type": 0,
+      "value": "[javascript]Send Message"
+    }
+  ],
+  "yJFWG3mK1I": [
+    {
+      "type": 0,
+      "value": "[javascript]What was satisfying about this response?"
+    }
+  ],
+  "yLeYIHrySb": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude can take on your multi-step work like QA testing, researching sales leads, and data entry across multiple sites. You can focus elsewhere knowing Claude is working in background."
+    }
+  ],
+  "yMbKjuDH/n": [
+    {
+      "type": 0,
+      "value": "[javascript]Zoom"
+    }
+  ],
+  "yPUC8ZWYmE": [
+    {
+      "type": 0,
+      "value": "[javascript]Changing the language will start a new chat."
+    }
+  ],
+  "ya5HK9oB9T": [
+    {
+      "type": 0,
+      "value": "[javascript]Error in Claude completion"
+    }
+  ],
+  "ycIOwbY8b/": [
+    {
+      "type": 0,
+      "value": "[javascript]Ask before acting"
+    }
+  ],
+  "yeVBln6MC+": [
+    {
+      "type": 0,
+      "value": "[javascript]Retry with "
+    },
+    {
+      "type": 1,
+      "value": "fallbackDisplayName"
+    }
+  ],
+  "ymWsV10Pz1": [
+    {
+      "type": 0,
+      "value": "[javascript]Your "
+    },
+    {
+      "type": 1,
+      "value": "resourceType"
+    },
+    {
+      "type": 0,
+      "value": " upload failed. Please try again."
+    }
+  ],
+  "yq8mEk+Hev": [
+    {
+      "type": 0,
+      "value": "[javascript]Voice narration active"
+    }
+  ],
+  "ysZbg4a2QH": [
+    {
+      "type": 0,
+      "value": "[javascript]The text encoding for "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "fileName"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " could not be determined. Choose an encoding and verify with the preview."
+    }
+  ],
+  "yx1UefClU6": [
+    {
+      "type": 0,
+      "value": "[javascript]Display system reminder tags for debugging tab context changes"
+    }
+  ],
+  "z/9/pgDLbi": [
+    {
+      "type": 0,
+      "value": "[javascript]768px"
+    }
+  ],
+  "z7AnVbQ0rh": [
+    {
+      "type": 0,
+      "value": "[javascript]This file type cannot be opened."
+    }
+  ],
+  "z9VjDwhyoe": [
+    {
+      "type": 0,
+      "value": "[javascript]Save as shortcut"
+    }
+  ],
+  "zPbO6HcY5Z": [
+    {
+      "type": 0,
+      "value": "[javascript]Claude will not purchase items, create accounts, or bypass captchas without input. Revoke site permissions in "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "settings"
+        }
+      ],
+      "type": 8,
+      "value": "settingsButton"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "zQipeg7kSl": [
+    {
+      "type": 0,
+      "value": "[javascript]Scroll down"
+    }
+  ],
+  "zU/q1NoIdN": [
+    {
+      "type": 0,
+      "value": "[javascript]Link copied"
+    }
+  ],
+  "zUpHdfwzIp": [
+    {
+      "type": 0,
+      "value": "[javascript]May"
+    }
+  ],
+  "zUqcG2+Ygl": [
+    {
+      "type": 0,
+      "value": "[javascript]Updated todo list"
+    }
+  ],
+  "zVfLRVWxUM": [
+    {
+      "type": 0,
+      "value": "[javascript]Image Quality"
+    }
+  ],
+  "zYPk/n3qmG": [
+    {
+      "type": 0,
+      "value": "[javascript]Chat sessions will appear here"
+    }
+  ],
+  "zZuYUk2GGf": [
+    {
+      "type": 0,
+      "value": "[javascript]untitled"
+    }
+  ],
+  "ze8mOEi4wo": [
+    {
+      "type": 0,
+      "value": "[javascript]Edited "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " notebooks"
+    }
+  ],
+  "zfW5u5DbnY": [
+    {
+      "type": 0,
+      "value": "[javascript]task-name"
+    }
+  ],
+  "zi3F37/OAt": [
+    {
+      "type": 0,
+      "value": "[javascript]Customize System Prompt"
+    }
+  ],
+  "zqQotfDw3h": [
+    {
+      "type": 0,
+      "value": "[javascript]Compacting..."
+    }
+  ],
+  "ztswgLtQRV": [
+    {
+      "type": 0,
+      "value": "[javascript]Select Element"
+    }
+  ],
+  "zxvhnETmn2": [
+    {
+      "type": 0,
+      "value": "[javascript]Daily"
+    }
+  ]
+}

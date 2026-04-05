@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "blockedUrlPatterns": {
+      "title": "Blocked URL patterns",
+      "description": "URL patterns where Claude in Chrome is blocked. Each pattern is matched against the page's hostname and path (e.g. 'example.com/admin'). Use '*' as a wildcard to match any sequence of characters. Patterns are case-insensitive; a leading 'http://', 'https://', or 'www.' is ignored. A bare domain with no path is treated as '<domain>/*'. Example: 'github.com/myorg/*' blocks all pages under that path.",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "forceLoginOrgUUID": {
+      "title": "Force Login Organization UUID",
+      "description": "Restricts which Anthropic organization(s) the extension can be used with. Accepts either a single UUID string or a JSON-encoded array of UUID strings. If the signed-in user's organization is not in this list, the extension shows a blocking page with a log out button.",
+      "type": "string"
+    }
+  }
+}

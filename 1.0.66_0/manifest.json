@@ -1,0 +1,85 @@
+{
+   "action": {
+      "default_title": "Open Claude"
+   },
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "commands": {
+      "toggle-side-panel": {
+         "description": "Toggle Claude side panel",
+         "suggested_key": {
+            "default": "Ctrl+E",
+            "mac": "Command+E"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "assets/content-script.ts-Bwa5rY9t.js" ],
+      "matches": [ "https://claude.ai/*", "https://*.claude.ai/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "assets/accessibility-tree.js-D8KNCIWO.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "assets/agent-visual-indicator.js-Ct7LqXhp.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   }, {
+      "js": [ "assets/claude-panel-injector.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   }, {
+      "js": [ "assets/viewport-override.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start",
+      "world": "MAIN"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'; connect-src 'self' https://api.anthropic.com https://*.anthropic.com wss://api.anthropic.com https://claude.ai https://*.claude.ai https://platform.claude.com https://api.segment.io https://*.segment.com https://*.ingest.us.sentry.io https://api.honeycomb.io https://browser-intake-us5-datadoghq.com wss://bridge.claudeusercontent.com wss://bridge-staging.claudeusercontent.com https://*.claudeusercontent.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:;"
+   },
+   "description": "Claude in Arc — patched for Arc Browser with sidebar panel, Desktop integration and tab grouping",
+   "externally_connectable": {
+      "matches": [ "https://claude.ai/*", "https://*.claude.ai/*" ]
+   },
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjU1XnLPoasGVmZU42K3h6S+sQhkogfcoLPbIcrWH5Oo8QoInBIugkew/7cWaEFySyQrkaEBe1fjeS/rlAqd3r778dKcTvDZcXmj0VVX0Fi1i8tnkarurceGKGdVxfkL7e30nwfgwoPxj3H8OQbsbxFcBWGVtcFekmdpiyaxwz6o4yXIWColfAxh9K2yToOZkoAS5GvgGvTexiCh1gYy++eFdk6C61mcFsyDdoGQtduhGEaX0zZ9uAW1jX4JTPmHV3kEFrZu/WVBl7Obw+Jk/osoHMdmghVNy6SCB8/6mcgmxkP9buPrNUZgYP6n0x5dqEJ2Ecww/lb1Zd4nQf4XGOwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "116",
+   "name": "Claude in Arc v0.2",
+   "options_page": "options.html",
+   "declarative_net_request": {
+      "rule_resources": [
+         {
+            "id": "ruleset_1",
+            "enabled": true,
+            "path": "rules.json"
+         }
+      ]
+   },
+   "permissions": [ "declarativeNetRequest", "sidePanel", "storage", "activeTab", "scripting", "debugger", "tabGroups", "tabs", "alarms", "notifications", "system.display", "webNavigation", "declarativeNetRequestWithHostAccess", "offscreen", "nativeMessaging", "unlimitedStorage", "downloads", "identity" ],
+   "storage": {
+      "managed_schema": "managed_schema.json"
+   },
+   "version": "1.0.66",
+   "version_name": "v0.2",
+   "web_accessible_resources": [ {
+      "matches": [ "https://*.claude.ai/*", "https://claude.ai/*" ],
+      "resources": [ "assets/content-script.ts-Bwa5rY9t.js" ],
+      "use_dynamic_url": false
+   }, {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/accessibility-tree.js-D8KNCIWO.js", "assets/agent-visual-indicator.js-Ct7LqXhp.js" ],
+      "use_dynamic_url": false
+   }, {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "sidepanel.html", "assets/*", "public/*" ]
+   } ]
+}
