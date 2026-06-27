@@ -1,0 +1,1 @@
+const a={HOST_URL:"conwayHostUrl",MODE:"conwayMode",LAST_CONNECTION:"conwayLastConnection",ORG_UUID:"conwayOrgUuid"},n="squares_enabled",o={GET_STATUS:"conwayGetStatus",STATUS_CHANGED:"conwayStatusChanged"};export{a as C,o as a,n as b};

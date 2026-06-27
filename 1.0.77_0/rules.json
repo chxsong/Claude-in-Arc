@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/assets/github.svg"
+      }
+    },
+    "condition": {
+      "urlFilter": "https://claude.ai/images/crochet/chips/github.svg",
+      "resourceTypes": [
+        "image",
+        "xmlhttprequest"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/assets/google-drive.svg"
+      }
+    },
+    "condition": {
+      "urlFilter": "https://claude.ai/images/crochet/chips/google-drive.svg",
+      "resourceTypes": [
+        "image",
+        "xmlhttprequest"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/assets/google-docs.svg"
+      }
+    },
+    "condition": {
+      "urlFilter": "https://claude.ai/images/crochet/chips/google-docs.svg",
+      "resourceTypes": [
+        "image",
+        "xmlhttprequest"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/assets/gmail.svg"
+      }
+    },
+    "condition": {
+      "urlFilter": "https://claude.ai/images/crochet/chips/gmail.svg",
+      "resourceTypes": [
+        "image",
+        "xmlhttprequest"
+      ]
+    }
+  }
+]
