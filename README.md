@@ -1,3 +1,5 @@
+
+
 # Claude in Arc
 
 A deep patching toolkit designed to inject Anthropic's Official Claude Chrome Extension natively into Arc Browser's visual structure.
@@ -14,7 +16,7 @@ Because Arc doesn't officially support Chrome's `chrome.sidePanel` APIs natively
 
 ## Installation
 
-Download the ZIP from [Releases](https://github.com/chxsong/Claude-in-Arc/releases), or download the `1.0.66_0` folder directly from this repository and load it as an unpacked extension.
+Download the ZIP from [Releases](https://github.com/chxsong/Claude-in-Arc/releases), unzip it, or download the `1.0.66_0` folder directly from this repository and load it as an unpacked extension.
 
 ## Uninstallation
 
