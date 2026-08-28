@@ -1,0 +1,8 @@
+# Build artefacts — never commit Anthropic's bundle, it is fetched at build time.
+build/
+dist/
+*.crx
+*.zip
+
+.DS_Store
+__pycache__/
